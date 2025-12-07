@@ -1,0 +1,11 @@
+{
+  "id": "headlines100564",
+  "label_type": "FutureNews",
+  "query": "Look for any references to future events concerning gold.. Can a FutureNews in the gold market be inferred from the news headline? Your response should be either Yes or No.\nText: gold is at an all-time high but not for any rational reason\nAnswer:",
+  "choices": [
+    "Yes",
+    "No"
+  ],
+  "dataset": "TheFinAI/flare-headlines",
+  "split": "test"
+}

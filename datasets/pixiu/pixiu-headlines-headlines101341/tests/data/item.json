@@ -1,0 +1,11 @@
+{
+  "id": "headlines101341",
+  "label_type": "Direction Up",
+  "query": "Look for indications that the price of gold is increasing.. Is the news headline discussing a Direction Up related to gold? Please respond with Yes or No.\nText: how yellen's gamble screwed up gold\nAnswer:",
+  "choices": [
+    "Yes",
+    "No"
+  ],
+  "dataset": "TheFinAI/flare-headlines",
+  "split": "test"
+}

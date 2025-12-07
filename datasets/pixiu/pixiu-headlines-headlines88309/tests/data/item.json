@@ -1,0 +1,11 @@
+{
+  "id": "headlines88309",
+  "label_type": "Direction Up",
+  "query": "Look for indications that the price of gold is increasing.. Is the news headline discussing a Direction Up related to gold? Please respond with Yes or No.\nText: Gold edges lower after best day since April as dollar steadies\nAnswer:",
+  "choices": [
+    "Yes",
+    "No"
+  ],
+  "dataset": "TheFinAI/flare-headlines",
+  "split": "test"
+}

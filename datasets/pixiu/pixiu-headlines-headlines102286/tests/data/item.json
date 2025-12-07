@@ -1,0 +1,11 @@
+{
+  "id": "headlines102286",
+  "label_type": "Direction Up",
+  "query": "Look for indications that the price of gold is increasing.. Is the news headline discussing a Direction Up related to gold? Please respond with Yes or No.\nText: mcx goldm february contract gains\nAnswer:",
+  "choices": [
+    "Yes",
+    "No"
+  ],
+  "dataset": "TheFinAI/flare-headlines",
+  "split": "test"
+}

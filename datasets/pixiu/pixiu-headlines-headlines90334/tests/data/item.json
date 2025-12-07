@@ -1,0 +1,11 @@
+{
+  "id": "headlines90334",
+  "label_type": "Direction Up",
+  "query": "Look for indications that the price of gold is increasing.. Is the news headline discussing a Direction Up related to gold? Please respond with Yes or No.\nText: gold, silver trade lower in morning trade\nAnswer:",
+  "choices": [
+    "Yes",
+    "No"
+  ],
+  "dataset": "TheFinAI/flare-headlines",
+  "split": "test"
+}

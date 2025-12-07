@@ -1,0 +1,11 @@
+{
+  "id": "headlines84436",
+  "label_type": "FutureNews",
+  "query": "Look for any references to future events concerning gold.. In the news headline, can you identify a FutureNews pertaining to gold? Your response should be Yes or No.\nText: Gold futures mark highest settlement since Nov. 10\nAnswer:",
+  "choices": [
+    "Yes",
+    "No"
+  ],
+  "dataset": "TheFinAI/flare-headlines",
+  "split": "test"
+}
