@@ -22,7 +22,7 @@ excess:O
 purchase:O
 price:O
 of:O
-\$:O
+$:O
 25,251:B-EquityMethodInvestmentDifferenceBetweenCarryingAmountAndUnderlyingEquity
 of:O
 these:O
@@ -33,6 +33,7 @@ its:O
 original:O
 basis:O
 .:O" > answer.txt
+
 
 
 

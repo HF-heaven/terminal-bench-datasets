@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "the value of the Company\u2019s closing stock price on the last trading day of the fiscal period in excess of the weighted-average exercise price, multiplied by the number of options outstanding and exercisable"
+EXPECTED_LABEL = "the value of the Company’s closing stock price on the last trading day of the fiscal period in excess of the weighted-average exercise price, multiplied by the number of options outstanding and exercisable"
 ALLOWED_CHOICES = ["the value of the Company’s closing stock price on the last trading day of the fiscal period in excess of the weighted-average exercise price, multiplied by the number of options outstanding and exercisable"]
 PIXIU_ID = "tatqa205"
 LABEL_TYPE = "text answer"

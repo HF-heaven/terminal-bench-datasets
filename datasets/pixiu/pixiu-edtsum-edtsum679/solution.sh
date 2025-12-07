@@ -6,3 +6,4 @@ printf "%s\n" "Global Semiconductor Intellectual Property (IP) Market Analysis &
 
 
 
+

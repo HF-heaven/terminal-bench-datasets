@@ -9,19 +9,19 @@ Entergy:O
 Wholesale:O
 Commodities:O
 incurred:O
-\$:O
+$:O
 19million:O
 in:O
 2020:O
 ,:O
-\$:O
+$:O
 290:B-ImpairmentOfLongLivedAssetsHeldForUse
 million:O
 in:O
 2019:O
 ,:O
 and:O
-\$:O
+$:O
 532:B-ImpairmentOfLongLivedAssetsHeldForUse
 million:O
 in:O
@@ -45,6 +45,7 @@ decisions:O
 and:O
 transactions:O
 .:O" > answer.txt
+
 
 
 

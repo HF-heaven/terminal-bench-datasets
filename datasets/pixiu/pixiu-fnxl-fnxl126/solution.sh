@@ -5,7 +5,7 @@ cd /app
 printf "%s\n" "The:O
 Company:O
 excluded:O
-\$:O
+$:O
 55,900:B-IndefiniteLivedIntangibleAssetsExcludingGoodwill
 of:O
 indefinite:O
@@ -25,6 +25,7 @@ the:O
 table:O
 above:O
 .:O" > answer.txt
+
 
 
 

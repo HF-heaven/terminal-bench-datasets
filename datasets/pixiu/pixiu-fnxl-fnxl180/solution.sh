@@ -9,7 +9,7 @@ pension:O
 settlement:O
 charges:O
 of:O
-\$:O
+$:O
 220:B-DefinedBenefitPlanRecognizedNetGainLossDueToSettlements1
 million:O
 related:O
@@ -25,7 +25,7 @@ and:O
 settlement:O
 charges:O
 of:O
-\$:O
+$:O
 53:B-DefinedBenefitPlanRecognizedNetGainLossDueToSettlements1
 million:O
 related:O
@@ -57,6 +57,7 @@ expense:O
 /:O
 income:O
 .:O" > answer.txt
+
 
 
 

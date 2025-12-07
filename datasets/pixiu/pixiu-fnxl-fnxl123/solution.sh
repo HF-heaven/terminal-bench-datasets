@@ -8,7 +8,7 @@ the:O
 Company:O
 paid:O
 approximately:O
-\$:O
+$:O
 255:B-IncomeTaxesPaid
 million:O
 of:O
@@ -24,6 +24,7 @@ quarter:O
 of:O
 2019:O
 .:O" > answer.txt
+
 
 
 

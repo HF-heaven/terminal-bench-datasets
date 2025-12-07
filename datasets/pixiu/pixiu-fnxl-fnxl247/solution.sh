@@ -10,7 +10,7 @@ a:O
 strike:O
 price:O
 of:O
-\$:O
+$:O
 31.50:B-ClassOfWarrantOrRightExercisePriceOfWarrantsOrRights1
 per:O
 share:O
@@ -36,6 +36,7 @@ April9:O
 2020:O
 ):O
 .:O" > answer.txt
+
 
 
 

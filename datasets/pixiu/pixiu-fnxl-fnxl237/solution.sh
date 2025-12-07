@@ -26,7 +26,7 @@ contingent:O
 consideration:O
 liabilities:O
 of:O
-\$:O
+$:O
 46:B-BusinessCombinationContingentConsiderationLiability
 million:O
 ,:O
@@ -91,6 +91,7 @@ a:O
 minimum:O
 threshold:O
 .:O" > answer.txt
+
 
 
 

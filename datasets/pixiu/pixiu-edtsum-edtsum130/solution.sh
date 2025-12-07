@@ -6,3 +6,4 @@ printf "%s\n" "FLIR INVESTOR ALERT by the Former Attorney General of Louisiana: 
 
 
 
+

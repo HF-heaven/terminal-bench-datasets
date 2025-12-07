@@ -1,7 +1,9 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "2017\n2018\n2019"
+EXPECTED_LABEL = "2017
+2018
+2019"
 ALLOWED_CHOICES = ["2017\n2018\n2019"]
 PIXIU_ID = "tatqa133"
 LABEL_TYPE = "text answer"

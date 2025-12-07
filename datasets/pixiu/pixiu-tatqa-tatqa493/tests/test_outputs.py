@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "The weighted average remaining amortization period for the Company\u2019s customer relationships asset is 14.3 years."
+EXPECTED_LABEL = "The weighted average remaining amortization period for the Company’s customer relationships asset is 14.3 years."
 ALLOWED_CHOICES = ["The weighted average remaining amortization period for the Company’s customer relationships asset is 14.3 years."]
 PIXIU_ID = "tatqa493"
 LABEL_TYPE = "text answer"

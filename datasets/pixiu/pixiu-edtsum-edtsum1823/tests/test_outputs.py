@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "Waterloo Sparkling Water Introduces Pineapple at 'Loo Community Request New tropical flavor embodies \"warm sunshine,\" unmatched true-to-fruit experience"
+EXPECTED_LABEL = "Waterloo Sparkling Water Introduces Pineapple at 'Loo Community Request New tropical flavor embodies "warm sunshine," unmatched true-to-fruit experience"
 ALLOWED_CHOICES = ["Waterloo Sparkling Water Introduces Pineapple at 'Loo Community Request New tropical flavor embodies \"warm sunshine,\" unmatched true-to-fruit experience"]
 PIXIU_ID = "edtsum1823"
 LABEL_TYPE = "abstractive summary"

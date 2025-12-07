@@ -22,13 +22,13 @@ Fiscal:O
 2019:O
 we:O
 incurred:O
-\$:O
+$:O
 87:B-RestructuringAndRelatedCostIncurredCost
 ,:O
-\$:O
+$:O
 62:B-RestructuringAndRelatedCostIncurredCost
 and:O
-\$:O
+$:O
 24:B-RestructuringAndRelatedCostIncurredCost
 respectively:O
 ,:O
@@ -47,6 +47,7 @@ employee:O
 related:O
 costs:O
 .:O" > answer.txt
+
 
 
 

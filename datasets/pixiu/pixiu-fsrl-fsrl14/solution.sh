@@ -21,7 +21,7 @@ March:I-TIME
 Maxwell:B-AGENT
 Communication:I-AGENT
 bought:B-QUANT
-\$:B-VALUE
+$:B-VALUE
 3.85:I-VALUE
 billion:I-VALUE
 in:O
@@ -37,13 +37,14 @@ Guides:O
 --:O
 and:O
 sold:B-QUANT
-\$:B-VALUE
+$:B-VALUE
 2:I-VALUE
 billion:I-VALUE
 in:O
 non-strategic:B-QUANT
 businesses:I-QUANT
 .:O" > answer.txt
+
 
 
 

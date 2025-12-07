@@ -6,3 +6,4 @@ printf "%s\n" "Rigel Reports Fourth Quarter and Full Year 2020 Financial Results
 
 
 
+

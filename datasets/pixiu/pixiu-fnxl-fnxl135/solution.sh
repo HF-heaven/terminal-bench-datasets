@@ -11,10 +11,11 @@ postretirement:O
 benefit:O
 costs:O
 ,:O
-\$:O
+$:O
 732:B-OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansTax
 tax:O
 effect:O" > answer.txt
+
 
 
 

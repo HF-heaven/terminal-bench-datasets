@@ -10,7 +10,7 @@ total:O
 pretax:O
 expenses:O
 of:O
-\$:O
+$:O
 3,929:B-RestructuringAndRelatedCostCostIncurredToDate1
 million:O
 related:O
@@ -24,6 +24,7 @@ since:O
 it:O
 commenced:O
 .:O" > answer.txt
+
 
 
 

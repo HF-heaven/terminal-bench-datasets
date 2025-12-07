@@ -6,3 +6,4 @@ printf "%s\n" "1847 Goedeker Inc. Announces Proposed Public Offering of Common S
 
 
 
+

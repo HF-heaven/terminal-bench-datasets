@@ -8,15 +8,15 @@ of:O
 intangible:O
 assets:O
 was:O
-\$:O
+$:O
 15:O
 million:O
 ,:O
-\$:O
+$:O
 17:O
 million:O
 and:O
-\$:O
+$:O
 13:B-FiniteLivedIntangibleAssetsAmortizationExpenseYearThree
 million:O
 for:O
@@ -33,6 +33,7 @@ and:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

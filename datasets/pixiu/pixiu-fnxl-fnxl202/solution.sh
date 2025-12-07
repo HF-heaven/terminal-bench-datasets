@@ -15,7 +15,7 @@ asset:O
 impairment:O
 charges:O
 of:O
-\$:O
+$:O
 29.0:B-ImpairmentOfIntangibleAssetsIndefinitelivedExcludingGoodwill
 million:O
 related:O
@@ -29,7 +29,7 @@ BioAxone:O
 in:O
 2014:O
 and:O
-\$:O
+$:O
 255.3:B-ImpairmentOfIntangibleAssetsIndefinitelivedExcludingGoodwill
 million:O
 related:O
@@ -42,6 +42,7 @@ platform:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

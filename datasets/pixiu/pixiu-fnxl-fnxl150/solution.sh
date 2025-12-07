@@ -17,18 +17,19 @@ during:O
 and:O
 2018:O
 were:O
-\$:O
+$:O
 9,212:B-IncomeLossFromContinuingOperationsBeforeIncomeTaxesForeign
 ,:O
-\$:O
+$:O
 2,736:B-IncomeLossFromContinuingOperationsBeforeIncomeTaxesForeign
 ,:O
 and:O
-\$:O
+$:O
 4,945:B-IncomeLossFromContinuingOperationsBeforeIncomeTaxesForeign
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

@@ -6,3 +6,4 @@ printf "%s\n" "Bryant University Provost announces academic innovator Veronica M
 
 
 
+

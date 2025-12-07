@@ -1,7 +1,8 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "Earnings before taxes EBT\nIncome taxes"
+EXPECTED_LABEL = "Earnings before taxes EBT
+Income taxes"
 ALLOWED_CHOICES = ["Earnings before taxes EBT\nIncome taxes"]
 PIXIU_ID = "tatqa398"
 LABEL_TYPE = "text answer"

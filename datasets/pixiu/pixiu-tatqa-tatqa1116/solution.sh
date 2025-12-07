@@ -6,3 +6,4 @@ printf "%s\n" "distribution of the Company’s sales" > answer.txt
 
 
 
+

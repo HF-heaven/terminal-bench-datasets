@@ -13,13 +13,13 @@ and:O
 Aptiv:O
 has:O
 recorded:O
-\$:O
+$:O
 99:B-CapitalizedContractCostNet
 million:O
 (:O
 of:O
 which:O
-\$:O
+$:O
 20:B-CapitalizedContractCostNet
 million:O
 was:O
@@ -29,7 +29,7 @@ other:O
 current:O
 assets:O
 and:O
-\$:O
+$:O
 79:B-CapitalizedContractCostNet
 million:O
 was:O
@@ -42,13 +42,13 @@ term:O
 assets:O
 ):O
 and:O
-\$:O
+$:O
 72:B-CapitalizedContractCostNet
 million:O
 (:O
 of:O
 which:O
-\$:O
+$:O
 8:B-CapitalizedContractCostNet
 million:O
 was:O
@@ -58,7 +58,7 @@ other:O
 current:O
 assets:O
 and:O
-\$:O
+$:O
 64:B-CapitalizedContractCostNet
 million:O
 was:O
@@ -80,6 +80,7 @@ capitalized:O
 upfront:O
 fees:O
 .:O" > answer.txt
+
 
 
 

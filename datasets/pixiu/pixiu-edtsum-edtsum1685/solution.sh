@@ -6,3 +6,4 @@ printf "%s\n" "SDLP - Seadrill Partners LLC 2020 AGM Results Notification" > ans
 
 
 
+

@@ -6,3 +6,4 @@ printf "%s\n" "the value of the Company’s closing stock price on the last trad
 
 
 
+

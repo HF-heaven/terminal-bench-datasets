@@ -3,7 +3,7 @@ set -euo pipefail
 
 cd /app
 printf "%s\n" "The:O
-\$:B-VALUE
+$:B-VALUE
 472:I-VALUE
 million:I-VALUE
 of:O
@@ -16,7 +16,7 @@ Hugo:B-CAUSE
 and:O
 an:O
 additional:O
-\$:B-VALUE
+$:B-VALUE
 300:I-VALUE
 million:I-VALUE
 from:O
@@ -31,13 +31,14 @@ of:O
 State:O
 Farm:O
 's:O
-\$:O
+$:O
 16.7:O
 billion:O
 total:O
 net:O
 worth:O
 .:O" > answer.txt
+
 
 
 

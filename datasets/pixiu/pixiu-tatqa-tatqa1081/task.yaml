@@ -5,7 +5,8 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: tatqa1081
     • Task type: text answer
-    • Allowed labels: Derivative financial instruments | Deferred tax
+    • Allowed labels: Derivative financial instruments
+Deferred tax
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

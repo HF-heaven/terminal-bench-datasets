@@ -34,9 +34,10 @@ retained:O
 earnings:O
 of:O
 approximately:O
-\$:O
+$:O
 7,000:B-CumulativeEffectOfNewAccountingPrincipleInPeriodOfAdoption
 .:O" > answer.txt
+
 
 
 

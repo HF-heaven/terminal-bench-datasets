@@ -12,13 +12,14 @@ for:O
 doubtful:O
 accounts:O
 of:O
-\$:O
+$:O
 2.9:B-AllowanceForDoubtfulAccountsReceivable
 and:O
-\$:O
+$:O
 2.4:B-AllowanceForDoubtfulAccountsReceivable
 ,:O
 respectively:O" > answer.txt
+
 
 
 

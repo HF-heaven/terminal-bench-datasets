@@ -6,3 +6,4 @@ printf "%s\n" "dividing net loss by the weighted-average number of ordinary shar
 
 
 
+

@@ -3,5 +3,5 @@ set -euo pipefail
 
 cd /app
 cat > answer.txt << 'EOF'
-PeopleSoft ; JD Edwards ; subsidiary
+{expected_answer}
 EOF

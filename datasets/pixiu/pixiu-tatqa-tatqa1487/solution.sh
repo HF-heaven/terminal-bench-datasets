@@ -6,3 +6,4 @@ printf "%s\n" "driven by the liquefied natural gas and upstream markets" > answe
 
 
 
+

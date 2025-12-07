@@ -25,14 +25,14 @@ income:O
 and:O
 totaled:O
 approximately:O
-\$:O
+$:O
 301,900:B-CostOfGoodsAndServicesSold
 ,:O
-\$:O
+$:O
 303,900:B-CostOfGoodsAndServicesSold
 ,:O
 and:O
-\$:O
+$:O
 278,500:B-CostOfGoodsAndServicesSold
 ,:O
 for:O
@@ -50,6 +50,7 @@ and:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

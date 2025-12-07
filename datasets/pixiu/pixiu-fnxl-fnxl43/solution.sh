@@ -7,7 +7,7 @@ charges:O
 of:O
 less:O
 than:O
-\$:O
+$:O
 20:B-RestructuringAndRelatedCostExpectedCost1
 million:O
 are:O
@@ -28,6 +28,7 @@ to:O
 exit:O
 operations:O
 .:O" > answer.txt
+
 
 
 

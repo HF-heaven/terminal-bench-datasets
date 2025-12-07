@@ -20,18 +20,19 @@ foreign:O
 currency:O
 losses:O
 were:O
-\$:O
+$:O
 24:B-ForeignCurrencyTransactionGainLossRealized
 million:O
 ,:O
-\$:O
+$:O
 32:B-ForeignCurrencyTransactionGainLossRealized
 million:O
 and:O
-\$:O
+$:O
 54:B-ForeignCurrencyTransactionGainLossRealized
 million:O
 .:O" > answer.txt
+
 
 
 

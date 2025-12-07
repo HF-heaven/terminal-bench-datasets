@@ -31,16 +31,17 @@ tax:O
 returns:O
 was:O
 approximately:O
-\$:O
+$:O
 12.8:B-IncomeTaxExaminationPenaltiesAndInterestAccrued
 million:O
 and:O
-\$:O
+$:O
 12.6:B-IncomeTaxExaminationPenaltiesAndInterestAccrued
 million:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

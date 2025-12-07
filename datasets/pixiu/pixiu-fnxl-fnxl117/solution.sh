@@ -11,7 +11,7 @@ adjustment:O
 to:O
 expense:O
 of:O
-\$:O
+$:O
 198:B-DerivativeGainLossOnDerivativeNet
 for:O
 the:O
@@ -28,10 +28,10 @@ adjustments:O
 to:O
 income:O
 of:O
-\$:O
+$:O
 8,485:B-DerivativeGainLossOnDerivativeNet
 and:O
-\$:O
+$:O
 1,638:B-DerivativeGainLossOnDerivativeNet
 for:O
 the:O
@@ -76,6 +76,7 @@ statements:O
 of:O
 income:O
 .:O" > answer.txt
+
 
 
 

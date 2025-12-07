@@ -22,10 +22,10 @@ of:O
 urban:O
 households:O
 spending:O
-HK\$:O
+HK$:O
 10,000:O
 and:O
-HK\$:O
+HK$:O
 24,999:O
 a:O
 month:O
@@ -45,6 +45,7 @@ up:B-MANNER
 from:O
 August:B-REF_TIME
 .:O" > answer.txt
+
 
 
 

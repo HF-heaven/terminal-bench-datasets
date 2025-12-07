@@ -15,10 +15,11 @@ December31:O
 ,:O
 2019:O
 was:O
-\$:O
+$:O
 67.0:B-SharebasedCompensationArrangementBySharebasedPaymentAwardEquityInstrumentsOtherThanOptionsAggregateIntrinsicValueVested
 million:O
 .:O" > answer.txt
+
 
 
 

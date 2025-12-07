@@ -5,7 +5,8 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: tatqa18
     • Task type: text answer
-    • Allowed labels: Defined contribution schemes | Defined benefit schemes
+    • Allowed labels: Defined contribution schemes
+Defined benefit schemes
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

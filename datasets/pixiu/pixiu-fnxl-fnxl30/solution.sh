@@ -8,13 +8,13 @@ and:O
 marketing:O
 expense:O
 was:O
-\$:O
+$:O
 467:B-MarketingAndAdvertisingExpense
 ,:O
-\$:O
+$:O
 385:B-MarketingAndAdvertisingExpense
 and:O
-\$:O
+$:O
 338:B-MarketingAndAdvertisingExpense
 for:O
 the:O
@@ -30,6 +30,7 @@ and:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

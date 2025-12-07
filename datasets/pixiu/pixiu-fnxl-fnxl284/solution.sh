@@ -12,15 +12,15 @@ RSUs:O
 that:O
 vested:O
 was:O
-\$:O
+$:O
 159.0:B-SharebasedCompensationArrangementBySharebasedPaymentAwardEquityInstrumentsOtherThanOptionsAggregateIntrinsicValueVested
 million:O
 ,:O
-\$:O
+$:O
 91.2:B-SharebasedCompensationArrangementBySharebasedPaymentAwardEquityInstrumentsOtherThanOptionsAggregateIntrinsicValueVested
 million:O
 and:O
-\$:O
+$:O
 70.7:B-SharebasedCompensationArrangementBySharebasedPaymentAwardEquityInstrumentsOtherThanOptionsAggregateIntrinsicValueVested
 million:O
 during:O
@@ -41,6 +41,7 @@ date:O
 of:O
 vesting:O
 .:O" > answer.txt
+
 
 
 

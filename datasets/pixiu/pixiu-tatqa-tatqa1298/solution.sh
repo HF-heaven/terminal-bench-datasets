@@ -6,3 +6,4 @@ printf "%s\n" "19,144.17" > answer.txt
 
 
 
+

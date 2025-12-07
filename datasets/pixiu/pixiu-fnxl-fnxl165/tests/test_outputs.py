@@ -1,7 +1,19 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "Operating:O\nlease:O\ncosts:O\nfor:O\nthe:O\nyear:O\nended:O\n2019:O\ntotaled:O\n$:O\n14.0:B-OperatingLeaseCost\nmillion:O\n.:O"
+EXPECTED_LABEL = "Operating:O
+lease:O
+costs:O
+for:O
+the:O
+year:O
+ended:O
+2019:O
+totaled:O
+$:O
+14.0:B-OperatingLeaseCost
+million:O
+.:O"
 ALLOWED_CHOICES = ["Operating:O\nlease:O\ncosts:O\nfor:O\nthe:O\nyear:O\nended:O\n2019:O\ntotaled:O\n$:O\n14.0:B-OperatingLeaseCost\nmillion:O\n.:O"]
 PIXIU_ID = "fnxl165"
 LABEL_TYPE = "token labels"

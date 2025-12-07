@@ -10,11 +10,11 @@ December:O
 and:O
 2019:O
 ,:O
-\$:O
+$:O
 83.0:B-CashAndCashEquivalentsAtCarryingValue
 million:O
 and:O
-\$:O
+$:O
 22.1:B-CashAndCashEquivalentsAtCarryingValue
 million:O
 of:O
@@ -44,6 +44,7 @@ Consolidated:O
 Balance:O
 Sheets:O
 .:O" > answer.txt
+
 
 
 

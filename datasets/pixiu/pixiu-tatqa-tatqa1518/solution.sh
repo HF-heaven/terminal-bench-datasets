@@ -2,7 +2,8 @@
 set -euo pipefail
 
 cd /app
-printf "%s\n" "\$ 93,662" > answer.txt
+printf "%s\n" "$ 93,662" > answer.txt
+
 
 
 

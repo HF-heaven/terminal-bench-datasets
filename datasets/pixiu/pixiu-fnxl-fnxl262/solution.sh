@@ -18,10 +18,11 @@ United:O
 investment:O
 was:O
 approximately:O
-\$:O
+$:O
 9:B-EquitySecuritiesWithoutReadilyDeterminableFairValueAmount
 million:O
 .:O" > answer.txt
+
 
 
 

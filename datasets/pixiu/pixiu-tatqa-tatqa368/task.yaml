@@ -5,7 +5,8 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: tatqa368
     • Task type: text answer
-    • Allowed labels: At beginning of the period | Additions
+    • Allowed labels: At beginning of the period
+Additions
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

@@ -8,11 +8,11 @@ printf "%s\n" "(:O
 Accumulated:O
 amortization:O
 was:O
-\$:O
+$:O
 1.8:B-FiniteLivedIntangibleAssetsAccumulatedAmortization
 million:O
 and:O
-\$:O
+$:O
 1.6:B-FiniteLivedIntangibleAssetsAccumulatedAmortization
 million:O
 as:O
@@ -26,6 +26,7 @@ June30:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

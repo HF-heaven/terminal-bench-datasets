@@ -11,7 +11,7 @@ elected:O
 to:O
 draw:O
 down:O
-\$:O
+$:O
 1.0:B-ProceedsFromLinesOfCredit
 billion:O
 from:O
@@ -29,7 +29,7 @@ drew:O
 down:O
 an:O
 additional:O
-\$:O
+$:O
 1.0billion:O
 ,:O
 to:O
@@ -64,6 +64,7 @@ the:O
 COVID-19:O
 pandemic:O
 .:O" > answer.txt
+
 
 
 

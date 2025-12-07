@@ -14,12 +14,12 @@ total:O
 reserve:O
 balance:O
 was:O
-\$:O
+$:O
 151:B-RestructuringReserve
 million:O
 of:O
 which:O
-\$:O
+$:O
 99:B-RestructuringReserve
 million:O
 was:O
@@ -29,7 +29,7 @@ Other:O
 accrued:O
 liabilities:O
 and:O
-\$:O
+$:O
 52:B-RestructuringReserve
 million:O
 was:O
@@ -41,6 +41,7 @@ non:O
 current:O
 liabilities:O
 .:O" > answer.txt
+
 
 
 

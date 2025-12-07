@@ -5,7 +5,20 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: fnxl76
     • Task type: token labels
-    • Allowed labels: Other:O | intangible:O | assets:O | ,:O | net:O | of:O | accumulated:O | amortization:O | of:O | $:O | 517,574:B-FiniteLivedIntangibleAssetsAccumulatedAmortization | and:O | $:O | 437,886:B-FiniteLivedIntangibleAssetsAccumulatedAmortization
+    • Allowed labels: Other:O
+intangible:O
+assets:O
+,:O
+net:O
+of:O
+accumulated:O
+amortization:O
+of:O
+$:O
+517,574:B-FiniteLivedIntangibleAssetsAccumulatedAmortization
+and:O
+$:O
+437,886:B-FiniteLivedIntangibleAssetsAccumulatedAmortization
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

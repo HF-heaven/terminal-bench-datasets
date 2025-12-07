@@ -19,10 +19,11 @@ our:O
 common:O
 stock:O
 for:O
-\$:O
+$:O
 73.9:B-StockRepurchasedAndRetiredDuringPeriodValue
 million:O
 .:O" > answer.txt
+
 
 
 

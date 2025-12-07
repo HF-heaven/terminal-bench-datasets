@@ -6,3 +6,4 @@ printf "%s\n" "The Company reports intangible impairment charges within the Asse
 
 
 
+

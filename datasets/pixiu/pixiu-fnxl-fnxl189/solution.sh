@@ -5,7 +5,7 @@ cd /app
 printf "%s\n" "If:O
 unused:O
 ,:O
-\$:O
+$:O
 42.1:B-DeferredTaxAssetsOperatingLossCarryforwardsSubjectToExpiration
 million:O
 will:O
@@ -15,6 +15,7 @@ between:O
 and:O
 2040:O
 .:O" > answer.txt
+
 
 
 

@@ -30,7 +30,7 @@ decrease:O
 as:O
 much:O
 as:O
-\$:O
+$:O
 4:B-DecreaseInUnrecognizedTaxBenefitsIsReasonablyPossible
 million:O
 during:O
@@ -59,6 +59,7 @@ recognition:O
 in:O
 earnings:O
 .:O" > answer.txt
+
 
 
 

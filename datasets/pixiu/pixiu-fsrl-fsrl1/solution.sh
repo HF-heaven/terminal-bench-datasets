@@ -18,23 +18,23 @@ fell:O
 14:O
 %:O
 to:O
-\$:B-VALUE
+$:B-VALUE
 390:I-VALUE
 million:I-VALUE
 ,:O
 or:O
-\$:B-VALUE
+$:B-VALUE
 3.85:I-VALUE
 a:I-VALUE
 share:I-VALUE
 ,:O
 from:O
-\$:B-VALUE
+$:B-VALUE
 453:I-VALUE
 million:I-VALUE
 ,:O
 or:O
-\$:B-VALUE
+$:B-VALUE
 4.46:I-VALUE
 a:I-VALUE
 share:I-VALUE
@@ -43,6 +43,7 @@ a:B-TIME
 year:I-TIME
 earlier:I-TIME
 .:O" > answer.txt
+
 
 
 

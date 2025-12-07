@@ -6,3 +6,4 @@ printf "%s\n" "Spectral releases open source tool to help developers keep secret
 
 
 
+

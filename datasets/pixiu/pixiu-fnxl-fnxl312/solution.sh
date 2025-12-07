@@ -29,11 +29,11 @@ termination:O
 costs:O
 of:O
 approximately:O
-\$:O
+$:O
 200:B-RestructuringAndRelatedCostExpectedCost1
 million:O
 to:O
-\$:O
+$:O
 250:B-RestructuringAndRelatedCostExpectedCost1
 million:O
 ,:O
@@ -59,6 +59,7 @@ of:O
 cash:O
 expenditures:O
 .:O" > answer.txt
+
 
 
 

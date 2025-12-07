@@ -21,7 +21,7 @@ our:O
 common:O
 stock:O
 for:O
-\$:O
+$:O
 25.0:B-StockRepurchasedAndRetiredDuringPeriodValue
 million:O
 and:O
@@ -33,7 +33,7 @@ our:O
 common:O
 stock:O
 for:O
-\$:O
+$:O
 120.0:B-StockRepurchasedAndRetiredDuringPeriodValue
 million:O
 ,:O
@@ -44,6 +44,7 @@ this:O
 current:O
 authorization:O
 .:O" > answer.txt
+
 
 
 

@@ -6,3 +6,4 @@ printf "%s\n" "Single Family Offices in EMEA Database 2020: Detailed Profiles of
 
 
 
+

@@ -12,13 +12,14 @@ these:O
 tax:O
 holidays:O
 approximated:O
-\$:O
+$:O
 0.1:B-IncomeTaxHolidayAggregateDollarAmount
 million:O
 in:O
 fiscal:O
 2019:O
 .:O" > answer.txt
+
 
 
 

@@ -14,15 +14,15 @@ refunds:O
 ):O
 of:O
 approximately:O
-\$:O
+$:O
 124:B-IncomeTaxesPaidNet
 million:O
 ,:O
-\$:O
+$:O
 31:B-IncomeTaxesPaidNet
 million:O
 and:O
-\$:O
+$:O
 210:B-IncomeTaxesPaidNet
 million:O
 for:O
@@ -35,6 +35,7 @@ and:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

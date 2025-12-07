@@ -45,11 +45,12 @@ a:O
 price:O
 of:O
 approximately:O
-\$:O
+$:O
 109.26:B-ClassOfWarrantOrRightExercisePriceOfWarrantsOrRights1
 per:O
 share:O
 .:O" > answer.txt
+
 
 
 

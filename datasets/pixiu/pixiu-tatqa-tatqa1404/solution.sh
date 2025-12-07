@@ -6,3 +6,4 @@ printf "%s\n" "in thousands" > answer.txt
 
 
 
+

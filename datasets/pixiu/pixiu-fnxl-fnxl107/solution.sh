@@ -5,7 +5,7 @@ cd /app
 printf "%s\n" "There:O
 was:O
 a:O
-\$:O
+$:O
 115:B-GoodwillAcquiredDuringPeriod
 million:O
 addition:O
@@ -36,6 +36,7 @@ the:O
 TCA:O
 acquisition:O
 .:O" > answer.txt
+
 
 
 

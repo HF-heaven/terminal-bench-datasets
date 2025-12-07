@@ -7,7 +7,7 @@ and:O
 2018:O
 both:O
 include:O
-\$:O
+$:O
 185:B-IndefiniteLivedIntangibleAssetsExcludingGoodwill
 million:O
 within:O
@@ -20,6 +20,7 @@ the:O
 SNL:O
 tradename:O
 .:O" > answer.txt
+
 
 
 

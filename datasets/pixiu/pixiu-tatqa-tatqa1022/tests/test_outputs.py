@@ -1,7 +1,9 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "Property, plant and equipment, primarily due to depreciation differences\nGoodwill and other intangible assets\nOther"
+EXPECTED_LABEL = "Property, plant and equipment, primarily due to depreciation differences
+Goodwill and other intangible assets
+Other"
 ALLOWED_CHOICES = ["Property, plant and equipment, primarily due to depreciation differences\nGoodwill and other intangible assets\nOther"]
 PIXIU_ID = "tatqa1022"
 LABEL_TYPE = "text answer"

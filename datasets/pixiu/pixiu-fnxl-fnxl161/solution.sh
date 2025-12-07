@@ -8,15 +8,15 @@ accrued:O
 interest:O
 was:O
 approximately:O
-\$:O
+$:O
 252million:O
 ,:O
-\$:O
+$:O
 205:B-UnrecognizedTaxBenefitsInterestOnIncomeTaxesAccrued
 million:O
 ,:O
 and:O
-\$:O
+$:O
 181:B-UnrecognizedTaxBenefitsInterestOnIncomeTaxesAccrued
 million:O
 (:O
@@ -36,6 +36,7 @@ and:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

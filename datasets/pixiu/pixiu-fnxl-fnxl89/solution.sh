@@ -18,10 +18,11 @@ the:O
 contingent:O
 consideration:O
 was:O
-\$:O
+$:O
 1.1:B-BusinessCombinationContingentConsiderationLiability
 million:O
 .:O" > answer.txt
+
 
 
 

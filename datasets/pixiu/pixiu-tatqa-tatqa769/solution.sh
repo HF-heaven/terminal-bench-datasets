@@ -6,3 +6,4 @@ printf "%s\n" "if the carrying value of the cash-generating unit to which it rel
 
 
 
+

@@ -15,15 +15,15 @@ deferred:O
 compensation:O
 plans:O
 was:O
-\$:O
+$:O
 0.6:B-DeferredCompensationArrangementWithIndividualCompensationExpense
 million:O
 ,:O
-\$:O
+$:O
 1.7:B-DeferredCompensationArrangementWithIndividualCompensationExpense
 million:O
 and:O
-\$:O
+$:O
 0.4:B-DeferredCompensationArrangementWithIndividualCompensationExpense
 million:O
 in:O
@@ -35,6 +35,7 @@ and:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

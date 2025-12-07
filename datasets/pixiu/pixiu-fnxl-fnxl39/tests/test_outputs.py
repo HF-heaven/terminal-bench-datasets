@@ -1,7 +1,23 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "Unrecognized:O\nnet:O\nactuarial:O\nloss:O\n(:O\nnet:O\nof:O\ntaxes:O\nof:O\n$:O\n24:B-OtherComprehensiveIncomeLossBeforeReclassificationsTax\nand:O\n$:O\n88:B-OtherComprehensiveIncomeLossBeforeReclassificationsTax\n,:O\nrespectively:O\n):O"
+EXPECTED_LABEL = "Unrecognized:O
+net:O
+actuarial:O
+loss:O
+(:O
+net:O
+of:O
+taxes:O
+of:O
+$:O
+24:B-OtherComprehensiveIncomeLossBeforeReclassificationsTax
+and:O
+$:O
+88:B-OtherComprehensiveIncomeLossBeforeReclassificationsTax
+,:O
+respectively:O
+):O"
 ALLOWED_CHOICES = ["Unrecognized:O\nnet:O\nactuarial:O\nloss:O\n(:O\nnet:O\nof:O\ntaxes:O\nof:O\n$:O\n24:B-OtherComprehensiveIncomeLossBeforeReclassificationsTax\nand:O\n$:O\n88:B-OtherComprehensiveIncomeLossBeforeReclassificationsTax\n,:O\nrespectively:O\n):O"]
 PIXIU_ID = "fnxl39"
 LABEL_TYPE = "token labels"

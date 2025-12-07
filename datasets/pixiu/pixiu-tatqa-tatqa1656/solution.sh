@@ -6,3 +6,4 @@ printf "%s\n" "cost of sales and in operating expenses" > answer.txt
 
 
 
+

@@ -9,7 +9,7 @@ the:O
 effect:O
 of:O
 an:O
-\$:O
+$:O
 81:B-ImpairmentOfLongLivedAssetsHeldForUse
 million:O
 pre:O
@@ -18,7 +18,7 @@ tax:O
 impairment:O
 charge:O
 (:O
-\$:O
+$:O
 73:O
 million:O
 after:O
@@ -37,6 +37,7 @@ lived:O
 store:O
 assets:O
 .:O" > answer.txt
+
 
 
 

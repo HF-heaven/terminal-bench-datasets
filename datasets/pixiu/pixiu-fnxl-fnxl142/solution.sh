@@ -10,15 +10,15 @@ for:O
 these:O
 programs:O
 was:O
-\$:O
+$:O
 0.4:B-InterestExpense
 million:O
 ,:O
-\$:O
+$:O
 0.8:B-InterestExpense
 million:O
 and:O
-\$:O
+$:O
 0.6:B-InterestExpense
 million:O
 for:O
@@ -35,6 +35,7 @@ and:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

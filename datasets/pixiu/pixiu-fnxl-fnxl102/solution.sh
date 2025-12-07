@@ -33,21 +33,22 @@ a:O
 total:O
 cost:O
 of:O
-\$:O
+$:O
 63.7:B-StockRepurchasedAndRetiredDuringPeriodValue
 million:O
 ,:O
-\$:O
+$:O
 173.4:B-StockRepurchasedAndRetiredDuringPeriodValue
 million:O
 ,:O
 and:O
-\$:O
+$:O
 598.3:B-StockRepurchasedAndRetiredDuringPeriodValue
 million:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

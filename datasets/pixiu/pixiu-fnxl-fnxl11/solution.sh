@@ -8,7 +8,7 @@ has:O
 trademarks:O
 that:O
 total:O
-\$:O
+$:O
 248:B-IndefiniteLivedIntangibleAssetsExcludingGoodwill
 million:O
 that:O
@@ -30,6 +30,7 @@ the:O
 fourth:O
 quarter:O
 .:O" > answer.txt
+
 
 
 

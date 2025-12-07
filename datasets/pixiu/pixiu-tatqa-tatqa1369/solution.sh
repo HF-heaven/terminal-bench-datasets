@@ -6,3 +6,4 @@ printf "%s\n" "workforce reductions and facility consolidations" > answer.txt
 
 
 
+

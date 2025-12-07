@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "lower capital expenditure partly offset by lower operating cash flow, higher cash taxes and lower associates\u2019 dividends"
+EXPECTED_LABEL = "lower capital expenditure partly offset by lower operating cash flow, higher cash taxes and lower associates’ dividends"
 ALLOWED_CHOICES = ["lower capital expenditure partly offset by lower operating cash flow, higher cash taxes and lower associates’ dividends"]
 PIXIU_ID = "tatqa1416"
 LABEL_TYPE = "text answer"

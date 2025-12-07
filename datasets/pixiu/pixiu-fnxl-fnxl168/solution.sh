@@ -22,20 +22,21 @@ December31:O
 and:O
 2017:O
 were:O
-\$:O
+$:O
 363:B-IncomeTaxesPaidNet
 million:O
 ,:O
-\$:O
+$:O
 288:B-IncomeTaxesPaidNet
 million:O
 and:O
-\$:O
+$:O
 526:B-IncomeTaxesPaidNet
 million:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

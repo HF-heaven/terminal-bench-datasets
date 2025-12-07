@@ -6,3 +6,4 @@ printf "%s\n" "5,563.7" > answer.txt
 
 
 
+

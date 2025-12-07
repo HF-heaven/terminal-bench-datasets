@@ -38,13 +38,13 @@ are:O
 expected:O
 to:O
 be:O
-\$:O
+$:O
 (:O
 42:B-DefinedBenefitPlanExpectedAmortizationOfGainLossNextFiscalYear
 ):O
 million:O
 and:O
-\$:O
+$:O
 0:B-DefinedBenefitPlanExpectedAmortizationOfGainLossNextFiscalYear
 million:O
 for:O
@@ -56,6 +56,7 @@ U.S.:O
 pension:O
 plans:O
 .:O" > answer.txt
+
 
 
 

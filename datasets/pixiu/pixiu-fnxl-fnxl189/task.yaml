@@ -5,7 +5,19 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: fnxl189
     • Task type: token labels
-    • Allowed labels: If:O | unused:O | ,:O | $:O | 42.1:B-DeferredTaxAssetsOperatingLossCarryforwardsSubjectToExpiration | million:O | will:O | expire:O | between:O | 2021:O | and:O | 2040:O | .:O
+    • Allowed labels: If:O
+unused:O
+,:O
+$:O
+42.1:B-DeferredTaxAssetsOperatingLossCarryforwardsSubjectToExpiration
+million:O
+will:O
+expire:O
+between:O
+2021:O
+and:O
+2040:O
+.:O
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

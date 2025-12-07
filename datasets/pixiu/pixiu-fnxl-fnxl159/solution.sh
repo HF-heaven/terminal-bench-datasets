@@ -10,7 +10,7 @@ these:O
 acquisitions:O
 consisted:O
 of:O
-\$:O
+$:O
 12.0:O
 million:O
 paid:O
@@ -38,7 +38,7 @@ a:O
 fair:O
 value:O
 of:O
-\$:O
+$:O
 8.3:B-BusinessCombinationConsiderationTransferredEquityInterestsIssuedAndIssuable
 million:O
 as:O
@@ -53,6 +53,7 @@ applicable:O
 acquired:O
 business:O
 .:O" > answer.txt
+
 
 
 

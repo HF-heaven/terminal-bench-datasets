@@ -6,3 +6,4 @@ printf "%s\n" "Garmin Confirms December 31 Dividend Payment" > answer.txt
 
 
 
+

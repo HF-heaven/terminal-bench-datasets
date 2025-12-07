@@ -15,15 +15,15 @@ refunds:O
 received:O
 ,:O
 were:O
-\$:O
+$:O
 1.1:B-IncomeTaxesPaidNet
 billion:O
 ,:O
-\$:O
+$:O
 877:B-IncomeTaxesPaidNet
 million:O
 and:O
-\$:O
+$:O
 1.0:B-IncomeTaxesPaidNet
 billion:O
 for:O
@@ -36,6 +36,7 @@ and:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

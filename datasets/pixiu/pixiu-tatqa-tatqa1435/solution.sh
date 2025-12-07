@@ -6,3 +6,4 @@ printf "%s\n" "cash at bank or cash placed on deposit" > answer.txt
 
 
 
+

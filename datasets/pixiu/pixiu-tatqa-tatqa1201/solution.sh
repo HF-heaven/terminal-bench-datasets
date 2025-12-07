@@ -6,3 +6,4 @@ printf "%s\n" "comparing the fair value of each reporting unit to its carrying a
 
 
 
+

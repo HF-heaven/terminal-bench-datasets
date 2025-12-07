@@ -19,7 +19,7 @@ latest:I-TIME
 quarter:I-TIME
 increased:O
 to:O
-\$:B-VALUE
+$:B-VALUE
 51.1:I-VALUE
 million:I-VALUE
 ,:O
@@ -30,7 +30,7 @@ a:I-VALUE
 share:I-VALUE
 ,:O
 from:O
-\$:B-VALUE
+$:B-VALUE
 31.7:I-VALUE
 million:I-VALUE
 ,:O
@@ -44,6 +44,7 @@ a:B-TIME
 year:I-TIME
 earlier:I-TIME
 .:O" > answer.txt
+
 
 
 

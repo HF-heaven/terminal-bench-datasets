@@ -8,10 +8,10 @@ Equity:O
 Xcel:O
 Energy:O
 issued:O
-\$:O
+$:O
 40million:O
 and:O
-\$:O
+$:O
 39:B-ProceedsFromIssuanceOfCommonStock
 million:O
 of:O
@@ -33,6 +33,7 @@ and:O
 2019:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

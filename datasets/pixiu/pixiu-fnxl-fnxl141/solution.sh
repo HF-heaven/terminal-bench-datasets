@@ -28,9 +28,10 @@ an:O
 annual:O
 limit:O
 of:O
-\$:O
+$:O
 11,400:O
 .:O" > answer.txt
+
 
 
 

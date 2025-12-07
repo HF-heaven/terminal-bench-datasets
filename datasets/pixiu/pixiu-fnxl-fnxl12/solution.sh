@@ -7,7 +7,7 @@ printf "%s\n" "(:O
 Company:O
 recognized:O
 a:O
-\$:O
+$:O
 267.0:B-ImpairmentOfIntangibleAssetsIndefinitelivedExcludingGoodwill
 million:O
 non:O
@@ -30,6 +30,7 @@ in:O
 fiscal:O
 2020:O
 .:O" > answer.txt
+
 
 
 

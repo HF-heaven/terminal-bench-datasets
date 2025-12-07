@@ -11,7 +11,7 @@ Capital:O
 Markets:O
 LLC:O
 received:O
-\$:O
+$:O
 1.5:B-RelatedPartyTransactionAmountsOfTransaction
 million:O
 for:O
@@ -25,6 +25,7 @@ debt:O
 refinancing:O
 transaction:O
 .:O" > answer.txt
+
 
 
 

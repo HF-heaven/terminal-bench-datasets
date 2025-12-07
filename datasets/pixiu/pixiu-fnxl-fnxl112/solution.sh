@@ -11,7 +11,7 @@ December31:O
 the:O
 Company:O
 recorded:O
-\$:O
+$:O
 60.1:B-BusinessCombinationContingentConsiderationLiability
 million:O
 of:O
@@ -31,6 +31,7 @@ long:O
 -:O
 term:O
 .:O" > answer.txt
+
 
 
 

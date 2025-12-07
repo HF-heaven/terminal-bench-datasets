@@ -16,21 +16,22 @@ Settlement:O
 Agreements:O
 was:O
 approximately:O
-\$:O
+$:O
 4.4:B-LitigationSettlementAmountAwardedToOtherParty
 billion:O
 ,:O
-\$:O
+$:O
 4.2:B-LitigationSettlementAmountAwardedToOtherParty
 billion:O
 ,:O
 and:O
-\$:O
+$:O
 4.2:B-LitigationSettlementAmountAwardedToOtherParty
 billion:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

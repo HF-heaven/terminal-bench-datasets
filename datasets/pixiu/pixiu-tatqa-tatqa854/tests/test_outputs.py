@@ -1,7 +1,8 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "3,757\n3,777"
+EXPECTED_LABEL = "3,757
+3,777"
 ALLOWED_CHOICES = ["3,757\n3,777"]
 PIXIU_ID = "tatqa854"
 LABEL_TYPE = "text answer"

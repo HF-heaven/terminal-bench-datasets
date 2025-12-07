@@ -6,3 +6,4 @@ printf "%s\n" "Welltower Inc. to Hold 2020 Annual Meeting of Shareholders in Vir
 
 
 
+

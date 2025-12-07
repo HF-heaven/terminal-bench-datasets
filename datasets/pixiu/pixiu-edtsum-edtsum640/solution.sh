@@ -6,3 +6,4 @@ printf "%s\n" "Ameris Bancorp Announces Financial Results For Third Quarter 2020
 
 
 
+

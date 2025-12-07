@@ -10,17 +10,18 @@ and:O
 the:O
 company:O
 deferred:O
-\$:O
+$:O
 0.1:B-ContractWithCustomerAssetNet
 million:O
 and:O
-\$:O
+$:O
 6:B-ContractWithCustomerAssetNet
 million:O
 as:O
 regulatory:O
 assets:O
 .:O" > answer.txt
+
 
 
 

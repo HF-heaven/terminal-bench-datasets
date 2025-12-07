@@ -5,7 +5,25 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: fnxl139
     • Task type: token labels
-    • Allowed labels: The:O | Company:O | anticipates:O | approximately:O | $:O | 66:B-DecreaseInUnrecognizedTaxBenefitsIsReasonablyPossible | million:O | of:O | unrecognized:O | tax:O | benefits:O | will:O | reverse:O | within:O | the:O | next:O | 12:O | months:O | .:O
+    • Allowed labels: The:O
+Company:O
+anticipates:O
+approximately:O
+$:O
+66:B-DecreaseInUnrecognizedTaxBenefitsIsReasonablyPossible
+million:O
+of:O
+unrecognized:O
+tax:O
+benefits:O
+will:O
+reverse:O
+within:O
+the:O
+next:O
+12:O
+months:O
+.:O
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

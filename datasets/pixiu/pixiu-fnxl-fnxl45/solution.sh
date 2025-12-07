@@ -25,7 +25,7 @@ costs:O
 during:O
 2020:O
 are:O
-\$:O
+$:O
 10.2:B-DefinedBenefitPlanExpectedAmortizationOfGainLossNextFiscalYear
 related:O
 to:O
@@ -35,6 +35,7 @@ the:O
 net:O
 loss:O
 .:O" > answer.txt
+
 
 
 

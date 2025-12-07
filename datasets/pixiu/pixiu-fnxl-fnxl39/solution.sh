@@ -11,14 +11,15 @@ net:O
 of:O
 taxes:O
 of:O
-\$:O
+$:O
 24:B-OtherComprehensiveIncomeLossBeforeReclassificationsTax
 and:O
-\$:O
+$:O
 88:B-OtherComprehensiveIncomeLossBeforeReclassificationsTax
 ,:O
 respectively:O
 ):O" > answer.txt
+
 
 
 

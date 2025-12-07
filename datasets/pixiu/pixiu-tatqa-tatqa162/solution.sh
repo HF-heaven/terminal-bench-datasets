@@ -6,3 +6,4 @@ printf "%s\n" "reduced the United States corporate tax rate from 35% to 21% effe
 
 
 
+

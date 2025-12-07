@@ -36,10 +36,11 @@ Informa:O
 plc:O
 for:O
 approximately:O
-\$:O
+$:O
 150:B-DisposalGroupIncludingDiscontinuedOperationConsideration
 million:O
 .:O" > answer.txt
+
 
 
 

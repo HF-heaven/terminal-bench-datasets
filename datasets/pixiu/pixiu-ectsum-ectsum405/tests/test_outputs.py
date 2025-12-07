@@ -1,7 +1,26 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "1\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n1"
+EXPECTED_LABEL = "1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1"
 ALLOWED_CHOICES = ["1\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n0\n1"]
 PIXIU_ID = "ectsum405"
 LABEL_TYPE = "extractive summary labels"

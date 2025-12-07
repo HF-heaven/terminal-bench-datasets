@@ -28,7 +28,7 @@ to:O
 the:O
 loan:O
 of:O
-\$:O
+$:O
 12.4:B-InterestExpenseDebt
 million:O
 in:O
@@ -39,6 +39,7 @@ within:O
 discontinued:O
 operations:O
 .:O" > answer.txt
+
 
 
 

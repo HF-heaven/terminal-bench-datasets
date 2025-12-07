@@ -13,7 +13,7 @@ December:O
 ,:O
 2019:O
 of:O
-\$:O
+$:O
 32:B-RestructuringReserve
 million:O
 is:O
@@ -27,6 +27,7 @@ under:O
 current:O
 liabilities:O
 .:O" > answer.txt
+
 
 
 

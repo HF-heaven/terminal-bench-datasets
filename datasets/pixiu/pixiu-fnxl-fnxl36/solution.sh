@@ -20,10 +20,11 @@ quarter:O
 of:O
 2018:O
 was:O
-\$:O
+$:O
 12.6:B-BusinessCombinationProFormaInformationRevenueOfAcquireeSinceAcquisitionDateActual
 million:O
 .:O" > answer.txt
+
 
 
 

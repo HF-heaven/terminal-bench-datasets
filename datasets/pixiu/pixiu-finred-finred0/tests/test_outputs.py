@@ -1,10 +1,10 @@
 import json
 from pathlib import Path
 
-PIXIU_ID = "finred0"
-LABEL_TYPE = "relation extraction"
-EXPECTED_ANSWER = """PeopleSoft ; JD Edwards ; subsidiary"""
-NUM_RELATIONS = 1
+PIXIU_ID = "{pixiu_id}"
+LABEL_TYPE = "{label_type}"
+EXPECTED_ANSWER = """{expected_answer}"""
+NUM_RELATIONS = {num_relations}
 
 ANSWER_FILE = Path("/app/answer.txt")
 ITEM_FILE = Path("/tests/data/item.json")

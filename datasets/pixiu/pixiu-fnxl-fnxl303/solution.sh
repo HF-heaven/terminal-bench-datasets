@@ -5,7 +5,7 @@ cd /app
 printf "%s\n" "We:O
 also:O
 repaid:O
-\$:O
+$:O
 227.5:B-RepaymentsOfDebt
 million:O
 of:O
@@ -28,13 +28,14 @@ in:O
 2017:O
 ):O
 incurring:O
-\$:O
+$:O
 2.7:O
 million:O
 of:O
 prepayment:O
 penalties:O
 .:O" > answer.txt
+
 
 
 

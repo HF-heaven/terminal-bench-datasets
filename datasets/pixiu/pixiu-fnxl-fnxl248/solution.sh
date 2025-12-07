@@ -24,10 +24,11 @@ of:O
 retained:O
 earnings:O
 totaling:O
-\$:O
+$:O
 6.5:B-RetainedEarningsAccumulatedDeficit
 million:O
 .:O" > answer.txt
+
 
 
 

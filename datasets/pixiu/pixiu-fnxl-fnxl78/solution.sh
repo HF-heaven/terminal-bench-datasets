@@ -7,7 +7,7 @@ and:O
 2019:O
 both:O
 include:O
-\$:O
+$:O
 132:B-IndefiniteLivedIntangibleAssetsExcludingGoodwill
 million:O
 within:O
@@ -44,6 +44,7 @@ S&P:O
 index:O
 family:O
 .:O" > answer.txt
+
 
 
 

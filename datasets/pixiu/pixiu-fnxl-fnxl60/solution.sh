@@ -13,11 +13,11 @@ determinable:O
 fair:O
 values:O
 totaling:O
-\$:O
+$:O
 23.7:B-EquitySecuritiesWithoutReadilyDeterminableFairValueAmount
 million:O
 and:O
-\$:O
+$:O
 19.1:B-EquitySecuritiesWithoutReadilyDeterminableFairValueAmount
 million:O
 as:O
@@ -48,6 +48,7 @@ observable:O
 price:O
 changes:O
 .:O" > answer.txt
+
 
 
 

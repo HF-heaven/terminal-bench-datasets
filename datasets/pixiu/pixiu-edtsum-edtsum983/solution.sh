@@ -6,3 +6,4 @@ printf "%s\n" "Camtek Announces Closing of Public Offering of Ordinary Shares an
 
 
 
+

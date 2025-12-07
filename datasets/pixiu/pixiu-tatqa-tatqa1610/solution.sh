@@ -2,8 +2,9 @@
 set -euo pipefail
 
 cd /app
-printf "%s\n" "\$ 4,565.4
-\$ 318.2" > answer.txt
+printf "%s\n" "$ 4,565.4
+$ 318.2" > answer.txt
+
 
 
 

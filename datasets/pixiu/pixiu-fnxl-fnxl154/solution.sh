@@ -8,7 +8,7 @@ such:O
 we:O
 recorded:O
 an:O
-\$:O
+$:O
 8.2:B-OperatingLossCarryforwardsValuationAllowance
 million:O
 valuation:O
@@ -30,6 +30,7 @@ December31:O
 ,:O
 2020:O
 .:O" > answer.txt
+
 
 
 

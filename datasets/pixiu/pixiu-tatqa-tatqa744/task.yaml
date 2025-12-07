@@ -5,7 +5,9 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: tatqa744
     • Task type: text answer
-    • Allowed labels: days past due | credit status of the counterparty | historical evidence of collection
+    • Allowed labels: days past due
+credit status of the counterparty
+historical evidence of collection
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

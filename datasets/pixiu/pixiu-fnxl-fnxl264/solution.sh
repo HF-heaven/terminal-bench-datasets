@@ -16,7 +16,7 @@ Loans:O
 ,:O
 together:O
 with:O
-\$:O
+$:O
 300.0:B-ProceedsFromLinesOfCredit
 million:O
 of:O
@@ -46,15 +46,16 @@ fees:O
 collectively:O
 ,:O
 the:O
-\":O
+":O
 June:O
 2016:O
 Term:O
 Loan:O
 Refinancing:O
-\":O
+":O
 ):O
 .:O" > answer.txt
+
 
 
 

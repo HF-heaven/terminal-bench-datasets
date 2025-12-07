@@ -42,10 +42,11 @@ estimated:O
 to:O
 be:O
 approximately:O
-\$:O
+$:O
 2.5:B-RestructuringAndRelatedCostExpectedCost1
 billion:O
 .:O" > answer.txt
+
 
 
 

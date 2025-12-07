@@ -6,3 +6,4 @@ printf "%s\n" "current assets less current liabilities." > answer.txt
 
 
 
+

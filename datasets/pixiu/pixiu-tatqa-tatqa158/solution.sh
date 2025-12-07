@@ -7,3 +7,4 @@ Total (loan)" > answer.txt
 
 
 
+

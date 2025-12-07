@@ -6,3 +6,4 @@ printf "%s\n" "Pending Sales Dipped Slightly Last Week, But Homes Are Still Movi
 
 
 
+

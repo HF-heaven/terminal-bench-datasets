@@ -11,7 +11,7 @@ had:O
 cash:O
 outflows:O
 of:O
-\$:O
+$:O
 296.5:O
 million:O
 associated:O
@@ -29,7 +29,7 @@ liabilities:O
 and:O
 we:O
 recognized:O
-\$:O
+$:O
 237.4:B-RightOfUseAssetObtainedInExchangeForOperatingLeaseLiability
 million:O
 of:O
@@ -45,6 +45,7 @@ operating:O
 lease:O
 obligations:O
 .:O" > answer.txt
+
 
 
 

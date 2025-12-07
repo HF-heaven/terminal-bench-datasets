@@ -31,7 +31,7 @@ average:O
 net:O
 price:O
 of:O
-\$:O
+$:O
 27.66:B-SaleOfStockPricePerShare
 per:O
 share:O
@@ -40,10 +40,11 @@ in:O
 net:O
 proceeds:O
 of:O
-\$:O
+$:O
 422:O
 million:O
 .:O" > answer.txt
+
 
 
 

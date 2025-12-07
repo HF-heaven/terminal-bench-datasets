@@ -14,19 +14,19 @@ and:O
 we:O
 recognized:O
 a:O
-\$:O
+$:O
 0.2:B-ForeignCurrencyTransactionGainLossRealized
 million:O
 gain:O
 ,:O
 a:O
-\$:O
+$:O
 2.9:B-ForeignCurrencyTransactionGainLossRealized
 million:O
 loss:O
 and:O
 a:O
-\$:O
+$:O
 12.8:B-ForeignCurrencyTransactionGainLossRealized
 million:O
 gain:O
@@ -48,19 +48,19 @@ was:O
 offset:O
 by:O
 a:O
-\$:O
+$:O
 0.9:B-ForeignCurrencyTransactionGainLossRealized
 million:O
 loss:O
 ,:O
 a:O
-\$:O
+$:O
 2.7:B-ForeignCurrencyTransactionGainLossRealized
 million:O
 gain:O
 and:O
 a:O
-\$:O
+$:O
 14.1:B-ForeignCurrencyTransactionGainLossRealized
 million:O
 loss:O
@@ -79,6 +79,7 @@ the:O
 underlying:O
 loans:O
 .:O" > answer.txt
+
 
 
 

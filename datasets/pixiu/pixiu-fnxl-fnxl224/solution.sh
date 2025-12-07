@@ -5,7 +5,7 @@ cd /app
 printf "%s\n" "The:O
 Company:O
 had:O
-\$:O
+$:O
 1:B-UnrecognizedTaxBenefitsInterestOnIncomeTaxesAccrued
 million:O
 of:O
@@ -26,6 +26,7 @@ June:O
 and:O
 2019:O
 .:O" > answer.txt
+
 
 
 

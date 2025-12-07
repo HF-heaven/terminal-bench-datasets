@@ -19,13 +19,13 @@ outside:O
 the:O
 U.S.:O
 were:O
-\$:O
+$:O
 953.6:B-CashAndCashEquivalentsAtCarryingValue
 million:O
 ,:O
 of:O
 which:O
-\$:O
+$:O
 584.7:B-CashAndCashEquivalentsAtCarryingValue
 million:O
 was:O
@@ -44,6 +44,7 @@ undistributed:O
 earnings:O
 indefinitely:O
 .:O" > answer.txt
+
 
 
 

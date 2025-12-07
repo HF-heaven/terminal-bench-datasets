@@ -6,3 +6,4 @@ printf "%s\n" "EverGen Announces Milestone 20 Year Offtake Agreement With Fortis
 
 
 
+

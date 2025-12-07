@@ -9,7 +9,7 @@ March20:O
 ,:O
 AWCC:O
 borrowed:O
-\$:O
+$:O
 500:B-ProceedsFromLinesOfCredit
 million:O
 under:O
@@ -40,6 +40,7 @@ provide:O
 additional:O
 liquidity:O
 .:O" > answer.txt
+
 
 
 

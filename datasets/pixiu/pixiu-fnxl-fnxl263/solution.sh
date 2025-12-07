@@ -4,7 +4,7 @@ set -euo pipefail
 cd /app
 printf "%s\n" "(:O
 1)The:O
-\$:O
+$:O
 15.8:B-GoodwillAcquiredDuringPeriod
 million:O
 addition:O
@@ -26,6 +26,7 @@ to:O
 acquire:O
 Partsmaster:O
 .:O" > answer.txt
+
 
 
 

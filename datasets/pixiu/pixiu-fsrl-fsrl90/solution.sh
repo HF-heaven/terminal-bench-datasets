@@ -17,7 +17,7 @@ has:O
 put:O
 together:O
 an:O
-\$:B-WHOLE
+$:B-WHOLE
 8:I-WHOLE
 million:I-WHOLE
 financial:I-WHOLE
@@ -25,7 +25,7 @@ package:I-WHOLE
 that:O
 includes:O
 approximately:O
-\$:B-VALUE
+$:B-VALUE
 4:I-VALUE
 million:I-VALUE
 of:O
@@ -61,7 +61,7 @@ theater:O
 ,:O
 and:O
 approximately:O
-\$:B-VALUE
+$:B-VALUE
 1:I-VALUE
 million:I-VALUE
 in:O
@@ -85,6 +85,7 @@ other:I-QUANT
 deep:I-QUANT
 pockets:I-QUANT
 .:O" > answer.txt
+
 
 
 

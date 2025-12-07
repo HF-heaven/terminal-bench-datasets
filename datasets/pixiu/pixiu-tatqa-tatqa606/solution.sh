@@ -6,3 +6,4 @@ printf "%s\n" "The excess of the purchase consideration over the fair value of n
 
 
 
+

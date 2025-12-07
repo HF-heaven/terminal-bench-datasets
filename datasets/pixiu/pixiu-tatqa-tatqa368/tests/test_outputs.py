@@ -1,7 +1,8 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "At beginning of the period\nAdditions"
+EXPECTED_LABEL = "At beginning of the period
+Additions"
 ALLOWED_CHOICES = ["At beginning of the period\nAdditions"]
 PIXIU_ID = "tatqa368"
 LABEL_TYPE = "text answer"

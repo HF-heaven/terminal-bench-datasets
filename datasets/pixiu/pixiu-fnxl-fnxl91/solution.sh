@@ -15,10 +15,10 @@ Note:O
 A:O
 ):O
 was:O
-\$:O
+$:O
 16.5million:O
 and:O
-\$:O
+$:O
 38.8:B-EquityMethodInvestmentDifferenceBetweenCarryingAmountAndUnderlyingEquity
 million:O
 at:O
@@ -31,6 +31,7 @@ and:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

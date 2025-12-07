@@ -20,13 +20,13 @@ was:O
 an:O
 increase:O
 of:O
-\$:O
+$:O
 40.3:B-RetainedEarningsAccumulatedDeficit
 million:O
 ,:O
 of:O
 which:O
-\$:O
+$:O
 3.4:B-RetainedEarningsAccumulatedDeficit
 million:O
 was:O
@@ -57,6 +57,7 @@ the:O
 Desktop:O
 business:O
 .:O" > answer.txt
+
 
 
 

@@ -13,7 +13,7 @@ the:O
 Aquion:O
 acquisition:O
 include:O
-\$:O
+$:O
 15.7:O
 million:O
 of:O
@@ -25,7 +25,7 @@ name:O
 intangible:O
 assets:O
 and:O
-\$:O
+$:O
 78.8:B-FinitelivedIntangibleAssetsAcquired1
 million:O
 of:O
@@ -43,6 +43,7 @@ of:O
 15:O
 years:O
 .:O" > answer.txt
+
 
 
 

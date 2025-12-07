@@ -13,7 +13,7 @@ state:O
 income:O
 taxes:O
 were:O
-\$:O
+$:O
 74.5:B-IncomeTaxesPaidNet
 million:O
 for:O
@@ -23,13 +23,14 @@ which:O
 are:O
 net:O
 of:O
-\$:O
+$:O
 8.1:O
 million:O
 in:O
 tax:O
 refunds:O
 .:O" > answer.txt
+
 
 
 

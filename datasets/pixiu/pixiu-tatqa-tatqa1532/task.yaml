@@ -5,7 +5,9 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: tatqa1532
     • Task type: text answer
-    • Allowed labels: Fully-Paid Licenses | Royalty Bearing Licenses | Other Revenue
+    • Allowed labels: Fully-Paid Licenses
+Royalty Bearing Licenses
+Other Revenue
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

@@ -10,21 +10,21 @@ under:O
 repurchase:O
 programs:O
 of:O
-\$:O
+$:O
 1.6:B-StockRepurchasedAndRetiredDuringPeriodValue
 billion:O
 in:O
 fiscal:O
 2020:O
 ,:O
-\$:O
+$:O
 2.4:B-StockRepurchasedAndRetiredDuringPeriodValue
 billion:O
 in:O
 fiscal:O
 2019:O
 and:O
-\$:O
+$:O
 1.6:B-StockRepurchasedAndRetiredDuringPeriodValue
 billion:O
 in:O
@@ -54,6 +54,7 @@ in:O
 fiscal:O
 2018:O
 .:O" > answer.txt
+
 
 
 

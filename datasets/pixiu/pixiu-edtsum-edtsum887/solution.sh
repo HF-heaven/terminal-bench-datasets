@@ -6,3 +6,4 @@ printf "%s\n" "Brigham Minerals, Inc. Schedules Fourth Quarter and Full-Year 202
 
 
 
+

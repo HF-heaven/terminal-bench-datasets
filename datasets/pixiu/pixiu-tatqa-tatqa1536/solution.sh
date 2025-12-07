@@ -6,3 +6,4 @@ printf "%s\n" "RMB77 million" > answer.txt
 
 
 
+

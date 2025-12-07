@@ -4,11 +4,11 @@ set -euo pipefail
 cd /app
 printf "%s\n" "We:O
 had:O
-\$:O
+$:O
 6.0:B-CapitalExpendituresIncurredButNotYetPaid
 million:O
 and:O
-\$:O
+$:O
 11.1:B-CapitalExpendituresIncurredButNotYetPaid
 million:O
 of:O
@@ -25,6 +25,7 @@ and:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

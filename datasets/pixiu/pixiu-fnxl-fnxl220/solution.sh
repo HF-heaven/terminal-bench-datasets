@@ -8,11 +8,11 @@ contracts:O
 with:O
 customers:O
 of:O
-\$:O
+$:O
 2.3:B-ContractWithCustomerAssetNet
 billion:O
 and:O
-\$:O
+$:O
 2.1:B-ContractWithCustomerAssetNet
 billion:O
 as:O
@@ -37,6 +37,7 @@ consolidated:O
 balance:O
 sheet:O
 .:O" > answer.txt
+
 
 
 

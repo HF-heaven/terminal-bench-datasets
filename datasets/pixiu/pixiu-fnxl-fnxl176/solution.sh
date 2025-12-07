@@ -23,19 +23,20 @@ December31:O
 ,:O
 2019:O
 of:O
-\$:O
+$:O
 50.97:B-SaleOfStockPricePerShare
 and:O
 December31:O
 ,:O
 2018:O
 of:O
-\$:O
+$:O
 41.06:B-SaleOfStockPricePerShare
 ,:O
 as:O
 applicable:O
 .:O" > answer.txt
+
 
 
 

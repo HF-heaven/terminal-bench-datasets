@@ -43,7 +43,7 @@ price:O
 of:O
 less:O
 than:O
-\$:O
+$:O
 9.20:B-SaleOfStockPricePerShare
 per:O
 ClassA:O
@@ -222,7 +222,7 @@ Value:O
 ,:O
 is:O
 below:O
-\$:O
+$:O
 9.20:O
 per:O
 share:O
@@ -262,7 +262,7 @@ Issued:O
 Price:O
 ,:O
 the:O
-\$:O
+$:O
 18.00:O
 per:O
 share:O
@@ -299,7 +299,7 @@ Price:O
 ,:O
 and:O
 the:O
-\$:O
+$:O
 10.00:O
 per:O
 share:O
@@ -331,6 +331,7 @@ Newly:O
 Issued:O
 Price:O
 .:O" > answer.txt
+
 
 
 

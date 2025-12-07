@@ -6,3 +6,4 @@ printf "%s\n" "components of an enterprise for which separate financial informat
 
 
 
+

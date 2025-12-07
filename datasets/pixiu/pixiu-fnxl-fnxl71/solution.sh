@@ -8,7 +8,7 @@ repurchased:O
 million:O
 shares:O
 for:O
-\$:O
+$:O
 100.0:B-StockRepurchasedDuringPeriodValue
 million:O
 during:O
@@ -22,7 +22,7 @@ of:O
 million:O
 shares:O
 for:O
-\$:O
+$:O
 150.0:B-StockRepurchasedDuringPeriodValue
 million:O
 during:O
@@ -36,7 +36,7 @@ and:O
 million:O
 shares:O
 for:O
-\$:O
+$:O
 150.0:B-StockRepurchasedDuringPeriodValue
 million:O
 during:O
@@ -53,6 +53,7 @@ open:O
 market:O
 transactions:O
 .:O" > answer.txt
+
 
 
 

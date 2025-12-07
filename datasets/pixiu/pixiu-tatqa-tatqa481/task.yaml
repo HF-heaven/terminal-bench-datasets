@@ -5,7 +5,8 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: tatqa481
     • Task type: text answer
-    • Allowed labels: 20,032 | 13,591
+    • Allowed labels: 20,032
+13,591
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

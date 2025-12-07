@@ -26,10 +26,11 @@ asset:O
 value:O
 ,:O
 was:O
-\$:O
+$:O
 1.48:B-EquitySecuritiesFvNi
 million:O
 .:O" > answer.txt
+
 
 
 

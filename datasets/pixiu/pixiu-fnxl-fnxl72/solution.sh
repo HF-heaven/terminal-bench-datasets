@@ -13,13 +13,13 @@ of:O
 customer:O
 relationships:O
 of:O
-\$:O
+$:O
 2,198:B-FinitelivedIntangibleAssetsAcquired1
 ,:O
 computer:O
 software:O
 of:O
-\$:O
+$:O
 701:B-FinitelivedIntangibleAssetsAcquired1
 ,:O
 and:O
@@ -27,9 +27,10 @@ other:O
 intangible:O
 assets:O
 of:O
-\$:O
+$:O
 191:B-FinitelivedIntangibleAssetsAcquired1
 .:O" > answer.txt
+
 
 
 

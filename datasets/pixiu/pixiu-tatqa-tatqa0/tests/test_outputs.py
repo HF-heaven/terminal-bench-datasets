@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "our allowable incurred costs plus a profit which can be fixed or variable depending on the contract\u2019s fee arrangement up to predetermined funding levels determined by the customer"
+EXPECTED_LABEL = "our allowable incurred costs plus a profit which can be fixed or variable depending on the contract’s fee arrangement up to predetermined funding levels determined by the customer"
 ALLOWED_CHOICES = ["our allowable incurred costs plus a profit which can be fixed or variable depending on the contract’s fee arrangement up to predetermined funding levels determined by the customer"]
 PIXIU_ID = "tatqa0"
 LABEL_TYPE = "text answer"

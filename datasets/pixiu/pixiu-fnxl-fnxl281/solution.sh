@@ -11,7 +11,7 @@ cash:O
 impairment:O
 charges:O
 of:O
-\$:O
+$:O
 31:B-ImpairmentOfIntangibleAssetsFinitelived
 million:O
 in:O
@@ -37,6 +37,7 @@ its:O
 fair:O
 value:O
 .:O" > answer.txt
+
 
 
 

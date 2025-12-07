@@ -6,3 +6,4 @@ printf "%s\n" "acquired inventory fair value costs and amortization of purchased
 
 
 
+

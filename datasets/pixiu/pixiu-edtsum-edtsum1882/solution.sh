@@ -6,3 +6,4 @@ printf "%s\n" "Vivendi : Dclaration des transactions sur actions propres ralises
 
 
 
+

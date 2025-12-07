@@ -16,7 +16,7 @@ a:O
 pretax:B-QUANT
 loss:I-QUANT
 of:O
-\$:B-VALUE
+$:B-VALUE
 33:I-VALUE
 million:I-VALUE
 from:O
@@ -33,7 +33,7 @@ and:O
 a:O
 gain:B-QUANT
 of:O
-\$:B-VALUE
+$:B-VALUE
 49:I-VALUE
 million:I-VALUE
 on:O
@@ -46,6 +46,7 @@ subsidiary:I-CAUSE
 common:I-CAUSE
 stock:I-CAUSE
 .:O" > answer.txt
+
 
 
 

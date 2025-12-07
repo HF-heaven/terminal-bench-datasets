@@ -28,21 +28,22 @@ December31:O
 ,:O
 2016:O
 was:O
-\$:O
+$:O
 129:B-DepreciationDepletionAndAmortization
 million:O
 ,:O
-\$:O
+$:O
 138:B-DepreciationDepletionAndAmortization
 million:O
 ,:O
 and:O
-\$:O
+$:O
 123:B-DepreciationDepletionAndAmortization
 million:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

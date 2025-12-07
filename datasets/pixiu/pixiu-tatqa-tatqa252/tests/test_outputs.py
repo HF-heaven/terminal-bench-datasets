@@ -1,7 +1,11 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "Operating revenue\nGross profit\nEBITDA\nEBIT\nNPAT"
+EXPECTED_LABEL = "Operating revenue
+Gross profit
+EBITDA
+EBIT
+NPAT"
 ALLOWED_CHOICES = ["Operating revenue\nGross profit\nEBITDA\nEBIT\nNPAT"]
 PIXIU_ID = "tatqa252"
 LABEL_TYPE = "text answer"

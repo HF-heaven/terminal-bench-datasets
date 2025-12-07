@@ -16,7 +16,7 @@ December31:O
 ,:O
 2019:O
 were:O
-\$:O
+$:O
 35:B-FinitelivedIntangibleAssetsAcquired1
 million:O
 with:O
@@ -29,6 +29,7 @@ of:O
 5.5:O
 years:O
 .:O" > answer.txt
+
 
 
 

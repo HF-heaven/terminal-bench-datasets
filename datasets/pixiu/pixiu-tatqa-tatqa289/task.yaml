@@ -5,7 +5,13 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: tatqa289
     • Task type: text answer
-    • Allowed labels: United States | China | Europe | Japan | Korea | Southeast Asia | Taiwan
+    • Allowed labels: United States
+China
+Europe
+Japan
+Korea
+Southeast Asia
+Taiwan
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

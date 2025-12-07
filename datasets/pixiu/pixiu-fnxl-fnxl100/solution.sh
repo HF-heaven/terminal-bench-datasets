@@ -10,7 +10,7 @@ the:O
 Company:O
 paid:O
 the:O
-\$:O
+$:O
 310:B-LitigationSettlementAmountAwardedToOtherParty
 million:O
 settlement:O
@@ -23,6 +23,7 @@ the:O
 settlement:O
 agreement:O
 .:O" > answer.txt
+
 
 
 

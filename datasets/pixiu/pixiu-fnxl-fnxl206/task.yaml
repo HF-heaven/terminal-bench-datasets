@@ -5,7 +5,22 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: fnxl206
     • Task type: token labels
-    • Allowed labels: The:O | Company:O | preliminarily:O | recorded:O | approximately:O | $:O | 10.2:B-GoodwillAcquiredDuringPeriod | billion:O | of:O | goodwill:O | related:O | to:O | the:O | Cytiva:O | Acquisition:O | .:O
+    • Allowed labels: The:O
+Company:O
+preliminarily:O
+recorded:O
+approximately:O
+$:O
+10.2:B-GoodwillAcquiredDuringPeriod
+billion:O
+of:O
+goodwill:O
+related:O
+to:O
+the:O
+Cytiva:O
+Acquisition:O
+.:O
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

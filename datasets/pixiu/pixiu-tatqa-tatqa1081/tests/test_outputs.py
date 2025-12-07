@@ -1,7 +1,8 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "Derivative financial instruments\nDeferred tax"
+EXPECTED_LABEL = "Derivative financial instruments
+Deferred tax"
 ALLOWED_CHOICES = ["Derivative financial instruments\nDeferred tax"]
 PIXIU_ID = "tatqa1081"
 LABEL_TYPE = "text answer"

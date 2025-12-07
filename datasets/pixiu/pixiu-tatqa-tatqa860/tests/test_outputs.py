@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "FRC\u2019s Revised Ethical Standard"
+EXPECTED_LABEL = "FRC’s Revised Ethical Standard"
 ALLOWED_CHOICES = ["FRC’s Revised Ethical Standard"]
 PIXIU_ID = "tatqa860"
 LABEL_TYPE = "text answer"

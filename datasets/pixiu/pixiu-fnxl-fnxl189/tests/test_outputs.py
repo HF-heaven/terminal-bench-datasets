@@ -1,7 +1,19 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "If:O\nunused:O\n,:O\n$:O\n42.1:B-DeferredTaxAssetsOperatingLossCarryforwardsSubjectToExpiration\nmillion:O\nwill:O\nexpire:O\nbetween:O\n2021:O\nand:O\n2040:O\n.:O"
+EXPECTED_LABEL = "If:O
+unused:O
+,:O
+$:O
+42.1:B-DeferredTaxAssetsOperatingLossCarryforwardsSubjectToExpiration
+million:O
+will:O
+expire:O
+between:O
+2021:O
+and:O
+2040:O
+.:O"
 ALLOWED_CHOICES = ["If:O\nunused:O\n,:O\n$:O\n42.1:B-DeferredTaxAssetsOperatingLossCarryforwardsSubjectToExpiration\nmillion:O\nwill:O\nexpire:O\nbetween:O\n2021:O\nand:O\n2040:O\n.:O"]
 PIXIU_ID = "fnxl189"
 LABEL_TYPE = "token labels"

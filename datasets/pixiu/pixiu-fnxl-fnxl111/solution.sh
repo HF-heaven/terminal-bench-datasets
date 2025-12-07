@@ -15,10 +15,11 @@ our:O
 common:O
 stock:O
 for:O
-\$:O
+$:O
 1.1:B-StockRepurchasedDuringPeriodValue
 billion:O
 .:O" > answer.txt
+
 
 
 

@@ -6,3 +6,4 @@ printf "%s\n" "approximately USD500 million" > answer.txt
 
 
 
+

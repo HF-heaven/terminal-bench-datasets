@@ -6,3 +6,4 @@ printf "%s\n" "tax effects of temporary differences that gave rise to significan
 
 
 
+

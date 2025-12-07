@@ -6,3 +6,4 @@ printf "%s\n" "commitments from customers to purchase goods and/or services that
 
 
 
+

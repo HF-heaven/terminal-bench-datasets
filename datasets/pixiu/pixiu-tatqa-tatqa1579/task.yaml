@@ -5,7 +5,12 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: tatqa1579
     • Task type: text answer
-    • Allowed labels: 2020 | 2021 | 2022 | 2023 | 2024 | Thereafter
+    • Allowed labels: 2020
+2021
+2022
+2023
+2024
+Thereafter
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

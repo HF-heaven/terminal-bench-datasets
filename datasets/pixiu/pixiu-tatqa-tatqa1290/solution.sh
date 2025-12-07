@@ -6,3 +6,4 @@ printf "%s\n" "as tax-effected operating income before restructuring and other s
 
 
 
+

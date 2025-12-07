@@ -37,16 +37,17 @@ interest:O
 and:O
 penalties:O
 of:O
-\$:O
+$:O
 58:B-IncomeTaxExaminationPenaltiesAndInterestAccrued
 million:O
 and:O
-\$:O
+$:O
 47:B-IncomeTaxExaminationPenaltiesAndInterestAccrued
 million:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

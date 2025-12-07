@@ -25,7 +25,7 @@ December:O
 or:O
 2020:O
 and:O
-\$:O
+$:O
 61:B-EmployeeServiceShareBasedCompensationAllocationOfRecognizedPeriodCostsCapitalizedAmount
 million:O
 for:O
@@ -37,6 +37,7 @@ December:O
 ,:O
 2019:O
 .:O" > answer.txt
+
 
 
 

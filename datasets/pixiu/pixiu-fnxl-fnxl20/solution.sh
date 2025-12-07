@@ -35,16 +35,17 @@ other:O
 assets:O
 ,:O
 were:O
-\$:O
+$:O
 220:B-EquitySecuritiesWithoutReadilyDeterminableFairValueAmount
 million:O
 and:O
-\$:O
+$:O
 231:B-EquitySecuritiesWithoutReadilyDeterminableFairValueAmount
 million:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

@@ -20,10 +20,11 @@ for:O
 doubtful:O
 accounts:O
 of:O
-\$:O
+$:O
 3:B-AllowanceForDoubtfulAccountsReceivable
 million:O
 .:O" > answer.txt
+
 
 
 

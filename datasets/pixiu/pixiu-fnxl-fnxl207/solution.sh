@@ -16,18 +16,19 @@ to:O
 Evergy:O
 Metro:O
 were:O
-\$:O
+$:O
 40.6:B-RelatedPartyTransactionAmountsOfTransaction
 million:O
 for:O
 2019:O
 and:O
-\$:O
+$:O
 17.5:B-RelatedPartyTransactionAmountsOfTransaction
 million:O
 for:O
 2018:O
 .:O" > answer.txt
+
 
 
 

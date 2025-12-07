@@ -23,16 +23,17 @@ that:O
 report:O
 NAV:O
 aggregated:O
-\$:O
+$:O
 433.9:B-EquitySecuritiesFvNi
 million:O
 and:O
-\$:O
+$:O
 317.8:B-EquitySecuritiesFvNi
 million:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

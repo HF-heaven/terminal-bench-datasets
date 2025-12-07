@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "TM2 Publishing Announces New Publication \"Test & Measurement 2.0\" to Support the Test & Measurement Industry"
+EXPECTED_LABEL = "TM2 Publishing Announces New Publication "Test & Measurement 2.0" to Support the Test & Measurement Industry"
 ALLOWED_CHOICES = ["TM2 Publishing Announces New Publication \"Test & Measurement 2.0\" to Support the Test & Measurement Industry"]
 PIXIU_ID = "edtsum749"
 LABEL_TYPE = "abstractive summary"

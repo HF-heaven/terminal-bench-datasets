@@ -5,7 +5,23 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: fnxl223
     • Task type: token labels
-    • Allowed labels: The:O | aggregate:O | intrinsic:O | value:O | of:O | restricted:O | units:O | outstanding:O | at:O | December31:O | ,:O | 2019:O | was:O | $:O | 67.0:B-SharebasedCompensationArrangementBySharebasedPaymentAwardEquityInstrumentsOtherThanOptionsAggregateIntrinsicValueVested | million:O | .:O
+    • Allowed labels: The:O
+aggregate:O
+intrinsic:O
+value:O
+of:O
+restricted:O
+units:O
+outstanding:O
+at:O
+December31:O
+,:O
+2019:O
+was:O
+$:O
+67.0:B-SharebasedCompensationArrangementBySharebasedPaymentAwardEquityInstrumentsOtherThanOptionsAggregateIntrinsicValueVested
+million:O
+.:O
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

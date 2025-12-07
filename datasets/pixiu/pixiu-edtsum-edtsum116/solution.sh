@@ -6,3 +6,4 @@ printf "%s\n" "Smartphone Application Railgun: Spectrum Story Now Available" > a
 
 
 
+

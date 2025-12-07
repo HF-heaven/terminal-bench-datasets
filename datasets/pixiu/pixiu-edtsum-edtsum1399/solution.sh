@@ -6,3 +6,4 @@ printf "%s\n" "Thinking about buying stock in Obseva SA, DBV Technologies, Black
 
 
 
+

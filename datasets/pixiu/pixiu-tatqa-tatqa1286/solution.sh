@@ -6,3 +6,4 @@ printf "%s\n" "There have been no impairment charges recognized for the years en
 
 
 
+

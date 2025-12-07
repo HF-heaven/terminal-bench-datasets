@@ -17,7 +17,7 @@ corporations:O
 in:O
 multiples:O
 of:O
-\$:O
+$:O
 1,000:O
 ::O
 8.55:B-VALUE
@@ -35,6 +35,7 @@ days:I-TIME
 90:B-TIME
 days:I-TIME
 .:O" > answer.txt
+
 
 
 

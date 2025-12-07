@@ -8,13 +8,13 @@ recorded:O
 inventory:O
 provisions:O
 totaling:O
-\$:O
+$:O
 45,375:B-InventoryWriteDown
 ,:O
-\$:O
+$:O
 38,902:B-InventoryWriteDown
 and:O
-\$:O
+$:O
 12,981:B-InventoryWriteDown
 for:O
 the:O
@@ -31,6 +31,7 @@ and:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

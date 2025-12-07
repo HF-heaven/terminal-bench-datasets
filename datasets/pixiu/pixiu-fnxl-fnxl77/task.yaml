@@ -5,7 +5,21 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: fnxl77
     • Task type: token labels
-    • Allowed labels: Internet:O | Brands:O | approximately:O | $:O | 31.0:B-RelatedPartyTransactionAmountsOfTransaction | million:O | annually:O | for:O | the:O | use:O | of:O | their:O | intellectual:O | property:O | .:O
+    • Allowed labels: Internet:O
+Brands:O
+approximately:O
+$:O
+31.0:B-RelatedPartyTransactionAmountsOfTransaction
+million:O
+annually:O
+for:O
+the:O
+use:O
+of:O
+their:O
+intellectual:O
+property:O
+.:O
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

@@ -6,7 +6,7 @@ printf "%s\n" "purchase:O
 price:O
 equal:O
 to:O
-\$:O
+$:O
 4.10:B-SaleOfStockPricePerShare
 per:O
 share:O
@@ -23,6 +23,7 @@ the:O
 public:O
 offering:O
 .:O" > answer.txt
+
 
 
 

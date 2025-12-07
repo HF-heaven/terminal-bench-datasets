@@ -6,3 +6,4 @@ printf "%s\n" "trade and other receivables and cash at bank" > answer.txt
 
 
 
+

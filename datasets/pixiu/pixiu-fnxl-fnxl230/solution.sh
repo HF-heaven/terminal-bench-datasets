@@ -22,21 +22,22 @@ September30:O
 and:O
 2018:O
 was:O
-\$:O
+$:O
 150.7:B-InterestPaidNet
 million:O
 ,:O
-\$:O
+$:O
 167.4:B-InterestPaidNet
 million:O
 ,:O
 and:O
-\$:O
+$:O
 162.1:B-InterestPaidNet
 million:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

@@ -5,7 +5,10 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: tatqa1080
     • Task type: text answer
-    • Allowed labels: Amounts owed by subsidiaries | Taxation recoverable | Other debtors | Derivative financial instruments
+    • Allowed labels: Amounts owed by subsidiaries
+Taxation recoverable
+Other debtors
+Derivative financial instruments
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

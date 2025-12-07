@@ -6,3 +6,4 @@ printf "%s\n" "MoneyRates Announces Best States for College Students in 2021 - M
 
 
 
+

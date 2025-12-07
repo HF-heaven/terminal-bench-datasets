@@ -3,7 +3,7 @@ set -euo pipefail
 
 cd /app
 printf "%s\n" "The:O
-\$:O
+$:O
 10.9:B-BusinessCombinationContingentConsiderationLiability
 million:O
 fair:O
@@ -37,6 +37,7 @@ Monte:O
 Carlo:O
 simulations:O
 .:O" > answer.txt
+
 
 
 

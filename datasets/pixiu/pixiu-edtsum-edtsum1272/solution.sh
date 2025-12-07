@@ -6,3 +6,4 @@ printf "%s\n" "enCore Energy Corp.: Invitation to Noble Capital Markets Presenta
 
 
 
+

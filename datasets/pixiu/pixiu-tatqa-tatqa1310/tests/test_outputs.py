@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "Holders of ordinary shares are entitled to receive dividends as declared and are entitled to one vote per share at shareholders\u2019 meetings."
+EXPECTED_LABEL = "Holders of ordinary shares are entitled to receive dividends as declared and are entitled to one vote per share at shareholders’ meetings."
 ALLOWED_CHOICES = ["Holders of ordinary shares are entitled to receive dividends as declared and are entitled to one vote per share at shareholders’ meetings."]
 PIXIU_ID = "tatqa1310"
 LABEL_TYPE = "text answer"

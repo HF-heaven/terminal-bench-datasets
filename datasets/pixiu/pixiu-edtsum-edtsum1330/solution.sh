@@ -6,3 +6,4 @@ printf "%s\n" "WesBanco Declares Quarterly Cash Dividend to Its Shareholders" > 
 
 
 
+

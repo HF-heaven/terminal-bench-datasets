@@ -6,7 +6,7 @@ printf "%s\n" "The:O
 Company:O
 recorded:O
 approximately:O
-\$:O
+$:O
 58:B-FinitelivedIntangibleAssetsAcquired1
 million:O
 for:O
@@ -25,6 +25,7 @@ to:O
 seven:O
 years:O
 .:O" > answer.txt
+
 
 
 

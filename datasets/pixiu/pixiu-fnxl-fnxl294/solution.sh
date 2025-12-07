@@ -5,7 +5,7 @@ cd /app
 printf "%s\n" "The:O
 Company:O
 recognized:O
-\$:O
+$:O
 31:B-CumulativeEffectOfNewAccountingPrincipleInPeriodOfAdoption
 million:O
 related:O
@@ -33,6 +33,7 @@ January:O
 ,:O
 2018:O
 .:O" > answer.txt
+
 
 
 

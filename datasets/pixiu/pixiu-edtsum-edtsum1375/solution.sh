@@ -6,3 +6,4 @@ printf "%s\n" "Norway Upstream (Oil and Gas) Fiscal and Regulatory Guide 2020 - 
 
 
 
+

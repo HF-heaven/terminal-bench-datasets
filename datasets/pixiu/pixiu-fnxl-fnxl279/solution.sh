@@ -26,11 +26,11 @@ the:O
 range:O
 of:O
 approximately:O
-\$:O
+$:O
 290:B-DecreaseInUnrecognizedTaxBenefitsIsReasonablyPossible
 million:O
 to:O
-\$:O
+$:O
 330:B-DecreaseInUnrecognizedTaxBenefitsIsReasonablyPossible
 million:O
 in:O
@@ -52,6 +52,7 @@ and:O
 other:O
 events:O
 .:O" > answer.txt
+
 
 
 

@@ -6,3 +6,4 @@ printf "%s\n" "Ellomay Capital Reports Results for the Three and Nine Months End
 
 
 
+

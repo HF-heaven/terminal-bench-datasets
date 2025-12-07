@@ -11,19 +11,19 @@ shipped:I-QUANT
 dropped:O
 to:O
 about:O
-\$:O
+$:O
 33:O
 a:O
 ton:O
 from:O
-\$:B-VALUE
+$:B-VALUE
 42:I-VALUE
 a:I-VALUE
 ton:I-VALUE
 last:B-TIME
 year:I-TIME
 and:O
-\$:B-VALUE
+$:B-VALUE
 53:I-VALUE
 a:I-VALUE
 ton:I-VALUE
@@ -35,6 +35,7 @@ quarter:I-TIME
 analysts:B-SOURCE
 said:O
 .:O" > answer.txt
+
 
 
 

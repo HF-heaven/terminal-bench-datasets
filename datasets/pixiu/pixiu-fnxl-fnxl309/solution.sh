@@ -15,10 +15,10 @@ at:O
 the:O
 rate:O
 of:O
-\$:O
+$:O
 1.00:O
 per:O
-\$:O
+$:O
 1.00:O
 employee:O
 contribution:O
@@ -40,6 +40,7 @@ contributions:O
 vest:O
 immediately:O
 .:O" > answer.txt
+
 
 
 

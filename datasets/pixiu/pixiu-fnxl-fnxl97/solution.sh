@@ -13,10 +13,10 @@ non:O
 domestic:O
 accounts:O
 were:O
-\$:O
+$:O
 6,995:B-CashAndCashEquivalentsAtCarryingValue
 and:O
-\$:O
+$:O
 13,660:B-CashAndCashEquivalentsAtCarryingValue
 as:O
 of:O
@@ -28,6 +28,7 @@ and:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

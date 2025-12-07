@@ -13,15 +13,15 @@ depreciation:O
 and:O
 amortization:O
 of:O
-\$:O
+$:O
 20.4:B-DepreciationDepletionAndAmortization
 million:O
 ,:O
-\$:O
+$:O
 21.8:B-DepreciationDepletionAndAmortization
 million:O
 and:O
-\$:O
+$:O
 25.3:B-DepreciationDepletionAndAmortization
 million:O
 for:O
@@ -33,6 +33,7 @@ and:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

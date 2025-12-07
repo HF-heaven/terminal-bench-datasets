@@ -1,26 +1,10 @@
 import json
 from pathlib import Path
 
-PIXIU_ID = "finerord0"
-LABEL_TYPE = "named entity recognition (NER)"
-EXPECTED_ANSWER = """H:O
-ave:O
-you:O
-ever:O
-felt:O
-that:O
-sudden:O
-,:O
-intense:O
-dread:O
-that:O
-you:O
-’re:O
-about:O
-to:O
-die:O
-?:O"""
-NUM_TOKENS = 17
+PIXIU_ID = "{pixiu_id}"
+LABEL_TYPE = "{label_type}"
+EXPECTED_ANSWER = """{expected_answer}"""
+NUM_TOKENS = {num_tokens}
 
 ANSWER_FILE = Path("/app/answer.txt")
 ITEM_FILE = Path("/tests/data/item.json")

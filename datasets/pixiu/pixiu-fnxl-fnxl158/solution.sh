@@ -11,7 +11,7 @@ end:O
 we:O
 had:O
 approximately:O
-\$:O
+$:O
 3,938:O
 million:O
 of:O
@@ -25,7 +25,7 @@ losses:O
 ,:O
 of:O
 which:O
-\$:O
+$:O
 2,315:B-DeferredTaxAssetsOperatingLossCarryforwardsSubjectToExpiration
 million:O
 will:O
@@ -33,6 +33,7 @@ expire:O
 through:O
 2040:O
 .:O" > answer.txt
+
 
 
 

@@ -6,3 +6,4 @@ printf "%s\n" "Prologis Pledges to Train 25,000 Individuals for In-Demand Logist
 
 
 
+

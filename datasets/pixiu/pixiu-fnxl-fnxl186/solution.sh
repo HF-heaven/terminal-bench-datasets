@@ -21,11 +21,11 @@ in:O
 the:O
 amounts:O
 of:O
-\$:O
+$:O
 8.8:B-ImpairmentOfIntangibleAssetsFinitelived
 million:O
 and:O
-\$:O
+$:O
 1.7:B-ImpairmentOfIntangibleAssetsFinitelived
 million:O
 ,:O
@@ -46,6 +46,7 @@ Propel:O
 Labs:O
 ,:O
 Inc.:O" > answer.txt
+
 
 
 

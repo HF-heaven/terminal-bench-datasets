@@ -39,11 +39,12 @@ in:O
 cash:O
 equal:O
 to:O
-\$:O
+$:O
 1,000:B-PreferredStockLiquidationPreference
 per:O
 share:O
 .:O" > answer.txt
+
 
 
 

@@ -5,7 +5,11 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: tatqa252
     • Task type: text answer
-    • Allowed labels: Operating revenue | Gross profit | EBITDA | EBIT | NPAT
+    • Allowed labels: Operating revenue
+Gross profit
+EBITDA
+EBIT
+NPAT
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

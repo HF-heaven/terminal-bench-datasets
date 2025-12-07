@@ -3,9 +3,9 @@ instruction: |
   You are auditing a single-sample evaluation from the PIXIU FinBen benchmark.
 
   Sample metadata:
-    • PIXIU instance id: tsa0
-    • Task type: targeted sentiment score
-    • Score range: -1.0 to 1.0
+    • PIXIU instance id: {pixiu_id}
+    • Task type: {label_type}
+    • Score range: {score_range}
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt and task details.
@@ -17,7 +17,7 @@ instruction: |
 
 author_email: adapters@tbench.ai
 author_name: terminal-bench
-difficulty: medium
+difficulty: {difficulty}
 category: financial-language
 tags:
   - pixiu

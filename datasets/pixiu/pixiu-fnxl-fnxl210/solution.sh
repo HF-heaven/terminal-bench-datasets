@@ -4,7 +4,7 @@ set -euo pipefail
 cd /app
 printf "%s\n" "We:O
 recorded:O
-\$:O
+$:O
 190:B-FinitelivedIntangibleAssetsAcquired1
 million:O
 of:O
@@ -21,6 +21,7 @@ of:O
 7:O
 years:O
 .:O" > answer.txt
+
 
 
 

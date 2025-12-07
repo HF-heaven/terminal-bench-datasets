@@ -23,7 +23,7 @@ recorded:O
 a:O
 gain:O
 of:O
-\$:O
+$:O
 43:B-DerivativeGainLossOnDerivativeNet
 million:O
 for:O
@@ -34,6 +34,7 @@ December31:O
 ,:O
 2019:O
 .:O" > answer.txt
+
 
 
 

@@ -30,7 +30,7 @@ for:O
 cash:O
 consideration:O
 of:O
-\$:O
+$:O
 91:O
 million:O
 resulting:O
@@ -40,10 +40,11 @@ increase:O
 to:O
 goodwill:O
 of:O
-\$:O
+$:O
 62:B-GoodwillAcquiredDuringPeriod
 million:O
 .:O" > answer.txt
+
 
 
 

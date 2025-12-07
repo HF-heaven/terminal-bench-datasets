@@ -15,11 +15,11 @@ December31:O
 net:O
 receivables:O
 of:O
-\$:O
+$:O
 2.68:B-ContractWithCustomerAssetNet
 billion:O
 and:O
-\$:O
+$:O
 2.77:B-ContractWithCustomerAssetNet
 billion:O
 ,:O
@@ -48,6 +48,7 @@ contracts:O
 with:O
 customers:O
 .:O" > answer.txt
+
 
 
 

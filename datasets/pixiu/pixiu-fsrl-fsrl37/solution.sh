@@ -35,7 +35,7 @@ million:I-VALUE
 Irish:I-VALUE
 punts:I-VALUE
 -LRB-:O
-\$:O
+$:O
 14.9:O
 million:O
 -RRB-:O
@@ -48,6 +48,7 @@ a:B-TIME
 year:I-TIME
 earlier:I-TIME
 .:O" > answer.txt
+
 
 
 

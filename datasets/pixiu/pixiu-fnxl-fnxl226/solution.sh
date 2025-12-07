@@ -7,7 +7,7 @@ printf "%s\n" "The:O
 charge:O
 also:O
 included:O
-\$:O
+$:O
 66.3:B-RestructuringAndRelatedCostIncurredCost
 for:O
 severance:O
@@ -59,6 +59,7 @@ and:O
 technology:O
 functions:O
 .:O" > answer.txt
+
 
 
 

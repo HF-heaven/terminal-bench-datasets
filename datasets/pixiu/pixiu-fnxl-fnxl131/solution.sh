@@ -29,12 +29,13 @@ July2:O
 issuance:O
 costs:O
 of:O
-\$:O
+$:O
 5:B-DeferredFinanceCostsNet
 million:O
 remained:O
 unamortized:O
 .:O" > answer.txt
+
 
 
 

@@ -6,3 +6,4 @@ printf "%s\n" "KBRA Affirms National Storage Affiliate Trust Ratings and Raises 
 
 
 
+

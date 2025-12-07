@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "Longfin Fair Fund Established by the Securities & Exchange Commission (\"Commission\")--Summary Notice of Distribution"
+EXPECTED_LABEL = "Longfin Fair Fund Established by the Securities & Exchange Commission ("Commission")--Summary Notice of Distribution"
 ALLOWED_CHOICES = ["Longfin Fair Fund Established by the Securities & Exchange Commission (\"Commission\")--Summary Notice of Distribution"]
 PIXIU_ID = "edtsum1078"
 LABEL_TYPE = "abstractive summary"

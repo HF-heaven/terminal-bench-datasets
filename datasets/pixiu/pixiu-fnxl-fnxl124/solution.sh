@@ -9,13 +9,13 @@ tax:O
 (:O
 benefit)/expense:O
 of:O
-\$:O
+$:O
 0:B-ReclassificationFromAociCurrentPeriodTax
 ,:O
-\$:O
+$:O
 89:B-ReclassificationFromAociCurrentPeriodTax
 and:O
-\$:O
+$:O
 0:B-ReclassificationFromAociCurrentPeriodTax
 for:O
 gains:O
@@ -43,6 +43,7 @@ June30:O
 ,:O
 2020:O
 .:O" > answer.txt
+
 
 
 

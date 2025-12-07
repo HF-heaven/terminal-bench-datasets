@@ -6,3 +6,4 @@ printf "%s\n" "TORM defines Loan-to-value (LTV) ratio as Vessel values divided b
 
 
 
+

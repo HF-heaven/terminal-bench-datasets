@@ -13,7 +13,7 @@ drew:O
 down:O
 an:O
 additional:O
-\$:O
+$:O
 500:B-ProceedsFromLinesOfCredit
 million:O
 under:O
@@ -22,6 +22,7 @@ Amended:O
 Credit:O
 Agreement:O
 .:O" > answer.txt
+
 
 
 

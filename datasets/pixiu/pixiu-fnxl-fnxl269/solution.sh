@@ -19,16 +19,17 @@ December:O
 ,:O
 2018:O
 was:O
-\$:O
+$:O
 43.9:B-ContractWithCustomerAssetNet
 million:O
 and:O
-\$:O
+$:O
 25.9:B-ContractWithCustomerAssetNet
 million:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

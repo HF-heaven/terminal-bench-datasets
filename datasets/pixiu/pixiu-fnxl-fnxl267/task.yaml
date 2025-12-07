@@ -5,7 +5,26 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: fnxl267
     • Task type: token labels
-    • Allowed labels: We:O | contribute:O | up:O | to:O | 10:B-DefinedContributionPlanEmployerMatchingContributionPercentOfMatch | %:O | of:O | total:O | salary:O | into:O | the:O | plan:O | annually:O | when:O | employees:O | contribute:O | to:O | the:O | plan:O | .:O
+    • Allowed labels: We:O
+contribute:O
+up:O
+to:O
+10:B-DefinedContributionPlanEmployerMatchingContributionPercentOfMatch
+%:O
+of:O
+total:O
+salary:O
+into:O
+the:O
+plan:O
+annually:O
+when:O
+employees:O
+contribute:O
+to:O
+the:O
+plan:O
+.:O
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

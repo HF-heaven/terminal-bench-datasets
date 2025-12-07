@@ -8,7 +8,7 @@ consist:O
 of:O
 ::O
 a:O
-\$:B-VALUE
+$:B-VALUE
 25:I-VALUE
 million:I-VALUE
 after-tax:B-QUANT
@@ -27,7 +27,7 @@ subsidiary:I-CAUSE
 a:O
 previously:O
 announced:O
-\$:B-VALUE
+$:B-VALUE
 38:I-VALUE
 million:I-VALUE
 after-tax:B-QUANT
@@ -35,7 +35,7 @@ charge:I-QUANT
 resulting:O
 from:O
 a:B-CAUSE
-\$:I-CAUSE
+$:I-CAUSE
 325:I-CAUSE
 million:I-CAUSE
 settlement:I-CAUSE
@@ -46,7 +46,7 @@ Oil:I-CAUSE
 Co.:I-CAUSE
 and:O
 a:O
-\$:B-VALUE
+$:B-VALUE
 15:I-VALUE
 million:I-VALUE
 after-tax:B-QUANT
@@ -63,6 +63,7 @@ Technology:I-CAUSE
 Corp.:I-CAUSE
 subsidiary:I-CAUSE
 .:O" > answer.txt
+
 
 
 

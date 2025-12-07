@@ -18,7 +18,7 @@ with:O
 a:O
 customer:O
 was:O
-\$:O
+$:O
 93.0:B-CapitalizedContractCostNet
 million:O
 as:O
@@ -27,6 +27,7 @@ January31:O
 ,:O
 2019:O
 .:O" > answer.txt
+
 
 
 

@@ -6,3 +6,4 @@ printf "%s\n" "Tikehau Capital : Dclaration des transactions sur actions propres
 
 
 
+

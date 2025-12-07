@@ -5,7 +5,8 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: tatqa1476
     • Task type: text answer
-    • Allowed labels: $275,792 | $282,950
+    • Allowed labels: $275,792
+$282,950
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

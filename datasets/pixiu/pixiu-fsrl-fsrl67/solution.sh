@@ -10,7 +10,7 @@ plan:O
 pioneer:O
 ,:O
 generated:B-QUANT
-\$:B-VALUE
+$:B-VALUE
 54,000:I-VALUE
 in:O
 matching:B-QUANT
@@ -20,11 +20,12 @@ year:I-TIME
 ,:O
 up:O
 from:O
-\$:B-VALUE
+$:B-VALUE
 39,000:I-VALUE
 in:O
 1988:B-TIME
 .:O" > answer.txt
+
 
 
 

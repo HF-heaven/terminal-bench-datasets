@@ -6,3 +6,4 @@ printf "%s\n" "previously recognised as loans and receivables under IAS 39 now c
 
 
 
+

@@ -5,7 +5,9 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: tatqa871
     • Task type: text answer
-    • Allowed labels: 27.2 million | $22.5 million | $22.0 million
+    • Allowed labels: 27.2 million
+$22.5 million
+$22.0 million
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

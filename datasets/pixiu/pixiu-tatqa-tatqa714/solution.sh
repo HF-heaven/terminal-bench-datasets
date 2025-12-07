@@ -6,3 +6,4 @@ printf "%s\n" "The following table shows assets allocated by reportable segment"
 
 
 
+

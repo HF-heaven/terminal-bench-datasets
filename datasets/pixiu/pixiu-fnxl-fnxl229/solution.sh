@@ -14,11 +14,11 @@ Note:O
 ,:O
 we:O
 acquired:O
-\$:O
+$:O
 26.2:B-FinitelivedIntangibleAssetsAcquired1
 million:O
 and:O
-\$:O
+$:O
 13.4:B-FinitelivedIntangibleAssetsAcquired1
 million:O
 of:O
@@ -36,6 +36,7 @@ and:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

@@ -17,7 +17,7 @@ initial:O
 reference:O
 price:O
 of:O
-\$:O
+$:O
 159.45:B-SharesIssuedPricePerShare
 ,:O
 equal:O
@@ -39,6 +39,7 @@ November:O
 ,:O
 2019:O
 .:O" > answer.txt
+
 
 
 

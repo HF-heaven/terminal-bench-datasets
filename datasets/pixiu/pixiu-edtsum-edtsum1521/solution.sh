@@ -6,3 +6,4 @@ printf "%s\n" "Consumer Watchdog Warns Newsom Continued Emergency Exemption Of R
 
 
 
+

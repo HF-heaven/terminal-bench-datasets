@@ -24,16 +24,17 @@ at:O
 a:O
 cost:O
 of:O
-\$:O
+$:O
 1.5:B-PaymentsForRepurchaseOfCommonStock
 billion:O
 and:O
-\$:O
+$:O
 3.8:B-PaymentsForRepurchaseOfCommonStock
 billion:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

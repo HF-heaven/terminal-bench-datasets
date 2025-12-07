@@ -6,3 +6,4 @@ printf "%s\n" "Capital Square 1031 Launches DST Offering of Newly Constructed Mu
 
 
 
+

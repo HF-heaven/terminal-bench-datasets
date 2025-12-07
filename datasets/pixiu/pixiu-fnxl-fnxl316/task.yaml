@@ -5,7 +5,13 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: fnxl316
     • Task type: token labels
-    • Allowed labels: AutoGuide:O | contingent:O | considerationliability:O | ,:O | $:O | 2.9:B-SeveranceCosts1 | million:O
+    • Allowed labels: AutoGuide:O
+contingent:O
+considerationliability:O
+,:O
+$:O
+2.9:B-SeveranceCosts1
+million:O
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

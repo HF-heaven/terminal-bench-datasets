@@ -1,7 +1,10 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "Taxation\nDividends received from associates and investments\nDividends paid to non-controlling shareholders in subsidiaries\nInterest received and paid"
+EXPECTED_LABEL = "Taxation
+Dividends received from associates and investments
+Dividends paid to non-controlling shareholders in subsidiaries
+Interest received and paid"
 ALLOWED_CHOICES = ["Taxation\nDividends received from associates and investments\nDividends paid to non-controlling shareholders in subsidiaries\nInterest received and paid"]
 PIXIU_ID = "tatqa42"
 LABEL_TYPE = "text answer"

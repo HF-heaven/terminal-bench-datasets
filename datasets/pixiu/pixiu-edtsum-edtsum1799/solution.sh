@@ -6,3 +6,4 @@ printf "%s\n" "Innovative Industrial Properties Declares Third Quarter 2020 Divi
 
 
 
+

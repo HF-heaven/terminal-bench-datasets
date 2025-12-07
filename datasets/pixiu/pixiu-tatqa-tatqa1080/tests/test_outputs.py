@@ -1,7 +1,10 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "Amounts owed by subsidiaries\nTaxation recoverable\nOther debtors\nDerivative financial instruments"
+EXPECTED_LABEL = "Amounts owed by subsidiaries
+Taxation recoverable
+Other debtors
+Derivative financial instruments"
 ALLOWED_CHOICES = ["Amounts owed by subsidiaries\nTaxation recoverable\nOther debtors\nDerivative financial instruments"]
 PIXIU_ID = "tatqa1080"
 LABEL_TYPE = "text answer"

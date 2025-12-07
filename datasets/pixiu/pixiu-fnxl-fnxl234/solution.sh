@@ -9,11 +9,11 @@ of:O
 public:O
 debt:O
 was:O
-\$:O
+$:O
 7.4:B-DebtInstrumentFairValue
 billion:O
 and:O
-\$:O
+$:O
 8.6:B-DebtInstrumentFairValue
 billion:O
 at:O
@@ -44,6 +44,7 @@ fair:O
 value:O
 hierarchy:O
 .:O" > answer.txt
+
 
 
 

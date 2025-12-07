@@ -5,7 +5,7 @@ cd /app
 printf "%s\n" "This:O
 amount:O
 includes:O
-\$:O
+$:O
 8:B-DerivativeGainLossOnDerivativeNet
 million:O
 of:O
@@ -33,6 +33,7 @@ Corporate:O
 column:O
 below:O
 .:O" > answer.txt
+
 
 
 

@@ -11,11 +11,11 @@ in:O
 other:O
 assets:O
 were:O
-\$:O
+$:O
 47.3:B-CapitalizedContractCostNet
 million:O
 and:O
-\$:O
+$:O
 43.5:B-CapitalizedContractCostNet
 million:O
 as:O
@@ -28,6 +28,7 @@ and:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

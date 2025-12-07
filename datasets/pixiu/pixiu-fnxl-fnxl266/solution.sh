@@ -5,15 +5,15 @@ cd /app
 printf "%s\n" "Contract:O
 assets:O
 of:O
-\$:O
+$:O
 39:B-ContractWithCustomerAssetNet
 million:O
 ,:O
-\$:O
+$:O
 13:B-ContractWithCustomerAssetNet
 million:O
 and:O
-\$:O
+$:O
 14:B-ContractWithCustomerAssetNet
 million:O
 are:O
@@ -38,6 +38,7 @@ and:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

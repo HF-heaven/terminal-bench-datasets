@@ -22,16 +22,17 @@ for:O
 these:O
 projects:O
 were:O
-\$:O
+$:O
 8:B-LongTermPurchaseCommitmentAmount
 million:O
 and:O
-\$:O
+$:O
 7:B-LongTermPurchaseCommitmentAmount
 million:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

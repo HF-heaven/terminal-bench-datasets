@@ -5,7 +5,23 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: fnxl87
     • Task type: token labels
-    • Allowed labels: The:O | aggregate:O | dollar:O | expense:O | derived:O | from:O | these:O | tax:O | holidays:O | approximated:O | $:O | 0.1:B-IncomeTaxHolidayAggregateDollarAmount | million:O | in:O | fiscal:O | 2019:O | .:O
+    • Allowed labels: The:O
+aggregate:O
+dollar:O
+expense:O
+derived:O
+from:O
+these:O
+tax:O
+holidays:O
+approximated:O
+$:O
+0.1:B-IncomeTaxHolidayAggregateDollarAmount
+million:O
+in:O
+fiscal:O
+2019:O
+.:O
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

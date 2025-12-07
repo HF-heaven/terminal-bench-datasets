@@ -13,11 +13,11 @@ sales:O
 commissions:O
 and:O
 were:O
-\$:O
+$:O
 15.7:B-CapitalizedContractCostNet
 million:O
 and:O
-\$:O
+$:O
 13.6:B-CapitalizedContractCostNet
 million:O
 as:O
@@ -43,6 +43,7 @@ and:O
 other:O
 assets:O
 .:O" > answer.txt
+
 
 
 

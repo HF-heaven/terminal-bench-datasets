@@ -6,3 +6,4 @@ printf "%s\n" "an annual plan approved by the members, and capital contributions
 
 
 
+

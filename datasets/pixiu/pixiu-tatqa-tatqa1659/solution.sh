@@ -7,3 +7,4 @@ Wages and salaries" > answer.txt
 
 
 
+

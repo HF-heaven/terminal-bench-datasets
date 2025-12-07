@@ -24,11 +24,11 @@ and:O
 the:O
 Company:O
 had:O
-\$:O
+$:O
 55.6:B-EquitySecuritiesWithoutReadilyDeterminableFairValueAmount
 million:O
 and:O
-\$:O
+$:O
 45.5:B-EquitySecuritiesWithoutReadilyDeterminableFairValueAmount
 million:O
 ,:O
@@ -47,6 +47,7 @@ determinable:O
 fair:O
 value:O
 .:O" > answer.txt
+
 
 
 

@@ -14,12 +14,13 @@ intangibles:O
 in:O
 2020:O
 and:O
-\$:O
+$:O
 168:B-ImpairmentOfIntangibleAssetsExcludingGoodwill
 million:O
 in:O
 2018:O
 .:O" > answer.txt
+
 
 
 

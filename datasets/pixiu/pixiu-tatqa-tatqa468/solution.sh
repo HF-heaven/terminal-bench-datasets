@@ -6,3 +6,4 @@ printf "%s\n" "amounts due from customers for rental income, goods sold or servi
 
 
 
+

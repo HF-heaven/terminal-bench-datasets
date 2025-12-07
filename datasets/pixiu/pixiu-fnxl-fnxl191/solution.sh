@@ -19,14 +19,14 @@ December31:O
 includes:O
 revenue:O
 of:O
-\$:O
+$:O
 392.3:B-BusinessCombinationProFormaInformationRevenueOfAcquireeSinceAcquisitionDateActual
 million:O
 and:O
 operating:O
 income:O
 of:O
-\$:O
+$:O
 86.7:O
 million:O
 related:O
@@ -39,6 +39,7 @@ operations:O
 of:O
 HFF:O
 .:O" > answer.txt
+
 
 
 

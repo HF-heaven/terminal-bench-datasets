@@ -25,7 +25,7 @@ Waterworks:O
 tradename:O
 balance:O
 was:O
-\$:O
+$:O
 37.5:B-IndefiniteLivedIntangibleAssetsExcludingGoodwill
 million:O
 as:O
@@ -34,6 +34,7 @@ February1:O
 ,:O
 2020:O
 .:O" > answer.txt
+
 
 
 

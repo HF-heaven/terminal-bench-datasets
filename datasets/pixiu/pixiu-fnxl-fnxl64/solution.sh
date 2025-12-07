@@ -23,16 +23,16 @@ to:O
 the:O
 trust:O
 were:O
-\$:O
+$:O
 2.1:B-DeferredCompensationArrangementWithIndividualCompensationExpense
 million:O
 ,:O
-\$:O
+$:O
 2.6:B-DeferredCompensationArrangementWithIndividualCompensationExpense
 million:O
 ,:O
 and:O
-\$:O
+$:O
 3.3:B-DeferredCompensationArrangementWithIndividualCompensationExpense
 million:O
 ,:O
@@ -52,6 +52,7 @@ consolidated:O
 financial:O
 statements:O
 .:O" > answer.txt
+
 
 
 

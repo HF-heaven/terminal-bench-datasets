@@ -6,3 +6,4 @@ printf "%s\n" "Aquitaine Hospitality Deepens Partnership with Infor for Manageme
 
 
 
+

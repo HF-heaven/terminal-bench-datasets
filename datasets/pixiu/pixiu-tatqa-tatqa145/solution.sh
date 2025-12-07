@@ -6,3 +6,4 @@ printf "%s\n" "This world-wide restructuring plan included a reduction in force 
 
 
 
+

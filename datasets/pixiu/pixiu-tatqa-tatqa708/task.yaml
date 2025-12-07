@@ -5,7 +5,9 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: tatqa708
     • Task type: text answer
-    • Allowed labels: Salaries and fees | Incentive schemes | Other benefits
+    • Allowed labels: Salaries and fees
+Incentive schemes
+Other benefits
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

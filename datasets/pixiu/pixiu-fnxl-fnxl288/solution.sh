@@ -7,7 +7,7 @@ printf "%s\n" "Therefore:O
 we:O
 recorded:O
 a:O
-\$:O
+$:O
 2.7:B-ImpairmentOfLongLivedAssetsHeldForUse
 million:O
 impairment:O
@@ -28,7 +28,7 @@ of:O
 the:O
 assets:O
 in:O
-\":O
+":O
 Loss:O
 on:O
 impairment:O
@@ -37,12 +37,13 @@ retirement:O
 of:O
 fixed:O
 assets:O
-\":O
+":O
 within:O
 the:O
 consolidated:O
 statement:O
 of:O" > answer.txt
+
 
 
 

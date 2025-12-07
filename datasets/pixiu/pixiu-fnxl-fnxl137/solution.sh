@@ -22,7 +22,7 @@ an:O
 impairment:O
 charge:O
 of:O
-\$:O
+$:O
 63:B-EquityMethodInvestmentOtherThanTemporaryImpairment
 million:O
 ,:O
@@ -36,6 +36,7 @@ after:O
 income:O
 taxes:O
 .:O" > answer.txt
+
 
 
 

@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "Specialty Alloys Operations (\u201cSAO\u201d) and Performance Engineered Products (\u201cPEP\u201d)."
+EXPECTED_LABEL = "Specialty Alloys Operations (“SAO”) and Performance Engineered Products (“PEP”)."
 ALLOWED_CHOICES = ["Specialty Alloys Operations (“SAO”) and Performance Engineered Products (“PEP”)."]
 PIXIU_ID = "tatqa1332"
 LABEL_TYPE = "text answer"

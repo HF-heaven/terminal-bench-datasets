@@ -17,7 +17,7 @@ and:O
 by:O
 drawing:O
 down:O
-\$:O
+$:O
 98.5:B-ProceedsFromLinesOfCredit
 million:O
 from:O
@@ -30,6 +30,7 @@ facility:O
 Note:O
 8):O
 .:O" > answer.txt
+
 
 
 

@@ -18,7 +18,7 @@ September30:O
 ,:O
 2018:O
 ,:O
-\$:O
+$:O
 1.5:B-RestructuringReserve
 million:O
 is:O
@@ -31,7 +31,7 @@ other:O
 current:O
 liabilities:O
 and:O
-\$:O
+$:O
 0.9:B-RestructuringReserve
 million:O
 is:O
@@ -45,6 +45,7 @@ Consolidated:O
 Balance:O
 Sheets:O
 .:O" > answer.txt
+
 
 
 

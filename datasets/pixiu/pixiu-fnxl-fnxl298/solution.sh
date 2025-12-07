@@ -28,7 +28,7 @@ for:O
 a:O
 total:O
 of:O
-\$:O
+$:O
 13:B-LitigationSettlementAmountAwardedToOtherParty
 million:O
 ,:O
@@ -37,6 +37,7 @@ attorneys:O
 ’:O
 fees:O
 .:O" > answer.txt
+
 
 
 

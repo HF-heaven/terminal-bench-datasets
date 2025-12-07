@@ -11,7 +11,7 @@ April2:O
 we:O
 have:O
 incurred:O
-\$:O
+$:O
 127:B-RestructuringAndRelatedCostCostIncurredToDate1
 million:O
 of:O
@@ -28,6 +28,7 @@ based:O
 severance:O
 program:O
 .:O" > answer.txt
+
 
 
 

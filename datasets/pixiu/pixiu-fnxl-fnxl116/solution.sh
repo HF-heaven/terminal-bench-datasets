@@ -39,10 +39,10 @@ in:O
 foreign:O
 jurisdictions:O
 of:O
-\$:O
+$:O
 3,753:B-OperatingLossCarryforwardsValuationAllowance
 and:O
-\$:O
+$:O
 474:B-OperatingLossCarryforwardsValuationAllowance
 at:O
  :O
@@ -54,6 +54,7 @@ and:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

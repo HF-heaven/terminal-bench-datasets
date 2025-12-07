@@ -1,7 +1,13 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "AutoGuide:O\ncontingent:O\nconsiderationliability:O\n,:O\n$:O\n2.9:B-SeveranceCosts1\nmillion:O"
+EXPECTED_LABEL = "AutoGuide:O
+contingent:O
+considerationliability:O
+,:O
+$:O
+2.9:B-SeveranceCosts1
+million:O"
 ALLOWED_CHOICES = ["AutoGuide:O\ncontingent:O\nconsiderationliability:O\n,:O\n$:O\n2.9:B-SeveranceCosts1\nmillion:O"]
 PIXIU_ID = "fnxl316"
 LABEL_TYPE = "token labels"

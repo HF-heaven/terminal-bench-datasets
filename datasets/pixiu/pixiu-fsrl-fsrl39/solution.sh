@@ -15,13 +15,13 @@ had:O
 operating:B-QUANT
 profit:I-QUANT
 of:O
-\$:B-VALUE
+$:B-VALUE
 11.7:I-VALUE
 million:I-VALUE
 on:O
 sales:B-QUANT
 of:O
-\$:B-VALUE
+$:B-VALUE
 153.3:I-VALUE
 million:I-VALUE
 for:O
@@ -36,13 +36,13 @@ and:O
 operating:B-QUANT
 profit:I-QUANT
 of:O
-\$:B-VALUE
+$:B-VALUE
 25.6:I-VALUE
 million:I-VALUE
 on:O
 sales:B-QUANT
 of:O
-\$:B-VALUE
+$:B-VALUE
 294.6:I-VALUE
 million:I-VALUE
 for:O
@@ -50,6 +50,7 @@ all:B-TIME
 of:I-TIME
 1988:I-TIME
 .:O" > answer.txt
+
 
 
 

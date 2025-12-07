@@ -6,3 +6,4 @@ printf "%s\n" "Lumenis Launches Digital Duet, the First Digital SLT-YAG Platform
 
 
 
+

@@ -12,7 +12,7 @@ we:O
 had:O
 liquidity:O
 of:O
-\$:O
+$:O
 4.4billion:O
 ,:O
 consisting:O
@@ -22,12 +22,12 @@ and:O
 cash:O
 equivalents:O
 of:O
-\$:O
+$:O
 3.7:B-CashAndCashEquivalentsAtCarryingValue
 billion:O
 and:O
 a:O
-\$:O
+$:O
 0.7billion:O
 one:O
 -:O
@@ -42,6 +42,7 @@ term:O
 loan:O
 facility:O
 .:O" > answer.txt
+
 
 
 

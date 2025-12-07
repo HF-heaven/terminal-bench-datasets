@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "Oyagen, Inc. Publishes Study On Its OYA1 As A \"Highly Effective\" Experimental Drug Candidate For Treating Infections By The Ebola Virus"
+EXPECTED_LABEL = "Oyagen, Inc. Publishes Study On Its OYA1 As A "Highly Effective" Experimental Drug Candidate For Treating Infections By The Ebola Virus"
 ALLOWED_CHOICES = ["Oyagen, Inc. Publishes Study On Its OYA1 As A \"Highly Effective\" Experimental Drug Candidate For Treating Infections By The Ebola Virus"]
 PIXIU_ID = "edtsum387"
 LABEL_TYPE = "abstractive summary"

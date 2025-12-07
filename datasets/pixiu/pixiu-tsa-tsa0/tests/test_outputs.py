@@ -1,11 +1,11 @@
 import json
 from pathlib import Path
 
-EXPECTED_SCORE = 0.588
-SCORE_MIN = -1.0
-SCORE_MAX = 1.0
-PIXIU_ID = "tsa0"
-LABEL_TYPE = "targeted sentiment score"
+EXPECTED_SCORE = {expected_score}
+SCORE_MIN = {score_min}
+SCORE_MAX = {score_max}
+PIXIU_ID = "{pixiu_id}"
+LABEL_TYPE = "{label_type}"
 
 # Tolerance for floating point comparison (±0.1 is reasonable for sentiment scores)
 TOLERANCE = 0.1

@@ -5,7 +5,11 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: tatqa1147
     • Task type: text answer
-    • Allowed labels: Indirect taxes receivable | Unbilled revenues | Trade receivables | Accrued interest | Other receivables
+    • Allowed labels: Indirect taxes receivable
+Unbilled revenues
+Trade receivables
+Accrued interest
+Other receivables
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

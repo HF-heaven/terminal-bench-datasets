@@ -6,3 +6,4 @@ printf "%s\n" "In constant currency, total cloud and license expenses increased 
 
 
 
+

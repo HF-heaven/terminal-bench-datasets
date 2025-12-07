@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "\"Accounts payable and accrued liabilities\""
+EXPECTED_LABEL = ""Accounts payable and accrued liabilities""
 ALLOWED_CHOICES = ["\"Accounts payable and accrued liabilities\""]
 PIXIU_ID = "tatqa326"
 LABEL_TYPE = "text answer"

@@ -6,3 +6,4 @@ printf "%s\n" "only upon the market price of our underlying public stock closing
 
 
 
+

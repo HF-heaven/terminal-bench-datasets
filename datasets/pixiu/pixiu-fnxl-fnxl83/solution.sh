@@ -19,16 +19,16 @@ during:O
 the:O
 year:O
 was:O
-\$:O
+$:O
 39.4:B-SharebasedCompensationArrangementBySharebasedPaymentAwardEquityInstrumentsOtherThanOptionsAggregateIntrinsicValueVested
 million:O
 ,:O
-\$:O
+$:O
 36.6:B-SharebasedCompensationArrangementBySharebasedPaymentAwardEquityInstrumentsOtherThanOptionsAggregateIntrinsicValueVested
 million:O
 ,:O
 and:O
-\$:O
+$:O
 14.5:B-SharebasedCompensationArrangementBySharebasedPaymentAwardEquityInstrumentsOtherThanOptionsAggregateIntrinsicValueVested
 million:O
 for:O
@@ -47,6 +47,7 @@ and:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

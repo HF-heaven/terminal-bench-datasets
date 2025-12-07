@@ -6,3 +6,4 @@ printf "%s\n" "Adjusted EBITA was on the prior-year level as positive effects fr
 
 
 
+

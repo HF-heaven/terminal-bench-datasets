@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "Eat Beyond Global Holdings to Commence Trading on the CSE Under the Symbol \"EATS\""
+EXPECTED_LABEL = "Eat Beyond Global Holdings to Commence Trading on the CSE Under the Symbol "EATS""
 ALLOWED_CHOICES = ["Eat Beyond Global Holdings to Commence Trading on the CSE Under the Symbol \"EATS\""]
 PIXIU_ID = "edtsum1831"
 LABEL_TYPE = "abstractive summary"

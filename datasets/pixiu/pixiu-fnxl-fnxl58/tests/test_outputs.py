@@ -1,7 +1,18 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "Other:O\nintangibles:O\n,:O\nnet:O\nof:O\namortization:O\nof:O\n$:O\n403,347:B-FiniteLivedIntangibleAssetsAccumulatedAmortization\nand:O\n$:O\n333,507:B-FiniteLivedIntangibleAssetsAccumulatedAmortization"
+EXPECTED_LABEL = "Other:O
+intangibles:O
+,:O
+net:O
+of:O
+amortization:O
+of:O
+$:O
+403,347:B-FiniteLivedIntangibleAssetsAccumulatedAmortization
+and:O
+$:O
+333,507:B-FiniteLivedIntangibleAssetsAccumulatedAmortization"
 ALLOWED_CHOICES = ["Other:O\nintangibles:O\n,:O\nnet:O\nof:O\namortization:O\nof:O\n$:O\n403,347:B-FiniteLivedIntangibleAssetsAccumulatedAmortization\nand:O\n$:O\n333,507:B-FiniteLivedIntangibleAssetsAccumulatedAmortization"]
 PIXIU_ID = "fnxl58"
 LABEL_TYPE = "token labels"

@@ -6,3 +6,4 @@ printf "%s\n" "Welltower Issues Business Update" > answer.txt
 
 
 
+

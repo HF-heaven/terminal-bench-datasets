@@ -30,7 +30,7 @@ and:O
 West:O
 Virginia:O
 for:O
-\$:O
+$:O
 340:B-LitigationSettlementAmountAwardedToOtherParty
 million:O
 ,:O
@@ -48,6 +48,7 @@ case:O
 mentioned:O
 above:O
 .:O" > answer.txt
+
 
 
 

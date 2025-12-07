@@ -6,3 +6,4 @@ printf "%s\n" "Banyan Residential and Marble Capital Acquire Downtown Houston Ap
 
 
 
+

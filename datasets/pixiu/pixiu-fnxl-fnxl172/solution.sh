@@ -20,11 +20,11 @@ an:O
 impairment:O
 charge:O
 of:O
-\$:O
+$:O
 0.6:B-ImpairmentOfIntangibleAssetsIndefinitelivedExcludingGoodwill
 million:O
 and:O
-\$:O
+$:O
 0.5:B-ImpairmentOfIntangibleAssetsIndefinitelivedExcludingGoodwill
 million:O
 related:O
@@ -38,6 +38,7 @@ name:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

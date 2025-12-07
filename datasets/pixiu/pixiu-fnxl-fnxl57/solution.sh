@@ -22,14 +22,15 @@ restricted:O
 cash:O
 ,:O
 was:O
-\$:O
+$:O
 193,555:B-CashAndCashEquivalentsAtCarryingValue
 and:O
-\$:O
+$:O
 165,485:B-CashAndCashEquivalentsAtCarryingValue
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

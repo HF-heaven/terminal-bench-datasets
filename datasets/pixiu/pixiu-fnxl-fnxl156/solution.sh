@@ -9,22 +9,22 @@ we:O
 repaid:O
 the:O
 remaining:O
-\$:O
+$:O
 890:B-RepaymentsOfDebt
 million:O
 and:O
-\$:O
+$:O
 320:B-RepaymentsOfDebt
 million:O
 balances:O
 related:O
 to:O
 the:O
-\$:O
+$:O
 925:O
 million:O
 and:O
-\$:O
+$:O
 800:O
 million:O
 term:O
@@ -32,6 +32,7 @@ loans:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

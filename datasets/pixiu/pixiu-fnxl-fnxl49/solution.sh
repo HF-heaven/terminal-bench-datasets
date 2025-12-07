@@ -14,17 +14,18 @@ income:O
 taxes:O
 paid:O
 totaled:O
-\$:O
+$:O
 1,790:B-IncomeTaxesPaid
 ,:O
-\$:O
+$:O
 1,403:B-IncomeTaxesPaid
 and:O
-\$:O
+$:O
 738:B-IncomeTaxesPaid
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

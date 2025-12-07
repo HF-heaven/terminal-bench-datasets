@@ -5,7 +5,11 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: tatqa906
     • Task type: text answer
-    • Allowed labels: Canada | United States | United Kingdom | Australia | Rest of World
+    • Allowed labels: Canada
+United States
+United Kingdom
+Australia
+Rest of World
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

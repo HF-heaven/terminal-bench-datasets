@@ -6,3 +6,4 @@ printf "%s\n" "Global Consumer Confidence Suffers Record Drop in Q2 The Conferen
 
 
 
+

@@ -5,7 +5,19 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: fnxl276
     • Task type: token labels
-    • Allowed labels: The:O | weighted:O | average:O | interest:O | rate:O | on:O | the:O | outstanding:O | balances:O | was:O | 0.4:B-LongtermDebtWeightedAverageInterestRate | %:O | .:O
+    • Allowed labels: The:O
+weighted:O
+average:O
+interest:O
+rate:O
+on:O
+the:O
+outstanding:O
+balances:O
+was:O
+0.4:B-LongtermDebtWeightedAverageInterestRate
+%:O
+.:O
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

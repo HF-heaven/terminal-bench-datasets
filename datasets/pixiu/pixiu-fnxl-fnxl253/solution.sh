@@ -9,7 +9,7 @@ Company:O
 acquired:O
 goodwill:O
 of:O
-\$:O
+$:O
 2:B-GoodwillAcquiredDuringPeriod
 million:O
 associated:O
@@ -24,6 +24,7 @@ Regulated:O
 Businesses:O
 segment:O
 .:O" > answer.txt
+
 
 
 

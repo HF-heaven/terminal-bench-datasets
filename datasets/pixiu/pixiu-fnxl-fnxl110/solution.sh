@@ -74,11 +74,12 @@ at:O
 a:O
 price:O
 of:O
-\$:O
+$:O
 0.00633:B-SaleOfStockPricePerShare
 per:O
 share:O
 .:O" > answer.txt
+
 
 
 

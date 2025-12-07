@@ -6,3 +6,4 @@ printf "%s\n" "temporary differences between the amount of assets and liabilitie
 
 
 
+

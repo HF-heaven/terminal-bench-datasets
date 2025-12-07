@@ -15,7 +15,7 @@ other:O
 restructuring:O
 charges:O
 of:O
-\$:O
+$:O
 37.6:B-RestructuringAndRelatedCostCostIncurredToDate1
 million:O
 ,:O
@@ -27,10 +27,11 @@ cash:O
 charges:O
 of:O
 approximately:O
-\$:O
+$:O
 11:O
 million:O
 .:O" > answer.txt
+
 
 
 

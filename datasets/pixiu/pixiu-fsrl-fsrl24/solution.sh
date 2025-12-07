@@ -21,7 +21,7 @@ than:O
 95:O
 %:O
 to:O
-\$:B-VALUE
+$:B-VALUE
 1:I-VALUE
 million:I-VALUE
 ,:O
@@ -32,12 +32,12 @@ a:I-VALUE
 share:I-VALUE
 ,:O
 from:O
-\$:B-VALUE
+$:B-VALUE
 24.2:I-VALUE
 million:I-VALUE
 ,:O
 or:O
-\$:B-VALUE
+$:B-VALUE
 1.10:I-VALUE
 a:I-VALUE
 share:I-VALUE
@@ -47,6 +47,7 @@ the:I-TIME
 year-earlier:I-TIME
 quarter:I-TIME
 .:O" > answer.txt
+
 
 
 

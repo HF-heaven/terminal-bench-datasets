@@ -1,7 +1,9 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "Intangible assets\nProperty, plant, and equipment\nOther"
+EXPECTED_LABEL = "Intangible assets
+Property, plant, and equipment
+Other"
 ALLOWED_CHOICES = ["Intangible assets\nProperty, plant, and equipment\nOther"]
 PIXIU_ID = "tatqa1100"
 LABEL_TYPE = "text answer"

@@ -6,3 +6,4 @@ printf "%s\n" "Tejon Ranch Co. Announces Fourth-Quarter and Year-Ended December 
 
 
 
+

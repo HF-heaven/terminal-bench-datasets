@@ -7,15 +7,15 @@ departments:O
 include:O
 depreciation:O
 of:O
-\$:O
+$:O
 20.6:B-DepreciationDepletionAndAmortization
 million:O
 ,:O
-\$:O
+$:O
 22.7:B-DepreciationDepletionAndAmortization
 million:O
 and:O
-\$:O
+$:O
 21.2:B-DepreciationDepletionAndAmortization
 million:O
 in:O
@@ -27,6 +27,7 @@ and:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

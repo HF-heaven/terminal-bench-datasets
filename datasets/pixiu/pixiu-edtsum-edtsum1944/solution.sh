@@ -6,3 +6,4 @@ printf "%s\n" "Leading the Way to Carbon-Free Generation, Long Ridge Energy Term
 
 
 
+

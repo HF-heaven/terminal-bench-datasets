@@ -13,11 +13,11 @@ Palmetto:O
 Heritage:O
 was:O
 approximately:O
-\$:O
+$:O
 5.6:B-BusinessCombinationProFormaInformationRevenueOfAcquireeSinceAcquisitionDateActual
 million:O
 and:O
-\$:O
+$:O
 1.2:B-BusinessCombinationProFormaInformationRevenueOfAcquireeSinceAcquisitionDateActual
 million:O
 for:O
@@ -33,6 +33,7 @@ and:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

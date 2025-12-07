@@ -5,7 +5,8 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: tatqa782
     • Task type: text answer
-    • Allowed labels: 2019 | 2018
+    • Allowed labels: 2019
+2018
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

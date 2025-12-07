@@ -14,7 +14,7 @@ has:O
 agreed:O
 to:O
 grant:O
-\$:O
+$:O
 3.3:B-BusinessCombinationConsiderationTransferredEquityInterestsIssuedAndIssuable
 million:O
 in:O
@@ -27,6 +27,7 @@ over:O
 four:O
 years:O
 .:O" > answer.txt
+
 
 
 

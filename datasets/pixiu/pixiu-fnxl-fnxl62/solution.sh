@@ -8,13 +8,14 @@ net:O
 of:O
 reserves:O
 of:O
-\$:O
+$:O
 6,031:B-AllowanceForDoubtfulAccountsReceivable
 and:O
-\$:O
+$:O
 2,262:B-AllowanceForDoubtfulAccountsReceivable
 ,:O
 respectively:O" > answer.txt
+
 
 
 

@@ -25,7 +25,7 @@ at:O
 a:O
 price:O
 of:O
-\$:O
+$:O
 11.50:B-SaleOfStockPricePerShare
 per:O
 share:O
@@ -107,6 +107,7 @@ of:O
 the:O
 holder:O
 .:O" > answer.txt
+
 
 
 

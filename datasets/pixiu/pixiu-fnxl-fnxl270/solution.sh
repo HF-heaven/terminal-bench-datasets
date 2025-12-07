@@ -14,7 +14,7 @@ had:O
 Australian:O
 dollars:O
 (:O
-\$:O
+$:O
 235,645:B-DebtInstrumentFairValue
 based:O
 upon:O
@@ -43,6 +43,7 @@ AUD:O
 Term:O
 Loan:O
 .:O" > answer.txt
+
 
 
 

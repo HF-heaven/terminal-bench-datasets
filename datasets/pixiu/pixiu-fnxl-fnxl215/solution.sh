@@ -16,7 +16,7 @@ revenue:O
 standard:O
 as:O
 a:O
-\$:O
+$:O
 1.0:B-RetainedEarningsAccumulatedDeficit
 million:O
 reduction:O
@@ -66,6 +66,7 @@ year:O
 or:O
 less:O
 .:O" > answer.txt
+
 
 
 

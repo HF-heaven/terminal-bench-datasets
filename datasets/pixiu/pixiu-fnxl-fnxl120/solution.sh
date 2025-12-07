@@ -10,7 +10,7 @@ operating:O
 loss:O
 carryforwards:O
 ,:O
-\$:O
+$:O
 150.7:B-DeferredTaxAssetsOperatingLossCarryforwardsSubjectToExpiration
 million:O
 begin:O
@@ -24,6 +24,7 @@ December31:O
 ,:O
 2037:O
 .:O" > answer.txt
+
 
 
 

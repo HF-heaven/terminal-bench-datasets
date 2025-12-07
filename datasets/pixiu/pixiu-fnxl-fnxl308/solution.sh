@@ -23,16 +23,17 @@ at:O
 historical:O
 cost:O
 was:O
-\$:O
+$:O
 493.8:B-DebtInstrumentFairValue
 million:O
 and:O
-\$:O
+$:O
 655.0:B-DebtInstrumentFairValue
 million:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

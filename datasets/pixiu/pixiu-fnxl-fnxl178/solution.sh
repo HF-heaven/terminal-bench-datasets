@@ -27,7 +27,7 @@ a:O
 total:O
 cost:O
 of:O
-\$:O
+$:O
 10.1:B-StockRepurchasedDuringPeriodValue
 billion:O
 ,:O
@@ -39,7 +39,7 @@ a:O
 total:O
 cost:O
 of:O
-\$:O
+$:O
 7.2:B-StockRepurchasedDuringPeriodValue
 billion:O
 ,:O
@@ -55,7 +55,7 @@ a:O
 total:O
 cost:O
 of:O
-\$:O
+$:O
 2.1:B-StockRepurchasedDuringPeriodValue
 billion:O
 for:O
@@ -77,6 +77,7 @@ October1:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

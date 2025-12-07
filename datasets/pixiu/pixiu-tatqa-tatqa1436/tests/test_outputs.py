@@ -1,7 +1,11 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "Sterling\nEuro\nUS Dollar\nRenminbi\nOther"
+EXPECTED_LABEL = "Sterling
+Euro
+US Dollar
+Renminbi
+Other"
 ALLOWED_CHOICES = ["Sterling\nEuro\nUS Dollar\nRenminbi\nOther"]
 PIXIU_ID = "tatqa1436"
 LABEL_TYPE = "text answer"

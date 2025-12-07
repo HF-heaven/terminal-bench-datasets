@@ -16,7 +16,7 @@ subject:O
 to:O
 an:O
 additional:O
-\$:O
+$:O
 160:B-BusinessCombinationContingentConsiderationArrangementsRangeOfOutcomesValueHigh
 million:O
 of:O
@@ -33,6 +33,7 @@ for:O
 and:O
 2019:O
 .:O" > answer.txt
+
 
 
 

@@ -19,16 +19,17 @@ contingent:O
 consideration:O
 obligation:O
 was:O
-\$:O
+$:O
 259.8:B-BusinessCombinationContingentConsiderationLiability
 million:O
 and:O
-\$:O
+$:O
 244.6:B-BusinessCombinationContingentConsiderationLiability
 million:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

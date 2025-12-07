@@ -12,13 +12,13 @@ rose:B-MANNER
 as:O
 much:O
 as:O
-\$:B-VALUE
+$:B-VALUE
 8.70:I-VALUE
 to:O
 as:O
 high:O
 as:O
-\$:O
+$:O
 471.60:O
 ,:O
 and:O
@@ -40,9 +40,10 @@ rose:B-MANNER
 as:O
 much:O
 as:O
-\$:B-VALUE
+$:B-VALUE
 9.60:I-VALUE
 .:O" > answer.txt
+
 
 
 

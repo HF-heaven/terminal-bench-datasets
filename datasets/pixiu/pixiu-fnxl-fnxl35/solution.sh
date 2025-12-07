@@ -20,7 +20,7 @@ expected:O
 credit:O
 losses:O
 of:O
-\$:O
+$:O
 0.6:B-AllowanceForDoubtfulAccountsReceivable
 million:O
 related:O
@@ -33,6 +33,7 @@ Exchange:O
 and:O
 affiliates:O
 .:O" > answer.txt
+
 
 
 

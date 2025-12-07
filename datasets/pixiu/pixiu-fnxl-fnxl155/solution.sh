@@ -11,11 +11,11 @@ equity:O
 method:O
 investment:O
 is:O
-\$:O
+$:O
 263:B-EquityMethodInvestmentDifferenceBetweenCarryingAmountAndUnderlyingEquity
 million:O
 and:O
-\$:O
+$:O
 246:B-EquityMethodInvestmentDifferenceBetweenCarryingAmountAndUnderlyingEquity
 million:O
 higher:O
@@ -76,6 +76,7 @@ capitalized:O
 interest:O
 thereafter:O
 .:O" > answer.txt
+
 
 
 

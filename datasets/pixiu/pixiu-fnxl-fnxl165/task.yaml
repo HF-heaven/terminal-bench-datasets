@@ -5,7 +5,19 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: fnxl165
     • Task type: token labels
-    • Allowed labels: Operating:O | lease:O | costs:O | for:O | the:O | year:O | ended:O | 2019:O | totaled:O | $:O | 14.0:B-OperatingLeaseCost | million:O | .:O
+    • Allowed labels: Operating:O
+lease:O
+costs:O
+for:O
+the:O
+year:O
+ended:O
+2019:O
+totaled:O
+$:O
+14.0:B-OperatingLeaseCost
+million:O
+.:O
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

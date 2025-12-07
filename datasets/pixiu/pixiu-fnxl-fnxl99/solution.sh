@@ -13,15 +13,15 @@ non:O
 cash:O
 expenditures:O
 of:O
-\$:O
+$:O
 22:B-CapitalExpendituresIncurredButNotYetPaid
 million:O
 ,:O
-\$:O
+$:O
 20:B-CapitalExpendituresIncurredButNotYetPaid
 million:O
 and:O
-\$:O
+$:O
 35:B-CapitalExpendituresIncurredButNotYetPaid
 million:O
 in:O
@@ -45,6 +45,7 @@ of:O
 cash:O
 flows:O
 .:O" > answer.txt
+
 
 
 

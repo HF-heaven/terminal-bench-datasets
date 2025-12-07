@@ -11,7 +11,7 @@ price:O
 allocations:O
 ,:O
 the:O
-\$:O
+$:O
 19,076:B-GoodwillAcquiredDuringPeriod
 excess:O
 of:O
@@ -33,6 +33,7 @@ recorded:O
 to:O
 goodwill:O
 .:O" > answer.txt
+
 
 
 

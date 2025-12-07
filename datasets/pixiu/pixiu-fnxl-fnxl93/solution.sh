@@ -17,15 +17,15 @@ and:O
 the:O
 Company:O
 recognized:O
-\$:O
+$:O
 86.5:B-InterestExpenseDebt
 million:O
 ,:O
-\$:O
+$:O
 35.9:B-InterestExpenseDebt
 million:O
 and:O
-\$:O
+$:O
 11.6:B-InterestExpenseDebt
 million:O
 ,:O
@@ -46,16 +46,16 @@ issuance:O
 costs:O
 ,:O
 and:O
-\$:O
+$:O
 3.8:O
 million:O
 ,:O
-\$:O
+$:O
 1.5:O
 million:O
 ,:O
 and:O
-\$:O
+$:O
 900,000:O
 respectively:O
 ,:O
@@ -64,6 +64,7 @@ coupon:O
 interest:O
 expense:O
 .:O" > answer.txt
+
 
 
 

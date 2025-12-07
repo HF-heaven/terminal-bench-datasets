@@ -5,7 +5,19 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: fnxl135
     • Task type: token labels
-    • Allowed labels: Change:O | in:O | unrecognized:O | pension:O | and:O | postretirement:O | benefit:O | costs:O | ,:O | $:O | 732:B-OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansTax | tax:O | effect:O
+    • Allowed labels: Change:O
+in:O
+unrecognized:O
+pension:O
+and:O
+postretirement:O
+benefit:O
+costs:O
+,:O
+$:O
+732:B-OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansTax
+tax:O
+effect:O
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

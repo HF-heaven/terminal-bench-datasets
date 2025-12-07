@@ -17,10 +17,11 @@ with:O
 operating:O
 leases:O
 of:O
-\$:O
+$:O
 88.5:B-RightOfUseAssetObtainedInExchangeForOperatingLeaseLiability
 million:O
 .:O" > answer.txt
+
 
 
 

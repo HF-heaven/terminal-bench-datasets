@@ -11,10 +11,11 @@ year:O
 ended:O
 2019:O
 totaled:O
-\$:O
+$:O
 14.0:B-OperatingLeaseCost
 million:O
 .:O" > answer.txt
+
 
 
 

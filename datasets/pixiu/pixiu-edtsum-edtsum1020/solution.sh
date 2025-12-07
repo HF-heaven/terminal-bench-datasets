@@ -6,3 +6,4 @@ printf "%s\n" "Bluerock Residential Growth REIT Announces Third Quarter 2020 Res
 
 
 
+

@@ -13,7 +13,7 @@ a:O
 net:O
 benefit:O
 of:O
-\$:O
+$:O
 2:B-IncomeTaxExaminationPenaltiesAndInterestExpense
 million:O
 ,:O
@@ -21,7 +21,7 @@ a:O
 net:O
 expense:O
 of:O
-\$:O
+$:O
 5:B-IncomeTaxExaminationPenaltiesAndInterestExpense
 million:O
 and:O
@@ -29,7 +29,7 @@ a:O
 net:O
 benefit:O
 of:O
-\$:O
+$:O
 4:B-IncomeTaxExaminationPenaltiesAndInterestExpense
 million:O
 ,:O
@@ -55,6 +55,7 @@ Income:O
 tax:O
 provision:O
 .:O" > answer.txt
+
 
 
 

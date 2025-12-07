@@ -6,3 +6,4 @@ printf "%s\n" "sum of the current and deferred taxes." > answer.txt
 
 
 
+

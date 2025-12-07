@@ -7,7 +7,7 @@ received:O
 proceeds:O
 of:O
 approximately:O
-\$:O
+$:O
 300:B-SaleOfStockConsiderationReceivedOnTransaction
 millionand:O
 recognized:O
@@ -20,7 +20,7 @@ on:O
 the:O
 sale:O
 of:O
-\$:O
+$:O
 252:O
 million:O
 ,:O
@@ -42,6 +42,7 @@ Statement:O
 of:O
 Operations:O
 .:O" > answer.txt
+
 
 
 

@@ -5,7 +5,19 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: fnxl62
     • Task type: token labels
-    • Allowed labels: Receivables:O | ,:O | net:O | of:O | reserves:O | of:O | $:O | 6,031:B-AllowanceForDoubtfulAccountsReceivable | and:O | $:O | 2,262:B-AllowanceForDoubtfulAccountsReceivable | ,:O | respectively:O
+    • Allowed labels: Receivables:O
+,:O
+net:O
+of:O
+reserves:O
+of:O
+$:O
+6,031:B-AllowanceForDoubtfulAccountsReceivable
+and:O
+$:O
+2,262:B-AllowanceForDoubtfulAccountsReceivable
+,:O
+respectively:O
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

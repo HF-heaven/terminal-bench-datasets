@@ -1,14 +1,10 @@
 import json
 from pathlib import Path
 
-PIXIU_ID = "ner00000"
-LABEL_TYPE = "named entity recognition (NER)"
-EXPECTED_ANSWER = """Silicium de Provence SAS, ORG
-Evergreen Solar Inc, ORG
-HERBERT SMITH, PER
-SILICIUM DE PROVENCE SAS, ORG
-EVERGREEN SOLAR, ORG"""
-NUM_ENTITIES = 5
+PIXIU_ID = "{pixiu_id}"
+LABEL_TYPE = "{label_type}"
+EXPECTED_ANSWER = """{expected_answer}"""
+NUM_ENTITIES = {num_entities}
 
 ANSWER_FILE = Path("/app/answer.txt")
 ITEM_FILE = Path("/tests/data/item.json")

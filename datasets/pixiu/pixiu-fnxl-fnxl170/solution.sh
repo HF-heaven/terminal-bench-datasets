@@ -38,7 +38,7 @@ purchase:O
 price:O
 of:O
 approximately:O
-\$:O
+$:O
 4.3:B-DisposalGroupIncludingDiscontinuedOperationConsideration
 billion:O
 ,:O
@@ -48,6 +48,7 @@ customary:O
 closing:O
 adjustments:O
 .:O" > answer.txt
+
 
 
 

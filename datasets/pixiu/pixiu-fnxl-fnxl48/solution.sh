@@ -13,15 +13,15 @@ software:O
 licenses:O
 and:O
 were:O
-\$:O
+$:O
 29.6:B-CostOfGoodsAndServicesSold
 million:O
 ,:O
-\$:O
+$:O
 22.4:B-CostOfGoodsAndServicesSold
 million:O
 and:O
-\$:O
+$:O
 16.9:B-CostOfGoodsAndServicesSold
 million:O
 for:O
@@ -38,6 +38,7 @@ and:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

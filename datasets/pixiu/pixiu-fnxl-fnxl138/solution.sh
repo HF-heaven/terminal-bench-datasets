@@ -19,10 +19,10 @@ operating:O
 lease:O
 costs:O
 of:O
-\$:O
+$:O
 29million:O
 and:O
-\$:O
+$:O
 24:B-OperatingLeaseCost
 million:O
 ,:O
@@ -40,6 +40,7 @@ Statement:O
 of:O
 Operations:O
 .:O" > answer.txt
+
 
 
 

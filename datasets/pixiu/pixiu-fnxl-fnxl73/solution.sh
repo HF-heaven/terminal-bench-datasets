@@ -24,7 +24,7 @@ price:O
 equal:O
 to:O
 the:O
-\$:O
+$:O
 25.00:B-PreferredStockLiquidationPreference
 per:O
 share:O
@@ -38,6 +38,7 @@ and:O
 unpaid:O
 dividends:O
 .:O" > answer.txt
+
 
 
 

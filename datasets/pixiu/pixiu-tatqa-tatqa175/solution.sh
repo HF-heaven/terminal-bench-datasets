@@ -6,3 +6,4 @@ printf "%s\n" "by adding back depreciation and amortisation of owned property, p
 
 
 
+

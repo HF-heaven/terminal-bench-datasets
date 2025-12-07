@@ -6,3 +6,4 @@ printf "%s\n" "RESO Approves Updated Standards, Opens for Certification" > answe
 
 
 
+

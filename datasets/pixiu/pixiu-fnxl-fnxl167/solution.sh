@@ -5,15 +5,15 @@ cd /app
 printf "%s\n" "The:O
 Company:O
 paid:O
-\$:O
+$:O
 311:B-InterestPaid
 million:O
 ,:O
-\$:O
+$:O
 312:B-InterestPaid
 million:O
 and:O
-\$:O
+$:O
 330:B-InterestPaid
 million:O
 of:O
@@ -29,6 +29,7 @@ and:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

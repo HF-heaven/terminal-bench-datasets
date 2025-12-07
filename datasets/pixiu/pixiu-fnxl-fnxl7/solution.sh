@@ -21,10 +21,11 @@ operating:O
 lease:O
 liabilities:O
 was:O
-\$:O
+$:O
 2:B-RightOfUseAssetObtainedInExchangeForOperatingLeaseLiability
 million:O
 .:O" > answer.txt
+
 
 
 

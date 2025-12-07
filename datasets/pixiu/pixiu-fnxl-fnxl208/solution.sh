@@ -17,7 +17,7 @@ deferred:O
 compensation:O
 plans:O
 of:O
-\$:O
+$:O
 1.1:B-DeferredCompensationArrangementWithIndividualContributionsByEmployer
 million:O
 during:O
@@ -34,6 +34,7 @@ December31:O
 and:O
 2017:O
 .:O" > answer.txt
+
 
 
 

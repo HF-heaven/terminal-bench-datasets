@@ -14,17 +14,17 @@ generate:O
 insured:B-QUANT
 losses:I-QUANT
 of:O
-\$:B-VALUE
+$:B-VALUE
 2:I-VALUE
 billion:I-VALUE
 to:I-VALUE
-\$:I-VALUE
+$:I-VALUE
 4:I-VALUE
 billion:I-VALUE
 ,:O
 following:O
 about:O
-\$:B-VALUE
+$:B-VALUE
 4:I-VALUE
 billion:I-VALUE
 in:O
@@ -35,6 +35,7 @@ from:O
 Hurricane:B-CAUSE
 Hugo:I-CAUSE
 .:O" > answer.txt
+
 
 
 

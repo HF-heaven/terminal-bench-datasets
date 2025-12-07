@@ -7,11 +7,11 @@ marketable:O
 equity:O
 securities:O
 were:O
-\$:O
+$:O
 450:B-EquitySecuritiesFvNi
 million:O
 and:O
-\$:O
+$:O
 429:B-EquitySecuritiesFvNi
 million:O
 at:O
@@ -23,6 +23,7 @@ and:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

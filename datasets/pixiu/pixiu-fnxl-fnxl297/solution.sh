@@ -14,20 +14,21 @@ in:O
 and:O
 2017:O
 was:O
-\$:O
+$:O
 111.8:B-InterestPaidNet
 million:O
 ,:O
-\$:O
+$:O
 108.2:B-InterestPaidNet
 million:O
 and:O
-\$:O
+$:O
 121.0:B-InterestPaidNet
 million:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

@@ -6,3 +6,4 @@ printf "%s\n" "due to lower payments for taxes, integration and restructuring co
 
 
 
+

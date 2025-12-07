@@ -8,7 +8,7 @@ in:O
 the:O
 amount:O
 of:O
-\$:O
+$:O
 125.22:B-PreferredStockDividendsPerShareDeclared
 per:O
 share:O
@@ -38,6 +38,7 @@ April:O
 ,:O
 2020:O
 .:O" > answer.txt
+
 
 
 

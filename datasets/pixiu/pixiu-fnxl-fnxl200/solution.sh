@@ -20,7 +20,7 @@ obsolete:O
 inventory:O
 charges:O
 of:O
-\$:O
+$:O
 7.3:B-InventoryWriteDown
 million:O
 in:O
@@ -57,6 +57,7 @@ of:O
 our:O
 products:O
 .:O" > answer.txt
+
 
 
 

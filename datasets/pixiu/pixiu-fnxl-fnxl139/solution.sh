@@ -6,7 +6,7 @@ printf "%s\n" "The:O
 Company:O
 anticipates:O
 approximately:O
-\$:O
+$:O
 66:B-DecreaseInUnrecognizedTaxBenefitsIsReasonablyPossible
 million:O
 of:O
@@ -21,6 +21,7 @@ next:O
 12:O
 months:O
 .:O" > answer.txt
+
 
 
 

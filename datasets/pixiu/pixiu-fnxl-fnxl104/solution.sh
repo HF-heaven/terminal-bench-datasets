@@ -22,11 +22,12 @@ at:O
 a:O
 price:O
 of:O
-\$:O
+$:O
 29.00:B-SharesIssuedPricePerShare
 per:O
 share:O
 .:O" > answer.txt
+
 
 
 

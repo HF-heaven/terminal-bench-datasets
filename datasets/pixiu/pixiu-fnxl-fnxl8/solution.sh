@@ -21,13 +21,14 @@ included:O
 the:O
 addition:O
 of:O
-\$:O
+$:O
 784:B-RightOfUseAssetObtainedInExchangeForOperatingLeaseLiability
 million:O
 of:O
 operating:O
 leases:O
 .:O" > answer.txt
+
 
 
 

@@ -9,11 +9,11 @@ in:O
 a:O
 gain:O
 of:O
-\$:O
+$:O
 549:B-GainLossOnDispositionOfAssets1
 million:O
 (:O
-\$:O
+$:O
 386:O
 million:O
 ,:O
@@ -42,6 +42,7 @@ the:O
 guarantee:O
 obligation:O
 .:O" > answer.txt
+
 
 
 

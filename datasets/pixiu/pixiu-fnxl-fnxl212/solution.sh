@@ -21,7 +21,7 @@ preferential:O
 distributions:O
 equal:O
 to:O
-\$:O
+$:O
 25:B-PreferredStockDividendsPerShareDeclared
 per:O
 share:O
@@ -45,6 +45,7 @@ of:O
 common:O
 stock:O
 .:O" > answer.txt
+
 
 
 

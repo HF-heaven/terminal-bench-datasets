@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "cash collected from Egypt LNG Shipping Ltd. to cover the obligations of its vessel under the Group\u2019s management"
+EXPECTED_LABEL = "cash collected from Egypt LNG Shipping Ltd. to cover the obligations of its vessel under the Group’s management"
 ALLOWED_CHOICES = ["cash collected from Egypt LNG Shipping Ltd. to cover the obligations of its vessel under the Group’s management"]
 PIXIU_ID = "tatqa516"
 LABEL_TYPE = "text answer"

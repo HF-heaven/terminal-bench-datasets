@@ -15,13 +15,14 @@ an:O
 impairment:O
 charge:O
 of:O
-\$:O
+$:O
 290:B-EquityMethodInvestmentOtherThanTemporaryImpairment
 million:O
 related:O
 to:O
 IMFT:O
 .:O" > answer.txt
+
 
 
 

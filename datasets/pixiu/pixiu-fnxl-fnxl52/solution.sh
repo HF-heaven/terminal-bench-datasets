@@ -12,7 +12,7 @@ in:O
 aggregate:O
 ,:O
 by:O
-\$:O
+$:O
 49.6:B-DefinedBenefitPlanFundedStatusOfPlan
 million:O
 at:O
@@ -25,7 +25,7 @@ to:O
 being:O
 underfunded:O
 by:O
-\$:O
+$:O
 113.6:B-DefinedBenefitPlanFundedStatusOfPlan
 million:O
 at:O
@@ -33,6 +33,7 @@ December31:O
 ,:O
 2018:O
 .:O" > answer.txt
+
 
 
 

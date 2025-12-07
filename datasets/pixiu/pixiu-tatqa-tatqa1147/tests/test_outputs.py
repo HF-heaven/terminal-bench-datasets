@@ -1,7 +1,11 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "Indirect taxes receivable\nUnbilled revenues\nTrade receivables\nAccrued interest\nOther receivables"
+EXPECTED_LABEL = "Indirect taxes receivable
+Unbilled revenues
+Trade receivables
+Accrued interest
+Other receivables"
 ALLOWED_CHOICES = ["Indirect taxes receivable\nUnbilled revenues\nTrade receivables\nAccrued interest\nOther receivables"]
 PIXIU_ID = "tatqa1147"
 LABEL_TYPE = "text answer"

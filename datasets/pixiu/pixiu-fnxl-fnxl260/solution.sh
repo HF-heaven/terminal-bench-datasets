@@ -32,7 +32,7 @@ to:O
 the:O
 class:O
 of:O
-\$:O
+$:O
 6.05:B-LitigationSettlementAmountAwardedToOtherParty
 billion:O
 ;:O
@@ -72,6 +72,7 @@ certain:O
 network:O
 rules:O
 .:O" > answer.txt
+
 
 
 

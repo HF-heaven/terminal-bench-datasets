@@ -20,10 +20,11 @@ net:O
 proceeds:O
 of:O
 approximately:O
-\$:O
+$:O
 1.3:B-ProceedsFromIssuanceOfCommonStock
 billion:O
 .:O" > answer.txt
+
 
 
 

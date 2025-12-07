@@ -12,15 +12,15 @@ and:O
 penalties:O
 of:O
 approximately:O
-\$:O
+$:O
 4:B-IncomeTaxExaminationPenaltiesAndInterestAccrued
 million:O
 ,:O
-\$:O
+$:O
 3:B-IncomeTaxExaminationPenaltiesAndInterestAccrued
 million:O
 and:O
-\$:O
+$:O
 3:B-IncomeTaxExaminationPenaltiesAndInterestAccrued
 million:O
 as:O
@@ -35,6 +35,7 @@ and:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

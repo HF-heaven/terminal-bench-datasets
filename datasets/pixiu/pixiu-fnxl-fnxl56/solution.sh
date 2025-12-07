@@ -27,7 +27,7 @@ an:O
 exercise:O
 price:O
 of:O
-\$:O
+$:O
 3.37:B-ClassOfWarrantOrRightExercisePriceOfWarrantsOrRights1
 per:O
 share:O
@@ -41,11 +41,12 @@ a:O
 purchase:O
 price:O
 of:O
-\$:O
+$:O
 0.6250:O
 per:O
 warrant:O
 .:O" > answer.txt
+
 
 
 

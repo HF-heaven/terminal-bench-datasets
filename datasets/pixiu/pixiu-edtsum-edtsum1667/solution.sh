@@ -6,3 +6,4 @@ printf "%s\n" "Certara Announces Pricing of Its Upsized Initial Public Offering"
 
 
 
+

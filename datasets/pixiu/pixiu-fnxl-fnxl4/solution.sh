@@ -23,11 +23,11 @@ the:O
 revolver:O
 ,:O
 of:O
-\$:O
+$:O
 0.6:B-DeferredFinanceCostsNet
 million:O
 and:O
-\$:O
+$:O
 0.8:B-DeferredFinanceCostsNet
 million:O
 as:O
@@ -36,6 +36,7 @@ December30:O
 ,:O
 2020:O
 and:O" > answer.txt
+
 
 
 

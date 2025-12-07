@@ -1,7 +1,10 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "UK\nUSA\nGermany\nOther countries"
+EXPECTED_LABEL = "UK
+USA
+Germany
+Other countries"
 ALLOWED_CHOICES = ["UK\nUSA\nGermany\nOther countries"]
 PIXIU_ID = "tatqa428"
 LABEL_TYPE = "text answer"

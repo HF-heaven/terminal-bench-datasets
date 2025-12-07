@@ -15,11 +15,11 @@ for:O
 2020:O
 and:O
 totaled:O
-\$:O
+$:O
 7:B-RelatedPartyTransactionAmountsOfTransaction
 million:O
 and:O
-\$:O
+$:O
 24:B-RelatedPartyTransactionAmountsOfTransaction
 million:O
 in:O
@@ -29,6 +29,7 @@ and:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

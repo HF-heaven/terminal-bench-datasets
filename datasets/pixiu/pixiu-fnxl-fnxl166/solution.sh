@@ -15,7 +15,7 @@ recorded:O
 restructuring:O
 expense:O
 of:O
-\$:O
+$:O
 14:B-LitigationSettlementExpense
 million:O
 primarily:O
@@ -34,6 +34,7 @@ profitability:O
 and:O
 competitiveness:O
 .:O" > answer.txt
+
 
 
 

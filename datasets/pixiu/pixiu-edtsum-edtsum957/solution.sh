@@ -6,3 +6,4 @@ printf "%s\n" "VEREIT Announces Third Quarter 2020 Operating Results" > answer.t
 
 
 
+

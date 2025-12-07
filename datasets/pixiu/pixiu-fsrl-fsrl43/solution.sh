@@ -16,10 +16,11 @@ buy:I-QUANT
 another:O
 250,000:B-VALUE
 at:O
-\$:O
+$:O
 83.3125:O
 each:O
 .:O" > answer.txt
+
 
 
 

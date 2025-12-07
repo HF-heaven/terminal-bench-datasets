@@ -7,11 +7,11 @@ Company:O
 recognized:O
 expense:O
 of:O
-\$:O
+$:O
 3:B-IncomeTaxExaminationPenaltiesAndInterestExpense
 million:O
 and:O
-\$:O
+$:O
 1:B-IncomeTaxExaminationPenaltiesAndInterestExpense
 million:O
 related:O
@@ -33,6 +33,7 @@ and:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

@@ -6,3 +6,4 @@ printf "%s\n" "Our net income and diluted earnings per share were impacted in fi
 
 
 
+

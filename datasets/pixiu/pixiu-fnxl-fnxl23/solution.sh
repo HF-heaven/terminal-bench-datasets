@@ -12,15 +12,15 @@ participating:O
 employees:O
 ,:O
 were:O
-\$:O
+$:O
 6.8:B-DeferredCompensationArrangementWithIndividualContributionsByEmployer
 million:O
 ,:O
-\$:O
+$:O
 6.5:B-DeferredCompensationArrangementWithIndividualContributionsByEmployer
 million:O
 and:O
-\$:O
+$:O
 5.9:B-DeferredCompensationArrangementWithIndividualContributionsByEmployer
 million:O
 for:O
@@ -37,6 +37,7 @@ and:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

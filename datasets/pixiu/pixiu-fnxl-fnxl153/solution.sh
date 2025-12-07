@@ -34,7 +34,7 @@ aggregate:O
 market:O
 value:O
 of:O
-\$:O
+$:O
 200:B-StockRepurchasedDuringPeriodValue
 million:O
 in:O
@@ -60,6 +60,7 @@ applicable:O
 legal:O
 requirements:O
 .:O" > answer.txt
+
 
 
 

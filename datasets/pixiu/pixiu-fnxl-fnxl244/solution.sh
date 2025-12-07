@@ -11,16 +11,17 @@ of:O
 deferred:O
 taxes:O
 of:O
-\$:O
+$:O
 11:B-OtherComprehensiveIncomeLossBeforeReclassificationsTax
 ,:O
-\$:O
+$:O
 6:B-OtherComprehensiveIncomeLossBeforeReclassificationsTax
 and:O
-\$:O
+$:O
 (:O
 26:B-OtherComprehensiveIncomeLossBeforeReclassificationsTax
 ):O" > answer.txt
+
 
 
 

@@ -29,7 +29,7 @@ of:O
 projects:I-VALUE
 valued:B-QUANT
 at:O
-\$:B-VALUE
+$:B-VALUE
 20:I-VALUE
 million:I-VALUE
 ,:O
@@ -41,13 +41,13 @@ added:B-QUANT
 more:O
 valued:B-QUANT
 at:O
-\$:B-VALUE
+$:B-VALUE
 8:I-VALUE
 million:I-VALUE
 to:O
 ostensibly:O
 preserve:O
-\`\`:O
+``:O
 balance:O
 '':O
 between:O
@@ -56,6 +56,7 @@ House:O
 and:O
 Senate:O
 .:O" > answer.txt
+
 
 
 

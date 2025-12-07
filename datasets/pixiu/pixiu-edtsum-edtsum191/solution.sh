@@ -6,3 +6,4 @@ printf "%s\n" "Should you invest in Nio, Snap, Bank of America, Electronic Arts,
 
 
 
+

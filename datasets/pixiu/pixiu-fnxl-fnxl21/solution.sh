@@ -17,7 +17,7 @@ Company:O
 borrowed:O
 an:O
 additional:O
-\$:O
+$:O
 55.0:B-ProceedsFromLinesOfCredit
 million:O
 under:O
@@ -28,7 +28,7 @@ facility:O
 ,:O
 resulting:O
 in:O
-\$:O
+$:O
 55.0:O
 million:O
 of:O
@@ -46,6 +46,7 @@ February:O
 ,:O
 2020:O
 .:O" > answer.txt
+
 
 
 

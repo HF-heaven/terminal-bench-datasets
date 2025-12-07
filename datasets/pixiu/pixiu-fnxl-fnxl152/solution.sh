@@ -11,11 +11,11 @@ software:O
 development:O
 costs:O
 were:O
-\$:O
+$:O
 55.7:B-CapitalizedComputerSoftwareNet
 million:O
 and:O
-\$:O
+$:O
 37.4:B-CapitalizedComputerSoftwareNet
 million:O
 at:O
@@ -41,6 +41,7 @@ the:O
 table:O
 above:O
 .:O" > answer.txt
+
 
 
 

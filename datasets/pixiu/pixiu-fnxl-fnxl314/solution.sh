@@ -13,11 +13,11 @@ we:O
 expect:O
 to:O
 incur:O
-\$:O
+$:O
 70:B-RestructuringAndRelatedCostExpectedCost1
 million:O
 to:O
-\$:O
+$:O
 80:B-RestructuringAndRelatedCostExpectedCost1
 million:O
 in:O
@@ -53,6 +53,7 @@ party:O
 consulting:O
 costs:O
 .:O" > answer.txt
+
 
 
 

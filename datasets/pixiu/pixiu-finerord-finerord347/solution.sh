@@ -1,8 +1,0 @@
-#!/bin/bash
-set -euo pipefail
-
-cd /app
-cat > answer.txt << 'EOF'
-Prof:O
-.:O
-EOF

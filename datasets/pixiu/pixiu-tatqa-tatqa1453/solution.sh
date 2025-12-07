@@ -6,3 +6,4 @@ printf "%s\n" "It excludes the Red Hat pre-closing debt financing costs." > answ
 
 
 
+

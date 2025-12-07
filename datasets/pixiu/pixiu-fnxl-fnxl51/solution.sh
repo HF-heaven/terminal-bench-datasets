@@ -23,7 +23,7 @@ total:O
 net:O
 assets:O
 of:O
-\$:O
+$:O
 133:O
 million:O
 was:O
@@ -52,6 +52,7 @@ a:O
 %:O
 interest:O
 .:O" > answer.txt
+
 
 
 

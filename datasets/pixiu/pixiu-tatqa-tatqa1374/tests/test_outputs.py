@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "Original Equipment Manufacturers (\u201cOEM\u201d) are the end-customers to which we provide direct marketing application engineering support"
+EXPECTED_LABEL = "Original Equipment Manufacturers (“OEM”) are the end-customers to which we provide direct marketing application engineering support"
 ALLOWED_CHOICES = ["Original Equipment Manufacturers (“OEM”) are the end-customers to which we provide direct marketing application engineering support"]
 PIXIU_ID = "tatqa1374"
 LABEL_TYPE = "text answer"

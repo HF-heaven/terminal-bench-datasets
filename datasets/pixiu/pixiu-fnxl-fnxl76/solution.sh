@@ -11,11 +11,12 @@ of:O
 accumulated:O
 amortization:O
 of:O
-\$:O
+$:O
 517,574:B-FiniteLivedIntangibleAssetsAccumulatedAmortization
 and:O
-\$:O
+$:O
 437,886:B-FiniteLivedIntangibleAssetsAccumulatedAmortization" > answer.txt
+
 
 
 

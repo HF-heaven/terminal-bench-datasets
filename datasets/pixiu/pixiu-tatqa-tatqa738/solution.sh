@@ -6,3 +6,4 @@ printf "%s\n" "for the periods indicated, the percentage of sales represented by
 
 
 
+

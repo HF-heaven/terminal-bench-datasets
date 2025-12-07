@@ -26,10 +26,11 @@ Britain:B-LOCATION
 15:B-VALUE
 %:I-VALUE
 ;:O
-\$:O
+$:O
 9.1:O
 million:O
 .:O" > answer.txt
+
 
 
 

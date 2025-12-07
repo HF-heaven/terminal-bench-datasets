@@ -6,3 +6,4 @@ printf "%s\n" "Delek US Holdings Reports Second Quarter 2020 Results" > answer.t
 
 
 
+

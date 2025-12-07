@@ -17,11 +17,11 @@ June29:O
 ,:O
 2019:O
 was:O
-\$:O
+$:O
 28.1:B-ContractWithCustomerLiabilityCurrent
 million:O
 and:O
-\$:O
+$:O
 27.5:B-ContractWithCustomerLiabilityCurrent
 million:O
 ,:O
@@ -54,6 +54,7 @@ within:O
 a:O
 year:O
 .:O" > answer.txt
+
 
 
 

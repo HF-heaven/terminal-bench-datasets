@@ -9,7 +9,7 @@ Lynch:I-THEME
 third-period:B-TIME
 net:B-QUANT
 was:O
-\$:B-VALUE
+$:B-VALUE
 41:I-VALUE
 million:I-VALUE
 ,:O
@@ -21,7 +21,7 @@ share:I-VALUE
 ,:O
 down:O
 from:O
-\$:B-VALUE
+$:B-VALUE
 65.6:I-VALUE
 million:I-VALUE
 ,:O
@@ -35,6 +35,7 @@ a:B-TIME
 year:I-TIME
 ago:I-TIME
 .:O" > answer.txt
+
 
 
 

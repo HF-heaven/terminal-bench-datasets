@@ -19,7 +19,7 @@ includes:O
 nonrecurring:O
 charges:O
 of:O
-\$:O
+$:O
 20.8:B-TaxCutsAndJobsActOf2017IncomeTaxExpenseBenefit
 million:O
 related:O
@@ -30,6 +30,7 @@ of:O
 Tax:O
 Reform:O
 .:O" > answer.txt
+
 
 
 

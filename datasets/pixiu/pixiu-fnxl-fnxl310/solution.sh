@@ -6,11 +6,11 @@ printf "%s\n" "Our:O
 contract:O
 assets:O
 were:O
-\$:O
+$:O
 44.3:B-ContractWithCustomerAssetNet
 million:O
 and:O
-\$:O
+$:O
 30.6:B-ContractWithCustomerAssetNet
 million:O
 as:O
@@ -23,6 +23,7 @@ and:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

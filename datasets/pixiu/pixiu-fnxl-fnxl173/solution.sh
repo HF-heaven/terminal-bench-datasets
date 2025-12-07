@@ -26,10 +26,10 @@ common:O
 shares:O
 (:O
 the:O
-\":O
+":O
 2018:O
 Warrants:O
-\":O
+":O
 ):O
 to:O
 former:O
@@ -37,6 +37,7 @@ shareholders:O
 of:O
 ModSpace:O
 .:O" > answer.txt
+
 
 
 

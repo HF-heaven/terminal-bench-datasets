@@ -22,11 +22,11 @@ private:O
 equity:O
 funds:O
 of:O
-\$:O
+$:O
 0.7:B-EquitySecuritiesWithoutReadilyDeterminableFairValueAmount
 billion:O
 and:O
-\$:O
+$:O
 0.6:B-EquitySecuritiesWithoutReadilyDeterminableFairValueAmount
 billion:O
 ,:O
@@ -42,6 +42,7 @@ NAV:O
 practical:O
 expedient:O
 .:O" > answer.txt
+
 
 
 

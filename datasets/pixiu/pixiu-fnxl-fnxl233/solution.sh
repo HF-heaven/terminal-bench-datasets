@@ -18,16 +18,17 @@ and:O
 2018:O
 was:O
 approximately:O
-\$:O
+$:O
 171:B-IncomeTaxExaminationPenaltiesAndInterestAccrued
 million:O
 and:O
-\$:O
+$:O
 124:B-IncomeTaxExaminationPenaltiesAndInterestAccrued
 million:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

@@ -24,16 +24,17 @@ operating:O
 cash:O
 flows:O
 was:O
-\$:O
+$:O
 52:O
 million:O
 and:O
-\$:O
+$:O
 48:O
 million:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

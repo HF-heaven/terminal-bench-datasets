@@ -1,7 +1,8 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "Earnings before interest, tax, depreciation and amortisation\nNet debt"
+EXPECTED_LABEL = "Earnings before interest, tax, depreciation and amortisation
+Net debt"
 ALLOWED_CHOICES = ["Earnings before interest, tax, depreciation and amortisation\nNet debt"]
 PIXIU_ID = "tatqa176"
 LABEL_TYPE = "text answer"

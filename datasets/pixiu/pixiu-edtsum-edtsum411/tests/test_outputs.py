@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "Catch Up with NOW CFO's Webinar for Post-Pandemic Business Planning, \"Roadmap to Recovery\""
+EXPECTED_LABEL = "Catch Up with NOW CFO's Webinar for Post-Pandemic Business Planning, "Roadmap to Recovery""
 ALLOWED_CHOICES = ["Catch Up with NOW CFO's Webinar for Post-Pandemic Business Planning, \"Roadmap to Recovery\""]
 PIXIU_ID = "edtsum411"
 LABEL_TYPE = "abstractive summary"

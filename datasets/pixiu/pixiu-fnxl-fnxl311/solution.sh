@@ -24,16 +24,17 @@ aggregate:O
 principal:O
 amount:O
 of:O
-\$:O
+$:O
 97.7:B-RepaymentsOfDebt
 million:O
 and:O
-\$:O
+$:O
 485.7:B-RepaymentsOfDebt
 million:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

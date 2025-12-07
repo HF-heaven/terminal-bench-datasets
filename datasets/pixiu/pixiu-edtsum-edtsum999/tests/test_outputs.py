@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "Teamsters Call For Zero Emissions In The Private Waste Industry Teamsters Solid Waste and Recycling Division, Local 350 Join Environmental and Labor Allies for GAIA's \"Organizing for Waste Justice\" Webinar"
+EXPECTED_LABEL = "Teamsters Call For Zero Emissions In The Private Waste Industry Teamsters Solid Waste and Recycling Division, Local 350 Join Environmental and Labor Allies for GAIA's "Organizing for Waste Justice" Webinar"
 ALLOWED_CHOICES = ["Teamsters Call For Zero Emissions In The Private Waste Industry Teamsters Solid Waste and Recycling Division, Local 350 Join Environmental and Labor Allies for GAIA's \"Organizing for Waste Justice\" Webinar"]
 PIXIU_ID = "edtsum999"
 LABEL_TYPE = "abstractive summary"

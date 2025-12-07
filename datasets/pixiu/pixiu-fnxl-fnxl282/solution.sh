@@ -7,7 +7,7 @@ printf "%s\n" "Additionally:O
 the:O
 Company:O
 expensed:O
-\$:O
+$:O
 8.6:B-InterestExpense
 million:O
 of:O
@@ -32,6 +32,7 @@ December:O
 ,:O
 2018:O
 .:O" > answer.txt
+
 
 
 

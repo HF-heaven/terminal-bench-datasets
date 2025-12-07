@@ -5,7 +5,25 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: fnxl244
     • Task type: token labels
-    • Allowed labels: OCI:O | before:O | reclassifications:O | –:O | net:O | of:O | deferred:O | taxes:O | of:O | $:O | 11:B-OtherComprehensiveIncomeLossBeforeReclassificationsTax | ,:O | $:O | 6:B-OtherComprehensiveIncomeLossBeforeReclassificationsTax | and:O | $:O | (:O | 26:B-OtherComprehensiveIncomeLossBeforeReclassificationsTax | ):O
+    • Allowed labels: OCI:O
+before:O
+reclassifications:O
+–:O
+net:O
+of:O
+deferred:O
+taxes:O
+of:O
+$:O
+11:B-OtherComprehensiveIncomeLossBeforeReclassificationsTax
+,:O
+$:O
+6:B-OtherComprehensiveIncomeLossBeforeReclassificationsTax
+and:O
+$:O
+(:O
+26:B-OtherComprehensiveIncomeLossBeforeReclassificationsTax
+):O
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

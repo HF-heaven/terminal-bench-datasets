@@ -6,7 +6,7 @@ printf "%s\n" "The:O
 remaining:O
 accrual:O
 of:O
-\$:O
+$:O
 41:B-RestructuringReserve
 million:O
 was:O
@@ -26,6 +26,7 @@ December31:O
 ,:O
 2017:O
 .:O" > answer.txt
+
 
 
 

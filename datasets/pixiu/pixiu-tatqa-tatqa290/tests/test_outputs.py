@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "to the geographic location in which the customers\u2019 facilities are located"
+EXPECTED_LABEL = "to the geographic location in which the customers’ facilities are located"
 ALLOWED_CHOICES = ["to the geographic location in which the customers’ facilities are located"]
 PIXIU_ID = "tatqa290"
 LABEL_TYPE = "text answer"

@@ -5,7 +5,8 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: tatqa176
     • Task type: text answer
-    • Allowed labels: Earnings before interest, tax, depreciation and amortisation | Net debt
+    • Allowed labels: Earnings before interest, tax, depreciation and amortisation
+Net debt
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

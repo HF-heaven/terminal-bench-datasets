@@ -25,7 +25,7 @@ aggregate:O
 carrying:O
 amount:O
 of:O
-\$:O
+$:O
 43.4:B-IndefiniteLivedIntangibleAssetsExcludingGoodwill
 billion:O
 as:O
@@ -34,6 +34,7 @@ December28:O
 ,:O
 2019:O
 .:O" > answer.txt
+
 
 
 

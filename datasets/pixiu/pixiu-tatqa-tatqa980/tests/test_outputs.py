@@ -1,7 +1,10 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "Land and improvements\nBuildings and improvements\nMachinery and equipment\nConstruction in process"
+EXPECTED_LABEL = "Land and improvements
+Buildings and improvements
+Machinery and equipment
+Construction in process"
 ALLOWED_CHOICES = ["Land and improvements\nBuildings and improvements\nMachinery and equipment\nConstruction in process"]
 PIXIU_ID = "tatqa980"
 LABEL_TYPE = "text answer"

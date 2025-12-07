@@ -6,3 +6,4 @@ printf "%s\n" "Global Steel Scrap Industry" > answer.txt
 
 
 
+

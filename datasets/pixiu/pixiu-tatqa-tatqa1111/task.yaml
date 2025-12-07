@@ -5,7 +5,9 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: tatqa1111
     • Task type: text answer
-    • Allowed labels: Operating activities | Investing activities | Financing activities
+    • Allowed labels: Operating activities
+Investing activities
+Financing activities
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

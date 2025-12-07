@@ -6,3 +6,4 @@ printf "%s\n" "KKR Grows Real Estate Industrial Portfolio with Four New Acquisit
 
 
 
+

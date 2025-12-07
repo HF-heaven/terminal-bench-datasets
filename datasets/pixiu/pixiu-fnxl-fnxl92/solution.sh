@@ -9,13 +9,14 @@ net:O
 of:O
 allowance:O
 of:O
-\$:O
+$:O
 93:B-AllowanceForDoubtfulAccountsReceivable
 and:O
-\$:O
+$:O
 290:B-AllowanceForDoubtfulAccountsReceivable
 ,:O
 respectively:O" > answer.txt
+
 
 
 

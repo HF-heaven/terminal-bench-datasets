@@ -14,7 +14,7 @@ Investments:O
 received:O
 proceeds:O
 of:O
-\$:O
+$:O
 302.5:B-RelatedPartyTransactionAmountsOfTransaction
 million:O
 upon:O
@@ -41,6 +41,7 @@ its:O
 board:O
 seat:O
 .:O" > answer.txt
+
 
 
 

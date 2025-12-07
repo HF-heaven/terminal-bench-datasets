@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "L-com Debuts Passive DWDM Mux and Demux Cassettes and 19\" Rack-Mount Units"
+EXPECTED_LABEL = "L-com Debuts Passive DWDM Mux and Demux Cassettes and 19" Rack-Mount Units"
 ALLOWED_CHOICES = ["L-com Debuts Passive DWDM Mux and Demux Cassettes and 19\" Rack-Mount Units"]
 PIXIU_ID = "edtsum668"
 LABEL_TYPE = "abstractive summary"

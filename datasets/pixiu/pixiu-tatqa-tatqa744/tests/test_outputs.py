@@ -1,7 +1,9 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "days past due\ncredit status of the counterparty\nhistorical evidence of collection"
+EXPECTED_LABEL = "days past due
+credit status of the counterparty
+historical evidence of collection"
 ALLOWED_CHOICES = ["days past due\ncredit status of the counterparty\nhistorical evidence of collection"]
 PIXIU_ID = "tatqa744"
 LABEL_TYPE = "text answer"

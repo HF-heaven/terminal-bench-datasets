@@ -9,11 +9,11 @@ of:O
 these:O
 investments:O
 was:O
-\$:O
+$:O
 0.5:B-EquitySecuritiesWithoutReadilyDeterminableFairValueAmount
 million:O
 and:O
-\$:O
+$:O
 0.3:B-EquitySecuritiesWithoutReadilyDeterminableFairValueAmount
 million:O
 as:O
@@ -28,6 +28,7 @@ December31:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

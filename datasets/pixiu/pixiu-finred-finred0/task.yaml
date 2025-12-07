@@ -3,8 +3,8 @@ instruction: |
   You are auditing a single-sample evaluation from the PIXIU FinBen benchmark.
 
   Sample metadata:
-    • PIXIU instance id: finred0
-    • Task type: relation extraction
+    • PIXIU instance id: {pixiu_id}
+    • Task type: {label_type}
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the text and task details.
@@ -20,7 +20,7 @@ instruction: |
 
 author_email: adapters@tbench.ai
 author_name: terminal-bench
-difficulty: medium
+difficulty: {difficulty}
 category: financial-language
 tags:
   - pixiu

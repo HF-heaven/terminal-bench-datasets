@@ -6,11 +6,11 @@ printf "%s\n" "The:O
 Company:O
 estimates:O
 that:O
-\$:O
+$:O
 61:B-BusinessAcquisitionPurchasePriceAllocationGoodwillExpectedTaxDeductibleAmount
 million:O
 and:O
-\$:O
+$:O
 46million:O
 of:O
 the:O
@@ -32,6 +32,7 @@ income:O
 tax:O
 purposes:O
 .:O" > answer.txt
+
 
 
 

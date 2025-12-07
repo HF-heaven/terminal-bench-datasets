@@ -5,7 +5,10 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: tatqa42
     • Task type: text answer
-    • Allowed labels: Taxation | Dividends received from associates and investments | Dividends paid to non-controlling shareholders in subsidiaries | Interest received and paid
+    • Allowed labels: Taxation
+Dividends received from associates and investments
+Dividends paid to non-controlling shareholders in subsidiaries
+Interest received and paid
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

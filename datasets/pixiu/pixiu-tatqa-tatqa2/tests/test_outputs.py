@@ -1,7 +1,9 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "fixed-price type\ncost-plus type\ntime-and-material type"
+EXPECTED_LABEL = "fixed-price type
+cost-plus type
+time-and-material type"
 ALLOWED_CHOICES = ["fixed-price type\ncost-plus type\ntime-and-material type"]
 PIXIU_ID = "tatqa2"
 LABEL_TYPE = "text answer"

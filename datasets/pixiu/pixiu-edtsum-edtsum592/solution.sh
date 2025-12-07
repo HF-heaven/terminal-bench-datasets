@@ -6,3 +6,4 @@ printf "%s\n" "Discover Holiday Delights in Myrtle Beach, South Carolina Destina
 
 
 
+

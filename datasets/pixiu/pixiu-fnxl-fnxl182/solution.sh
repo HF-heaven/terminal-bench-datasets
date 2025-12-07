@@ -11,7 +11,7 @@ to:O
 the:O
 recognition:O
 of:O
-\$:O
+$:O
 315.5:O
 million:O
 of:O
@@ -31,7 +31,7 @@ Company:O
 financing:O
 structure:O
 ,:O
-\$:O
+$:O
 294.9:B-OperatingLossCarryforwardsValuationAllowance
 million:O
 of:O
@@ -50,6 +50,7 @@ to:O
 be:O
 utilized:O
 .:O" > answer.txt
+
 
 
 

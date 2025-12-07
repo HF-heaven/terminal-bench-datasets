@@ -11,7 +11,7 @@ quarter:O
 of:O
 2019:O
 includes:O
-\$:O
+$:O
 11:B-RestructuringAndRelatedCostIncurredCost
 of:O
 charges:O
@@ -24,6 +24,7 @@ and:O
 Efficiency:O
 Program:O
 .:O" > answer.txt
+
 
 
 

@@ -15,7 +15,7 @@ disposal:O
 of:O
 assets:O
 of:O
-\$:O
+$:O
 4,352:B-GainLossOnDispositionOfAssets1
 included:O
 in:O
@@ -53,6 +53,7 @@ of:O
 cash:O
 flows:O
 .:O" > answer.txt
+
 
 
 

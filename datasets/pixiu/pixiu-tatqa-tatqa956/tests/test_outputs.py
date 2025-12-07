@@ -1,7 +1,8 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "$30,182\n$13,281"
+EXPECTED_LABEL = "$30,182
+$13,281"
 ALLOWED_CHOICES = ["$30,182\n$13,281"]
 PIXIU_ID = "tatqa956"
 LABEL_TYPE = "text answer"

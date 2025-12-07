@@ -6,3 +6,4 @@ printf "%s\n" "Ribbon Communications Inc. Reports Second Quarter 2020 Financial 
 
 
 
+

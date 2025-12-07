@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "Silly Juice Launches Worldwide With Six Mouthwatering Flavors Brand Develops \"Seriously Good\" Juice Line to Get Silly"
+EXPECTED_LABEL = "Silly Juice Launches Worldwide With Six Mouthwatering Flavors Brand Develops "Seriously Good" Juice Line to Get Silly"
 ALLOWED_CHOICES = ["Silly Juice Launches Worldwide With Six Mouthwatering Flavors Brand Develops \"Seriously Good\" Juice Line to Get Silly"]
 PIXIU_ID = "edtsum1903"
 LABEL_TYPE = "abstractive summary"

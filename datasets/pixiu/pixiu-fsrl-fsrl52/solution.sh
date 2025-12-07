@@ -18,10 +18,10 @@ Calmat:B-THEME
 Co.:I-THEME
 ,:O
 up:B-MANNER
-\$:B-VALUE
+$:B-VALUE
 2.75:I-VALUE
 to:O
-\$:B-VALUE
+$:B-VALUE
 28.75:I-VALUE
 ,:O
 and:O
@@ -31,12 +31,13 @@ Industries:I-THEME
 Inc.:I-THEME
 ,:O
 up:B-MANNER
-\$:B-VALUE
+$:B-VALUE
 1.75:I-VALUE
 to:O
-\$:B-VALUE
+$:B-VALUE
 29.25:I-VALUE
 .:O" > answer.txt
+
 
 
 

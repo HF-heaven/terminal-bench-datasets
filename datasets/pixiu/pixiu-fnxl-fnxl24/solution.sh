@@ -10,7 +10,7 @@ liability:O
 was:O
 reduced:O
 to:O
-\$:O
+$:O
 0:B-BusinessCombinationContingentConsiderationLiability
 as:O
 a:O
@@ -52,6 +52,7 @@ income:O
 ,:O
 net:O
 .:O" > answer.txt
+
 
 
 

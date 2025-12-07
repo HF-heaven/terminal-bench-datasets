@@ -23,7 +23,7 @@ an:O
 extraordinary:O
 charge:O
 of:O
-\$:O
+$:O
 17.7:O
 million:O
 related:O
@@ -34,12 +34,12 @@ a:O
 lawsuit:O
 --:O
 was:O
-\$:B-VALUE
+$:B-VALUE
 170.6:I-VALUE
 million:I-VALUE
 ,:O
 or:O
-\$:B-VALUE
+$:B-VALUE
 4.54:I-VALUE
 a:I-VALUE
 share:I-VALUE
@@ -48,12 +48,12 @@ up:O
 5.8:O
 %:O
 from:O
-\$:B-VALUE
+$:B-VALUE
 161.3:I-VALUE
 million:I-VALUE
 ,:O
 or:O
-\$:B-VALUE
+$:B-VALUE
 4.32:I-VALUE
 a:I-VALUE
 share:I-VALUE
@@ -62,6 +62,7 @@ a:B-TIME
 year:I-TIME
 ago:I-TIME
 .:O" > answer.txt
+
 
 
 

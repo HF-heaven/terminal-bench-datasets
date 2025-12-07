@@ -6,3 +6,4 @@ printf "%s\n" "Nordic Nanovector ASA - Resolution to increase the share capital 
 
 
 
+

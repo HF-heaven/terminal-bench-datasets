@@ -7,7 +7,7 @@ recorded:O
 impairment:O
 expense:O
 of:O
-\$:O
+$:O
 342:B-ImpairmentOfLongLivedAssetsHeldForUse
 million:O
 for:O
@@ -34,6 +34,7 @@ in:O
 the:O
 future:O
 .:O" > answer.txt
+
 
 
 

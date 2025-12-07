@@ -11,7 +11,7 @@ Power:O
 to:O
 pay:O
 approximately:O
-\$:O
+$:O
 50,000:B-LitigationSettlementAmountAwardedToOtherParty
 to:O
 the:O
@@ -25,7 +25,7 @@ civil:O
 penalties:O
 and:O
 approximately:O
-\$:O
+$:O
 172,000:B-LitigationSettlementAmountAwardedToOtherParty
 to:O
 the:O
@@ -41,6 +41,7 @@ fish:O
 restocking:O
 costs:O
 .:O" > answer.txt
+
 
 
 

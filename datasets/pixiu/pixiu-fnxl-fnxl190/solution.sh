@@ -30,7 +30,7 @@ incurred:O
 during:O
 2018:O
 ,:O
-\$:O
+$:O
 18.9:B-RestructuringAndRelatedCostIncurredCost
 million:O
 relate:O
@@ -45,7 +45,7 @@ North:O
 America:O
 segment:O
 and:O
-\$:O
+$:O
 19.6:B-RestructuringAndRelatedCostIncurredCost
 million:O
 relate:O
@@ -59,6 +59,7 @@ Klein:O
 International:O
 segment:O
 .:O" > answer.txt
+
 
 
 

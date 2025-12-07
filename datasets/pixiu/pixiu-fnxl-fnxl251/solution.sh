@@ -11,10 +11,11 @@ estimated:O
 to:O
 be:O
 approximately:O
-\$:O
+$:O
 300:B-RestructuringAndRelatedCostExpectedCost1
 million:O
 .:O" > answer.txt
+
 
 
 

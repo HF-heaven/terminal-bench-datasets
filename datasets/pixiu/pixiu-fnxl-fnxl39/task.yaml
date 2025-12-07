@@ -5,7 +5,23 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: fnxl39
     • Task type: token labels
-    • Allowed labels: Unrecognized:O | net:O | actuarial:O | loss:O | (:O | net:O | of:O | taxes:O | of:O | $:O | 24:B-OtherComprehensiveIncomeLossBeforeReclassificationsTax | and:O | $:O | 88:B-OtherComprehensiveIncomeLossBeforeReclassificationsTax | ,:O | respectively:O | ):O
+    • Allowed labels: Unrecognized:O
+net:O
+actuarial:O
+loss:O
+(:O
+net:O
+of:O
+taxes:O
+of:O
+$:O
+24:B-OtherComprehensiveIncomeLossBeforeReclassificationsTax
+and:O
+$:O
+88:B-OtherComprehensiveIncomeLossBeforeReclassificationsTax
+,:O
+respectively:O
+):O
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

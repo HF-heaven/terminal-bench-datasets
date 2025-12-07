@@ -5,7 +5,9 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: tatqa2
     • Task type: text answer
-    • Allowed labels: fixed-price type | cost-plus type | time-and-material type
+    • Allowed labels: fixed-price type
+cost-plus type
+time-and-material type
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

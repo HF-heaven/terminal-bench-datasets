@@ -35,17 +35,18 @@ price:O
 per:O
 share:O
 of:O
-\$:O
+$:O
 198.33:O
 for:O
 an:O
 aggregate:O
 amount:O
 of:O
-\$:O
+$:O
 181.9:B-StockRepurchasedAndRetiredDuringPeriodValue
 million:O
 .:O" > answer.txt
+
 
 
 

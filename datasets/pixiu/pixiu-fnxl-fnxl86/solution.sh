@@ -28,7 +28,7 @@ pay:O
 contingent:O
 consideration:O
 of:O
-\$:O
+$:O
 20.0:B-BusinessCombinationContingentConsiderationArrangementsRangeOfOutcomesValueHigh
 million:O
 in:O
@@ -52,6 +52,7 @@ following:O
 the:O
 acquisition:O
 .:O" > answer.txt
+
 
 
 

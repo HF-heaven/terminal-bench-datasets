@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "the relative sensitivity of the Group\u2019s performance to developments affecting a particular industry."
+EXPECTED_LABEL = "the relative sensitivity of the Group’s performance to developments affecting a particular industry."
 ALLOWED_CHOICES = ["the relative sensitivity of the Group’s performance to developments affecting a particular industry."]
 PIXIU_ID = "tatqa1327"
 LABEL_TYPE = "text answer"

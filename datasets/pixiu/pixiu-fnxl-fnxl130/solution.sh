@@ -25,10 +25,11 @@ stockholders:O
 ’:O
 equity:O
 of:O
-\$:O
+$:O
 117.5:B-CumulativeEffectOfNewAccountingPrincipleInPeriodOfAdoption
 million:O
 .:O" > answer.txt
+
 
 
 

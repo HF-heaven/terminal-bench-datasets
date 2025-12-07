@@ -12,7 +12,7 @@ severance:O
 benefits:O
 charges:O
 of:O
-\$:O
+$:O
 1.4:B-SeveranceCosts1
 million:O
 in:O
@@ -20,6 +20,7 @@ the:O
 fourth:O
 quarter:O
 .:O" > answer.txt
+
 
 
 

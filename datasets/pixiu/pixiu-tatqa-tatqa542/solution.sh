@@ -6,3 +6,4 @@ printf "%s\n" "USD" > answer.txt
 
 
 
+

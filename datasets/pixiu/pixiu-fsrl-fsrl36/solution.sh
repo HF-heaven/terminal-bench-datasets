@@ -10,7 +10,7 @@ its:O
 net:B-QUANT
 income:I-QUANT
 was:O
-\$:B-VALUE
+$:B-VALUE
 3.1:I-VALUE
 million:I-VALUE
 ,:O
@@ -32,7 +32,7 @@ times:O
 its:O
 profit:B-QUANT
 of:O
-\$:B-VALUE
+$:B-VALUE
 663,000:I-VALUE
 ,:O
 or:O
@@ -44,6 +44,7 @@ share:I-VALUE
 last:B-TIME
 year:I-TIME
 .:O" > answer.txt
+
 
 
 

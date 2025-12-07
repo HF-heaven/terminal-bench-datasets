@@ -10,7 +10,7 @@ recognized:O
 a:O
 charge:O
 of:O
-\$:O
+$:O
 51.2:B-EquityMethodInvestmentOtherThanTemporaryImpairment
 million:O
 in:O
@@ -27,6 +27,7 @@ investment:O
 to:O
 zero:O
 .:O" > answer.txt
+
 
 
 

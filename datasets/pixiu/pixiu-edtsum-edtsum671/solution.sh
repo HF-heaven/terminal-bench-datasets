@@ -6,3 +6,4 @@ printf "%s\n" "Thinking about trading options or stock in Moderna, Vaxart, Novav
 
 
 
+

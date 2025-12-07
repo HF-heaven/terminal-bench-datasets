@@ -4,7 +4,7 @@ set -euo pipefail
 cd /app
 printf "%s\n" "We:O
 capitalized:O
-\$:O
+$:O
 413.2:B-CapitalizedContractCostNet
 million:O
 of:O
@@ -53,6 +53,7 @@ to:O
 retained:O
 earnings:O
 .:O" > answer.txt
+
 
 
 

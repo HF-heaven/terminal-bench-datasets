@@ -5,7 +5,22 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: fnxl197
     • Task type: token labels
-    • Allowed labels: The:O | Company:O | may:O | also:O | make:O | discretionary:O | contributions:O | of:O | up:O | to:O | 50:B-DefinedContributionPlanEmployerMatchingContributionPercentOfMatch | %:O | of:O | employee:O | contributions:O | .:O
+    • Allowed labels: The:O
+Company:O
+may:O
+also:O
+make:O
+discretionary:O
+contributions:O
+of:O
+up:O
+to:O
+50:B-DefinedContributionPlanEmployerMatchingContributionPercentOfMatch
+%:O
+of:O
+employee:O
+contributions:O
+.:O
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

@@ -7,7 +7,7 @@ Company:O
 preliminarily:O
 recorded:O
 approximately:O
-\$:O
+$:O
 10.2:B-GoodwillAcquiredDuringPeriod
 billion:O
 of:O
@@ -18,6 +18,7 @@ the:O
 Cytiva:O
 Acquisition:O
 .:O" > answer.txt
+
 
 
 

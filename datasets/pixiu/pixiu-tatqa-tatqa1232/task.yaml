@@ -5,7 +5,8 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: tatqa1232
     • Task type: text answer
-    • Allowed labels: Canadian | Foreign
+    • Allowed labels: Canadian
+Foreign
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

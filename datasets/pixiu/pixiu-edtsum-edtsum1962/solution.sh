@@ -6,3 +6,4 @@ printf "%s\n" "Aberdeen Global Premier Properties Fund Announces Payment of Mont
 
 
 
+

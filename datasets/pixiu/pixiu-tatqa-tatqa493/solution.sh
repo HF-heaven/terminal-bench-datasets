@@ -6,3 +6,4 @@ printf "%s\n" "The weighted average remaining amortization period for the Compan
 
 
 
+

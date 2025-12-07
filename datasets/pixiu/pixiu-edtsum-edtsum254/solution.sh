@@ -6,3 +6,4 @@ printf "%s\n" "Hugoton Royalty Trust Declares No December Cash Distribution" > a
 
 
 
+

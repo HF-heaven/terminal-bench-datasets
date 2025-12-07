@@ -14,10 +14,10 @@ Eaton:O
 had:O
 accrued:O
 approximately:O
-\$:O
+$:O
 93:B-IncomeTaxExaminationPenaltiesAndInterestAccrued
 and:O
-\$:O
+$:O
 74:B-IncomeTaxExaminationPenaltiesAndInterestAccrued
 ,:O
 respectively:O
@@ -45,6 +45,7 @@ tax:O
 benefits:O
 above:O
 .:O" > answer.txt
+
 
 
 

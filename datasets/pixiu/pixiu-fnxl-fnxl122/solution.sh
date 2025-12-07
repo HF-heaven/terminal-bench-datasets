@@ -26,7 +26,7 @@ non:O
 cash:O
 charge:O
 of:O
-\$:O
+$:O
 112.5:B-TaxCutsAndJobsActOf2017IncomeTaxExpenseBenefit
 million:O
 to:O
@@ -40,7 +40,7 @@ a:O
 provisional:O
 estimate:O
 of:O
-\$:O
+$:O
 111.2:B-TaxCutsAndJobsActOf2017IncomeTaxExpenseBenefit
 million:O
 recorded:O
@@ -52,7 +52,7 @@ quarter:O
 and:O
 an:O
 additional:O
-\$:O
+$:O
 1.3:B-TaxCutsAndJobsActOf2017IncomeTaxExpenseBenefit
 million:O
 charge:O
@@ -62,6 +62,7 @@ the:O
 fourth:O
 quarter:O
 .:O" > answer.txt
+
 
 
 

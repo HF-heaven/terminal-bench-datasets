@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "LiveXLive's \"Music Lives ON\" Weekly Festival Announces Upcoming Lineup Including Jeremih And Swae Lee"
+EXPECTED_LABEL = "LiveXLive's "Music Lives ON" Weekly Festival Announces Upcoming Lineup Including Jeremih And Swae Lee"
 ALLOWED_CHOICES = ["LiveXLive's \"Music Lives ON\" Weekly Festival Announces Upcoming Lineup Including Jeremih And Swae Lee"]
 PIXIU_ID = "edtsum1509"
 LABEL_TYPE = "abstractive summary"

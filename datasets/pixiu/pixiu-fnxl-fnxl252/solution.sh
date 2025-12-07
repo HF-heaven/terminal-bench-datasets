@@ -6,7 +6,7 @@ printf "%s\n" "The:O
 Company:O
 recorded:O
 a:O
-\$:O
+$:O
 7.1:B-CumulativeEffectOfNewAccountingPrincipleInPeriodOfAdoption
 reduction:O
 to:O
@@ -40,6 +40,7 @@ date:O
 of:O
 adoption:O
 .:O" > answer.txt
+
 
 
 

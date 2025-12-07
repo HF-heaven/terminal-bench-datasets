@@ -23,7 +23,7 @@ December31:O
 2020:O
 was:O
 approximately:O
-\$:O
+$:O
 289:B-IndefiniteLivedIntangibleAssetsExcludingGoodwill
 million:O
 ,:O
@@ -32,6 +32,7 @@ represents:O
 fair:O
 value:O
 .:O" > answer.txt
+
 
 
 

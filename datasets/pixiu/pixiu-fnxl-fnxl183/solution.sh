@@ -19,7 +19,7 @@ January31:O
 ,:O
 2020:O
 was:O
-\$:O
+$:O
 33:B-DeferredCompensationArrangementWithIndividualCompensationExpense
 million:O
 ,:O
@@ -35,6 +35,7 @@ February1:O
 ,:O
 2019:O
 .:O" > answer.txt
+
 
 
 

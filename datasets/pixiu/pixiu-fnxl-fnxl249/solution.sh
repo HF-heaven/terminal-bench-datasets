@@ -6,7 +6,7 @@ printf "%s\n" "The:O
 Company:O
 incurred:O
 approximately:O
-\$:O
+$:O
 0.2:B-DeferredFinanceCostsNet
 million:O
 of:O
@@ -30,6 +30,7 @@ from:O
 the:O
 liability:O
 .:O" > answer.txt
+
 
 
 

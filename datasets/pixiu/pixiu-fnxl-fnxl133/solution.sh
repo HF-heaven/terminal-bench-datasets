@@ -8,7 +8,7 @@ recorded:O
 a:O
 gain:O
 of:O
-\$:O
+$:O
 3.2:B-DerivativeGainLossOnDerivativeNet
 million:O
 on:O
@@ -47,6 +47,7 @@ statements:O
 of:O
 operations:O
 .:O" > answer.txt
+
 
 
 

@@ -7,13 +7,13 @@ Company:O
 interest:O
 payments:O
 were:O
-\$:O
+$:O
 616:B-InterestPaid
 ,:O
-\$:O
+$:O
 527:B-InterestPaid
 and:O
-\$:O
+$:O
 523:B-InterestPaid
 for:O
 the:O
@@ -30,6 +30,7 @@ and:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

@@ -6,3 +6,4 @@ printf "%s\n" "Vistra Updates Financial Impact of Winter Storm Uri and Reissues 
 
 
 
+

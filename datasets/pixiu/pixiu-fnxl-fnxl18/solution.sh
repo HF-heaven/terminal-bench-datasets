@@ -37,7 +37,7 @@ Automotive:O
 Group:O
 LLC:O
 for:O
-\$:O
+$:O
 2:B-DisposalGroupIncludingDiscontinuedOperationConsideration
 ,:O
 which:O
@@ -46,7 +46,7 @@ in:O
 a:O
 loss:O
 of:O
-\$:O
+$:O
 43:O
 recorded:O
 in:O
@@ -61,6 +61,7 @@ of:O
 Consolidated:O
 Operations:O
 .:O" > answer.txt
+
 
 
 

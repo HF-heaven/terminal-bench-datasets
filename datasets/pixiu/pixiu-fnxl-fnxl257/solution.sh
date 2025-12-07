@@ -16,15 +16,15 @@ and:O
 HP:O
 had:O
 accrued:O
-\$:O
+$:O
 34:B-IncomeTaxExaminationPenaltiesAndInterestAccrued
 million:O
 ,:O
-\$:O
+$:O
 56:B-IncomeTaxExaminationPenaltiesAndInterestAccrued
 million:O
 and:O
-\$:O
+$:O
 160:B-IncomeTaxExaminationPenaltiesAndInterestAccrued
 million:O
 ,:O
@@ -35,6 +35,7 @@ interest:O
 and:O
 penalties:O
 .:O" > answer.txt
+
 
 
 

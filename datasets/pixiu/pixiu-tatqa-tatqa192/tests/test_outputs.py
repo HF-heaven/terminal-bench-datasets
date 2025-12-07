@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "Includes deferred initial direct costs which are eliminated in IBM\u2019s consolidated results."
+EXPECTED_LABEL = "Includes deferred initial direct costs which are eliminated in IBM’s consolidated results."
 ALLOWED_CHOICES = ["Includes deferred initial direct costs which are eliminated in IBM’s consolidated results."]
 PIXIU_ID = "tatqa192"
 LABEL_TYPE = "text answer"

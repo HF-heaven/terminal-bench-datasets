@@ -5,7 +5,24 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: fnxl129
     • Task type: token labels
-    • Allowed labels: As:O | such:O | ,:O | the:O | Company:O | recorded:O | severance:O | benefits:O | charges:O | of:O | $:O | 1.4:B-SeveranceCosts1 | million:O | in:O | the:O | fourth:O | quarter:O | .:O
+    • Allowed labels: As:O
+such:O
+,:O
+the:O
+Company:O
+recorded:O
+severance:O
+benefits:O
+charges:O
+of:O
+$:O
+1.4:B-SeveranceCosts1
+million:O
+in:O
+the:O
+fourth:O
+quarter:O
+.:O
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

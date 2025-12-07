@@ -5,7 +5,9 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: tatqa1022
     • Task type: text answer
-    • Allowed labels: Property, plant and equipment, primarily due to depreciation differences | Goodwill and other intangible assets | Other
+    • Allowed labels: Property, plant and equipment, primarily due to depreciation differences
+Goodwill and other intangible assets
+Other
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

@@ -20,11 +20,11 @@ these:O
 unbilled:O
 receivables:O
 were:O
-\$:O
+$:O
 1.2:B-ContractWithCustomerAssetNet
 billion:O
 and:O
-\$:O
+$:O
 860:B-ContractWithCustomerAssetNet
 million:O
 ,:O
@@ -41,6 +41,7 @@ and:O
 other:O
 assets:O
 .:O" > answer.txt
+
 
 
 

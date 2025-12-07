@@ -8,11 +8,11 @@ unamortized:O
 basis:O
 difference:O
 was:O
-\$:O
+$:O
 203:B-EquityMethodInvestmentDifferenceBetweenCarryingAmountAndUnderlyingEquity
 million:O
 and:O
-\$:O
+$:O
 396:B-EquityMethodInvestmentDifferenceBetweenCarryingAmountAndUnderlyingEquity
 million:O
 as:O
@@ -25,6 +25,7 @@ and:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

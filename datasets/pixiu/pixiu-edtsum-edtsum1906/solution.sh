@@ -6,3 +6,4 @@ printf "%s\n" "Resolute Reports Preliminary Third Quarter 2020 Results" > answer
 
 
 
+

@@ -15,7 +15,7 @@ common:O
 stock:O
 resulting:O
 in:O
-\$:O
+$:O
 97.4:B-ProceedsFromIssuanceOfCommonStock
 million:O
 in:O
@@ -25,7 +25,7 @@ proceeds:O
 this:O
 amount:O
 excludes:O
-\$:O
+$:O
 0.5million:O
 received:O
 in:O
@@ -51,6 +51,7 @@ Issuance:O
 Sales:O
 Agreement:O
 .:O" > answer.txt
+
 
 
 

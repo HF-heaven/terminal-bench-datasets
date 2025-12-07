@@ -12,10 +12,10 @@ recognized:O
 investment:O
 impairments:O
 of:O
-\$:O
+$:O
 33:B-EquityMethodInvestmentOtherThanTemporaryImpairment
 and:O
-\$:O
+$:O
 9:O
 for:O
 other:O
@@ -39,6 +39,7 @@ investment:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

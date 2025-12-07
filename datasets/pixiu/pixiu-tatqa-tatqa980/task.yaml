@@ -5,7 +5,10 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: tatqa980
     • Task type: text answer
-    • Allowed labels: Land and improvements | Buildings and improvements | Machinery and equipment | Construction in process
+    • Allowed labels: Land and improvements
+Buildings and improvements
+Machinery and equipment
+Construction in process
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

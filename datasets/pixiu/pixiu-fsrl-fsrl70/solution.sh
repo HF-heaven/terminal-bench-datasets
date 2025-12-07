@@ -8,7 +8,7 @@ debt:B-QUANT
 remained:O
 at:O
 the:O
-\$:B-VALUE
+$:B-VALUE
 1.22:I-VALUE
 billion:I-VALUE
 that:O
@@ -22,7 +22,7 @@ although:O
 that:O
 compared:O
 with:O
-\$:B-VALUE
+$:B-VALUE
 911:I-VALUE
 million:I-VALUE
 at:O
@@ -31,6 +31,7 @@ Sept.:B-TIME
 ,:I-TIME
 1988:I-TIME
 .:O" > answer.txt
+
 
 
 

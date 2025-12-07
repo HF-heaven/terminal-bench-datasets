@@ -6,3 +6,4 @@ printf "%s\n" "The Global Concentrated Solar Power Market is expected to grow fr
 
 
 
+

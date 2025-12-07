@@ -5,7 +5,10 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: tatqa428
     • Task type: text answer
-    • Allowed labels: UK | USA | Germany | Other countries
+    • Allowed labels: UK
+USA
+Germany
+Other countries
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

@@ -16,7 +16,7 @@ foreign:O
 exchange:O
 gain:O
 was:O
-\$:O
+$:O
 0.2:B-ForeignCurrencyTransactionGainLossRealized
 million:O
 and:O
@@ -36,6 +36,7 @@ expense:O
 ,:O
 net:O
 .:O" > answer.txt
+
 
 
 

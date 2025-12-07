@@ -14,7 +14,7 @@ Mae:I-THEME
 Remic:B-QUANT
 issuance:I-QUANT
 to:O
-\$:B-VALUE
+$:B-VALUE
 32.4:I-VALUE
 billion:I-VALUE
 and:O
@@ -23,7 +23,7 @@ total:B-QUANT
 Remic:I-QUANT
 volume:I-QUANT
 to:O
-\$:B-VALUE
+$:B-VALUE
 44.5:I-VALUE
 billion:I-VALUE
 since:B-TIME
@@ -34,6 +34,7 @@ in:I-TIME
 April:I-TIME
 1987:I-TIME
 .:O" > answer.txt
+
 
 
 

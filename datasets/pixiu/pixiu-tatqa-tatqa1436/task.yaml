@@ -5,7 +5,11 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: tatqa1436
     • Task type: text answer
-    • Allowed labels: Sterling | Euro | US Dollar | Renminbi | Other
+    • Allowed labels: Sterling
+Euro
+US Dollar
+Renminbi
+Other
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

@@ -21,15 +21,15 @@ not:O
 yet:O
 paid:O
 of:O
-\$:O
+$:O
 214.9:B-CapitalExpendituresIncurredButNotYetPaid
 million:O
 ,:O
-\$:O
+$:O
 221.0:B-CapitalExpendituresIncurredButNotYetPaid
 million:O
 and:O
-\$:O
+$:O
 231.7:B-CapitalExpendituresIncurredButNotYetPaid
 million:O
 during:O
@@ -41,6 +41,7 @@ and:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "\"Promotion on Cloud\" Events Call for Global Attendance at the 128th Canton Fair USA - English Latin America - espaol Brazil - Portugus"
+EXPECTED_LABEL = ""Promotion on Cloud" Events Call for Global Attendance at the 128th Canton Fair USA - English Latin America - espaol Brazil - Portugus"
 ALLOWED_CHOICES = ["\"Promotion on Cloud\" Events Call for Global Attendance at the 128th Canton Fair USA - English Latin America - espaol Brazil - Portugus"]
 PIXIU_ID = "edtsum1699"
 LABEL_TYPE = "abstractive summary"

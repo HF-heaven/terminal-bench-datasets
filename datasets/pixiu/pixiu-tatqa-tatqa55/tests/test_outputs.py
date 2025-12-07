@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-EXPECTED_LABEL = "below under \u201cSegment Results.\u201d"
+EXPECTED_LABEL = "below under “Segment Results.”"
 ALLOWED_CHOICES = ["below under “Segment Results.”"]
 PIXIU_ID = "tatqa55"
 LABEL_TYPE = "text answer"

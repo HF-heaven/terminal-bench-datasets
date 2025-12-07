@@ -6,3 +6,4 @@ printf "%s\n" "Special Opportunities Fund, Inc. Dividend Declaration" > answer.t
 
 
 
+

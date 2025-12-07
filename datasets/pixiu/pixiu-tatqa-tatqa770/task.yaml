@@ -5,7 +5,9 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: tatqa770
     • Task type: text answer
-    • Allowed labels: Americas | EMEA | APJ
+    • Allowed labels: Americas
+EMEA
+APJ
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

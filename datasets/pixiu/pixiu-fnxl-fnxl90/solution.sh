@@ -14,7 +14,7 @@ goodwill:O
 impairment:O
 charge:O
 of:O
-\$:O
+$:O
 210.7:O
 million:O
 related:O
@@ -29,7 +29,7 @@ an:O
 impairment:O
 charge:O
 of:O
-\$:O
+$:O
 267.0:B-ImpairmentOfIntangibleAssetsIndefinitelivedExcludingGoodwill
 million:O
 related:O
@@ -42,6 +42,7 @@ indefinite:O
 lived:O
 brand:O
 .:O" > answer.txt
+
 
 
 

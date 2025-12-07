@@ -19,11 +19,11 @@ and:O
 other:O
 debt:O
 was:O
-\$:O
+$:O
 3.9:B-DebtInstrumentFairValue
 billion:O
 and:O
-\$:O
+$:O
 3.0:B-DebtInstrumentFairValue
 billion:O
 at:O
@@ -35,6 +35,7 @@ and:O
 ,:O
 respectively:O
 .:O" > answer.txt
+
 
 
 

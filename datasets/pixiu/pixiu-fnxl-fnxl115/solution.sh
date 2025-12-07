@@ -34,7 +34,7 @@ included:O
 in:O
 Other:O
 for:O
-\$:O
+$:O
 185:B-DisposalGroupIncludingDiscontinuedOperationConsideration
 million:O
 ,:O
@@ -48,6 +48,7 @@ and:O
 working:O
 capital:O
 .:O" > answer.txt
+
 
 
 

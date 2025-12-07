@@ -11,10 +11,10 @@ have:O
 been:O
 reduced:O
 by:O
-\$:O
+$:O
 456:B-UnrecognizedTaxBenefitsInterestOnIncomeTaxesExpense
 and:O
-\$:O
+$:O
 468:B-UnrecognizedTaxBenefitsInterestOnIncomeTaxesExpense
 in:O
 2020:O
@@ -30,6 +30,7 @@ been:O
 favorably:O
 resolved:O
 .:O" > answer.txt
+
 
 
 

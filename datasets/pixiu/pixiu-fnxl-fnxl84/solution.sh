@@ -11,7 +11,7 @@ included:O
 a:O
 charge:O
 of:O
-\$:O
+$:O
 19:B-LitigationSettlementExpense
 due:O
 to:O
@@ -36,6 +36,7 @@ Company:O
 in:O
 2014:O
 .:O" > answer.txt
+
 
 
 

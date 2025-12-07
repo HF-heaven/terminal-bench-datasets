@@ -5,7 +5,8 @@ instruction: |
   Sample metadata:
     • PIXIU instance id: tatqa679
     • Task type: text answer
-    • Allowed labels: 50% | 43%
+    • Allowed labels: 50%
+43%
 
   Follow these rules exactly:
     1. Read `/tests/data/item.json` to review the prompt, answer choices, and any notes.

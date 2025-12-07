@@ -19,24 +19,25 @@ defined:O
 benefit:O
 plans:O
 was:O
-\$:O
+$:O
 144:B-DeferredCompensationArrangementWithIndividualCompensationExpense
 million:O
 during:O
 2020:O
 ,:O
-\$:O
+$:O
 110:B-DeferredCompensationArrangementWithIndividualCompensationExpense
 million:O
 during:O
 2019:O
 and:O
-\$:O
+$:O
 91:B-DeferredCompensationArrangementWithIndividualCompensationExpense
 million:O
 during:O
 2018:O
 .:O" > answer.txt
+
 
 
 
